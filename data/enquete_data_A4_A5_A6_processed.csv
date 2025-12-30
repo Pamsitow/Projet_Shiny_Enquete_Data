@@ -1,0 +1,294 @@
+id;new_poste;Y1A_genre;A4_secteur;A5_teleravail;A6_experience
+7;Data Analyst;Une femme;Banques / assurances / finances;Hybride avec en moyenne un ou deux jours de télétravail / semaine;23
+9;Data Scientist;Un homme;Prestation de services informatiques / statistiques;Distanciel complet (pas de travail sur site);15
+10;Data Scientist;NA;Administration;Hybride avec en moyenne trois ou quatre jours de télétravail / semaine;0
+11;Data Analyst;Un homme;Autre;Présentiel complet (pas ou quasiment pas de travail à distance);1
+16;Data Analyst;NA;Autre;Hybride avec en moyenne un ou deux jours de télétravail / semaine;9
+18;Data Analyst;Un homme;Enseignement / recherche;Présentiel complet (pas ou quasiment pas de travail à distance);9
+19;Data Scientist;Une femme;Industrie;Hybride avec en moyenne un ou deux jours de télétravail / semaine;5
+20;Data Analyst;NA;Marketing;Hybride avec en moyenne un ou deux jours de télétravail / semaine;3
+21;Data Analyst;Un homme;Administration;Présentiel complet (pas ou quasiment pas de travail à distance);2
+22;Data Scientist;Une femme;Autre;Hybride avec en moyenne un ou deux jours de télétravail / semaine;1
+24;Data Analyst;Une femme;Marketing;Hybride avec en moyenne un ou deux jours de télétravail / semaine;1
+25;Data Scientist;NA;Santé;Hybride avec en moyenne un ou deux jours de télétravail / semaine;5
+26;Data Engineer;NA;Prestation de services informatiques / statistiques;NA;NA
+29;Data Analyst;Un homme;Banques / assurances / finances;Hybride avec en moyenne un ou deux jours de télétravail / semaine;7
+31;Data Scientist;Un homme;Prestation de services informatiques / statistiques;Distanciel complet (pas de travail sur site);10
+39;Data Analyst;Un homme;Banques / assurances / finances;Présentiel complet (pas ou quasiment pas de travail à distance);7
+41;Data Analyst;Un homme;Transport;Hybride avec en moyenne un ou deux jours de télétravail / semaine;13
+42;Data Analyst;Un homme;Banques / assurances / finances;Présentiel complet (pas ou quasiment pas de travail à distance);0
+43;Data Scientist;Une femme;Santé;Hybride avec en moyenne trois ou quatre jours de télétravail / semaine;22
+44;Data Scientist;NA;Numérique / Web;Hybride avec en moyenne trois ou quatre jours de télétravail / semaine;6
+46;Data Analyst;Une femme;Industrie;Hybride avec en moyenne un ou deux jours de télétravail / semaine;1
+47;Data Analyst;NA;Administration;Présentiel complet (pas ou quasiment pas de travail à distance);30
+50;Data Analyst;Un homme;Administration;Présentiel complet (pas ou quasiment pas de travail à distance);0
+51;Data Analyst;Un homme;Banques / assurances / finances;Hybride avec en moyenne un ou deux jours de télétravail / semaine;5
+52;Data Analyst;Une femme;Autre;Hybride avec en moyenne un ou deux jours de télétravail / semaine;15
+54;Data Analyst;Une femme;Industrie;Hybride avec en moyenne un ou deux jours de télétravail / semaine;1
+56;Data Analyst;Une femme;Transport;Présentiel complet (pas ou quasiment pas de travail à distance);2
+57;Data Engineer;NA;Prestation de services informatiques / statistiques;Distanciel complet (pas de travail sur site);3
+58;Data Analyst;Une femme;Prestation de services informatiques / statistiques;Distanciel complet (pas de travail sur site);13
+59;Data Engineer;Un homme;Banques / assurances / finances;Hybride avec en moyenne trois ou quatre jours de télétravail / semaine;2
+60;Data Scientist;Un homme;Santé;Mon activité est trop spécifique pour distinguer télétravail et présentiel;17
+61;Data Scientist;NA;Santé;Hybride avec en moyenne un ou deux jours de télétravail / semaine;NA
+62;Data Scientist;NA;Santé;Hybride avec en moyenne un ou deux jours de télétravail / semaine;2
+63;Data Analyst;Un homme;Banques / assurances / finances;Hybride avec en moyenne un ou deux jours de télétravail / semaine;18
+65;Data Analyst;Un homme;Banques / assurances / finances;Hybride avec en moyenne un ou deux jours de télétravail / semaine;6
+66;Data Analyst;Un homme;Administration;Hybride avec en moyenne un ou deux jours de télétravail / semaine;3
+67;Data Analyst;Un homme;Enseignement / recherche;Hybride avec en moyenne un ou deux jours de télétravail / semaine;10
+69;Data Analyst;Un homme;Autre;Hybride avec en moyenne un ou deux jours de télétravail / semaine;9
+70;Data Analyst;Un homme;Enseignement / recherche;Hybride avec en moyenne un ou deux jours de télétravail / semaine;3
+73;Data Analyst;NA;Banques / assurances / finances;Hybride avec en moyenne trois ou quatre jours de télétravail / semaine;NA
+74;Data Analyst;Un homme;Banques / assurances / finances;Hybride avec en moyenne trois ou quatre jours de télétravail / semaine;9
+75;Data Engineer;Un homme;Santé;Hybride avec en moyenne un ou deux jours de télétravail / semaine;4
+76;Data Analyst;Une femme;Administration;Hybride avec en moyenne un ou deux jours de télétravail / semaine;1
+77;Data Analyst;Un homme;Enseignement / recherche;Hybride avec en moyenne un ou deux jours de télétravail / semaine;3
+79;Data Scientist;Une femme;Enseignement / recherche;Mon activité est trop spécifique pour distinguer télétravail et présentiel;5
+81;Data Engineer;Un homme;Numérique / Web;Distanciel complet (pas de travail sur site);15
+82;Data Engineer;Un homme;Prestation de services informatiques / statistiques;Hybride avec en moyenne trois ou quatre jours de télétravail / semaine;4
+83;Data Analyst;Une femme;Numérique / Web;Distanciel complet (pas de travail sur site);5
+84;Data Scientist;NA;Administration;Présentiel complet (pas ou quasiment pas de travail à distance);13
+91;Data Analyst;Une femme;Prestation de services informatiques / statistiques;Présentiel complet (pas ou quasiment pas de travail à distance);5
+92;Data Engineer;NA;Numérique / Web;Mon activité est trop spécifique pour distinguer télétravail et présentiel;10
+93;Data Analyst;Une femme;Prestation de services informatiques / statistiques;Hybride avec en moyenne un ou deux jours de télétravail / semaine;4
+94;Data Analyst;Un homme;Autre;Présentiel complet (pas ou quasiment pas de travail à distance);2
+95;Data Scientist;Un homme;Administration;Présentiel complet (pas ou quasiment pas de travail à distance);13
+96;Data Engineer;NA;Prestation de services informatiques / statistiques;Présentiel complet (pas ou quasiment pas de travail à distance);2
+97;Data Scientist;NA;Enseignement / recherche;Hybride avec en moyenne trois ou quatre jours de télétravail / semaine;28
+98;Data Scientist;NA;Prestation de services informatiques / statistiques;NA;NA
+99;Data Scientist;NA;Prestation de services informatiques / statistiques;Hybride avec en moyenne trois ou quatre jours de télétravail / semaine;2
+101;Data Engineer;Une femme;Autre;Hybride avec en moyenne un ou deux jours de télétravail / semaine;3
+104;Data Analyst;NA;Industrie;Hybride avec en moyenne un ou deux jours de télétravail / semaine;4
+105;Data Analyst;Une femme;Industrie;Hybride avec en moyenne un ou deux jours de télétravail / semaine;10
+106;Data Analyst;Un homme;Banques / assurances / finances;Présentiel complet (pas ou quasiment pas de travail à distance);3
+107;Data Analyst;NA;NA;NA;NA
+109;Data Analyst;Un homme;Autre;Hybride avec en moyenne trois ou quatre jours de télétravail / semaine;1
+110;Data Scientist;Un homme;Transport;Hybride avec en moyenne un ou deux jours de télétravail / semaine;2
+111;Data Analyst;NA;Numérique / Web;Hybride avec en moyenne trois ou quatre jours de télétravail / semaine;5
+112;Data Engineer;NA;Autre;Hybride avec en moyenne un ou deux jours de télétravail / semaine;10
+116;Data Analyst;NA;Prestation de services informatiques / statistiques;Distanciel complet (pas de travail sur site);2
+117;Data Analyst;Une femme;Autre;Distanciel complet (pas de travail sur site);2
+118;Data Analyst;NA;Industrie;Hybride avec en moyenne un ou deux jours de télétravail / semaine;3
+119;Data Analyst;Un homme;Prestation de services informatiques / statistiques;Hybride avec en moyenne un ou deux jours de télétravail / semaine;8
+122;Data Analyst;Un homme;Prestation de services informatiques / statistiques;Hybride avec en moyenne un ou deux jours de télétravail / semaine;2
+125;Data Engineer;Un homme;Banques / assurances / finances;Mon activité est trop spécifique pour distinguer télétravail et présentiel;3
+126;Data Scientist;Une femme;Santé;Hybride avec en moyenne un ou deux jours de télétravail / semaine;3
+127;Data Analyst;Une femme;Prestation de services informatiques / statistiques;Hybride avec en moyenne un ou deux jours de télétravail / semaine;2
+128;Data Engineer;Un homme;Prestation de services informatiques / statistiques;Mon activité est trop spécifique pour distinguer télétravail et présentiel;7
+129;Data Scientist;Une femme;Industrie;Hybride avec en moyenne un ou deux jours de télétravail / semaine;4
+132;Data Scientist;NA;Santé;Hybride avec en moyenne un ou deux jours de télétravail / semaine;3
+133;Data Engineer;Un homme;Banques / assurances / finances;Hybride avec en moyenne trois ou quatre jours de télétravail / semaine;5
+136;Data Analyst;Un homme;Banques / assurances / finances;Hybride avec en moyenne un ou deux jours de télétravail / semaine;3
+137;Data Scientist;Un homme;Banques / assurances / finances;Hybride avec en moyenne un ou deux jours de télétravail / semaine;2
+138;Data Scientist;Un homme;Transport;Hybride avec en moyenne un ou deux jours de télétravail / semaine;4
+139;Data Scientist;Un homme;Industrie;Présentiel complet (pas ou quasiment pas de travail à distance);2
+141;Data Analyst;Une femme;Prestation de services informatiques / statistiques;Hybride avec en moyenne trois ou quatre jours de télétravail / semaine;3
+146;Data Analyst;Un homme;Santé;Hybride avec en moyenne un ou deux jours de télétravail / semaine;2
+147;Data Scientist;Une femme;Industrie;Hybride avec en moyenne un ou deux jours de télétravail / semaine;8
+148;Data Scientist;Une femme;Santé;Hybride avec en moyenne un ou deux jours de télétravail / semaine;1
+149;Data Engineer;Une femme;Prestation de services informatiques / statistiques;Distanciel complet (pas de travail sur site);5
+150;Data Analyst;Un homme;Autre;Présentiel complet (pas ou quasiment pas de travail à distance);0
+153;Data Analyst;Un homme;Autre;Distanciel complet (pas de travail sur site);8
+154;Data Analyst;Un homme;Industrie;Hybride avec en moyenne un ou deux jours de télétravail / semaine;2
+156;Data Analyst;Une femme;Numérique / Web;Distanciel complet (pas de travail sur site);2
+158;Data Analyst;Un homme;Autre;Présentiel complet (pas ou quasiment pas de travail à distance);9
+160;Data Analyst;Un homme;Industrie;Hybride avec en moyenne un ou deux jours de télétravail / semaine;4
+162;Data Engineer;NA;Prestation de services informatiques / statistiques;Hybride avec en moyenne trois ou quatre jours de télétravail / semaine;6
+163;Data Scientist;Un homme;Transport;Hybride avec en moyenne trois ou quatre jours de télétravail / semaine;4
+167;Data Analyst;Un homme;Industrie;Présentiel complet (pas ou quasiment pas de travail à distance);3
+169;Data Scientist;Un homme;Santé;Présentiel complet (pas ou quasiment pas de travail à distance);3
+171;Data Analyst;NA;Autre;Hybride avec en moyenne un ou deux jours de télétravail / semaine;2
+173;Data Scientist;NA;Banques / assurances / finances;Hybride avec en moyenne trois ou quatre jours de télétravail / semaine;3
+175;Data Analyst;Un homme;Banques / assurances / finances;Hybride avec en moyenne trois ou quatre jours de télétravail / semaine;2
+176;Data Engineer;NA;NA;NA;NA
+177;Data Engineer;NA;Industrie;Hybride avec en moyenne un ou deux jours de télétravail / semaine;1
+178;Data Engineer;Un homme;Prestation de services informatiques / statistiques;Distanciel complet (pas de travail sur site);2
+179;Data Engineer;NA;Prestation de services informatiques / statistiques;Hybride avec en moyenne trois ou quatre jours de télétravail / semaine;3
+180;Data Analyst;Un homme;Numérique / Web;Distanciel complet (pas de travail sur site);3
+181;Data Engineer;Un homme;Industrie;Distanciel complet (pas de travail sur site);3
+182;Data Scientist;Un homme;Numérique / Web;Hybride avec en moyenne trois ou quatre jours de télétravail / semaine;6
+183;Data Engineer;Une femme;Prestation de services informatiques / statistiques;Hybride avec en moyenne trois ou quatre jours de télétravail / semaine;3
+184;Data Analyst;Une femme;Prestation de services informatiques / statistiques;Distanciel complet (pas de travail sur site);2
+185;Data Engineer;NA;NA;NA;NA
+186;Data Engineer;Une femme;Autre;Hybride avec en moyenne trois ou quatre jours de télétravail / semaine;0
+187;Data Analyst;Un homme;Autre;Hybride avec en moyenne un ou deux jours de télétravail / semaine;1
+188;Data Analyst;Un homme;Banques / assurances / finances;Présentiel complet (pas ou quasiment pas de travail à distance);1
+189;Data Scientist;Un homme;Transport;Hybride avec en moyenne un ou deux jours de télétravail / semaine;3
+190;Data Analyst;Un homme;Autre;Présentiel complet (pas ou quasiment pas de travail à distance);0
+191;Data Scientist;Un homme;Industrie;Hybride avec en moyenne trois ou quatre jours de télétravail / semaine;3
+197;Data Engineer;NA;Prestation de services informatiques / statistiques;Hybride avec en moyenne un ou deux jours de télétravail / semaine;0
+200;Data Analyst;Un homme;Autre;Présentiel complet (pas ou quasiment pas de travail à distance);2
+201;Data Engineer;Un homme;Prestation de services informatiques / statistiques;Hybride avec en moyenne un ou deux jours de télétravail / semaine;6
+202;Data Scientist;NA;Prestation de services informatiques / statistiques;Présentiel complet (pas ou quasiment pas de travail à distance);1
+204;Data Scientist;Un homme;Autre;Hybride avec en moyenne un ou deux jours de télétravail / semaine;4
+205;Data Scientist;NA;Administration;Présentiel complet (pas ou quasiment pas de travail à distance);5
+206;Data Scientist;Une femme;Banques / assurances / finances;Hybride avec en moyenne trois ou quatre jours de télétravail / semaine;1
+208;Data Analyst;Un homme;Industrie;Mon activité est trop spécifique pour distinguer télétravail et présentiel;6
+209;Data Scientist;Un homme;Administration;Présentiel complet (pas ou quasiment pas de travail à distance);5
+210;Data Scientist;Un homme;Marketing;Hybride avec en moyenne un ou deux jours de télétravail / semaine;8
+211;Data Analyst;Un homme;Autre;Distanciel complet (pas de travail sur site);0
+214;Data Analyst;Une femme;Prestation de services informatiques / statistiques;Hybride avec en moyenne un ou deux jours de télétravail / semaine;1
+215;Data Analyst;Un homme;Industrie;Hybride avec en moyenne un ou deux jours de télétravail / semaine;1
+217;Data Analyst;Un homme;Numérique / Web;Distanciel complet (pas de travail sur site);5
+221;Data Analyst;NA;Industrie;Distanciel complet (pas de travail sur site);2
+222;Data Analyst;Un homme;Banques / assurances / finances;Hybride avec en moyenne un ou deux jours de télétravail / semaine;5
+223;Data Scientist;Un homme;Banques / assurances / finances;Hybride avec en moyenne trois ou quatre jours de télétravail / semaine;4
+224;Data Engineer;Un homme;Industrie;Hybride avec en moyenne un ou deux jours de télétravail / semaine;5
+226;Data Analyst;Une femme;Banques / assurances / finances;Hybride avec en moyenne un ou deux jours de télétravail / semaine;3
+227;Data Engineer;Un homme;Autre;Présentiel complet (pas ou quasiment pas de travail à distance);4
+229;Data Scientist;Un homme;Santé;Distanciel complet (pas de travail sur site);7
+231;Data Analyst;Un homme;Prestation de services informatiques / statistiques;Hybride avec en moyenne un ou deux jours de télétravail / semaine;1
+232;Data Analyst;Un homme;Autre;Hybride avec en moyenne trois ou quatre jours de télétravail / semaine;3
+236;Data Scientist;Une femme;Enseignement / recherche;Hybride avec en moyenne un ou deux jours de télétravail / semaine;1
+237;Data Engineer;Un homme;Prestation de services informatiques / statistiques;Hybride avec en moyenne un ou deux jours de télétravail / semaine;1
+239;Data Scientist;Une femme;Santé;Hybride avec en moyenne trois ou quatre jours de télétravail / semaine;5
+241;Data Analyst;Un homme;Prestation de services informatiques / statistiques;Distanciel complet (pas de travail sur site);2
+242;Data Scientist;Un homme;Banques / assurances / finances;Distanciel complet (pas de travail sur site);6
+243;Data Scientist;Une femme;Autre;Distanciel complet (pas de travail sur site);3
+245;Data Scientist;Un homme;Industrie;Hybride avec en moyenne un ou deux jours de télétravail / semaine;2
+249;Data Engineer;Un homme;Banques / assurances / finances;Hybride avec en moyenne un ou deux jours de télétravail / semaine;1
+251;Data Analyst;Un homme;Prestation de services informatiques / statistiques;Présentiel complet (pas ou quasiment pas de travail à distance);3
+252;Data Analyst;Un homme;Administration;Hybride avec en moyenne un ou deux jours de télétravail / semaine;5
+257;Data Analyst;Un homme;Autre;Présentiel complet (pas ou quasiment pas de travail à distance);3
+258;Data Analyst;Un homme;Autre;Présentiel complet (pas ou quasiment pas de travail à distance);3
+259;Data Analyst;Un homme;Autre;Hybride avec en moyenne trois ou quatre jours de télétravail / semaine;7
+260;Data Scientist;Une femme;Autre;Hybride avec en moyenne un ou deux jours de télétravail / semaine;5
+261;Data Scientist;NA;Enseignement / recherche;Mon activité est trop spécifique pour distinguer télétravail et présentiel;33
+262;Data Analyst;Un homme;Industrie;Présentiel complet (pas ou quasiment pas de travail à distance);2
+264;Data Scientist;NA;Santé;Distanciel complet (pas de travail sur site);NA
+265;Data Scientist;Un homme;Banques / assurances / finances;Présentiel complet (pas ou quasiment pas de travail à distance);14
+266;Data Analyst;Un homme;Banques / assurances / finances;Hybride avec en moyenne trois ou quatre jours de télétravail / semaine;6
+267;Data Scientist;Une femme;Autre;Hybride avec en moyenne un ou deux jours de télétravail / semaine;5
+268;Data Analyst;NA;Autre;Hybride avec en moyenne un ou deux jours de télétravail / semaine;1
+269;Data Analyst;Un homme;Numérique / Web;Hybride avec en moyenne un ou deux jours de télétravail / semaine;1
+271;Data Analyst;Une femme;Prestation de services informatiques / statistiques;Hybride avec en moyenne un ou deux jours de télétravail / semaine;5
+274;Data Analyst;Un homme;Industrie;Hybride avec en moyenne un ou deux jours de télétravail / semaine;1
+275;Data Scientist;Une femme;Santé;Hybride avec en moyenne un ou deux jours de télétravail / semaine;4
+277;Data Scientist;Une femme;Banques / assurances / finances;Présentiel complet (pas ou quasiment pas de travail à distance);0
+278;Data Analyst;Une femme;Prestation de services informatiques / statistiques;Hybride avec en moyenne un ou deux jours de télétravail / semaine;2
+279;Data Analyst;Une femme;Marketing;Hybride avec en moyenne trois ou quatre jours de télétravail / semaine;2
+280;Data Analyst;Un homme;Autre;Hybride avec en moyenne un ou deux jours de télétravail / semaine;3
+281;Data Engineer;Une femme;Prestation de services informatiques / statistiques;Hybride avec en moyenne trois ou quatre jours de télétravail / semaine;2
+283;Data Analyst;NA;Autre;Hybride avec en moyenne un ou deux jours de télétravail / semaine;2
+285;Data Analyst;Un homme;Industrie;Présentiel complet (pas ou quasiment pas de travail à distance);1
+289;Data Scientist;Un homme;Numérique / Web;Hybride avec en moyenne un ou deux jours de télétravail / semaine;3
+290;Data Analyst;NA;Autre;Hybride avec en moyenne un ou deux jours de télétravail / semaine;11
+297;Data Scientist;Un homme;Banques / assurances / finances;Présentiel complet (pas ou quasiment pas de travail à distance);2
+298;Data Analyst;Une femme;Transport;Hybride avec en moyenne trois ou quatre jours de télétravail / semaine;3
+302;Data Analyst;Une femme;Administration;Hybride avec en moyenne un ou deux jours de télétravail / semaine;7
+303;Data Scientist;Un homme;Autre;Hybride avec en moyenne un ou deux jours de télétravail / semaine;3
+305;Data Scientist;NA;Banques / assurances / finances;Hybride avec en moyenne trois ou quatre jours de télétravail / semaine;2
+306;Data Scientist;Un homme;Santé;Hybride avec en moyenne un ou deux jours de télétravail / semaine;10
+308;Data Analyst;Un homme;Banques / assurances / finances;Hybride avec en moyenne trois ou quatre jours de télétravail / semaine;4
+313;Data Analyst;Un homme;Banques / assurances / finances;Présentiel complet (pas ou quasiment pas de travail à distance);2
+315;Data Scientist;Un homme;Banques / assurances / finances;Hybride avec en moyenne trois ou quatre jours de télétravail / semaine;3
+316;Data Engineer;Une femme;Industrie;Hybride avec en moyenne trois ou quatre jours de télétravail / semaine;0
+317;Data Scientist;Une femme;Santé;Hybride avec en moyenne un ou deux jours de télétravail / semaine;3
+318;Data Scientist;Un homme;Autre;Distanciel complet (pas de travail sur site);4
+319;Data Scientist;Un homme;Autre;Hybride avec en moyenne un ou deux jours de télétravail / semaine;8
+320;Data Engineer;Un homme;Autre;Hybride avec en moyenne un ou deux jours de télétravail / semaine;3
+322;Data Engineer;Un homme;Industrie;Hybride avec en moyenne un ou deux jours de télétravail / semaine;1
+323;Data Engineer;Un homme;Industrie;Hybride avec en moyenne un ou deux jours de télétravail / semaine;2
+325;Data Analyst;Un homme;Prestation de services informatiques / statistiques;Hybride avec en moyenne un ou deux jours de télétravail / semaine;8
+326;Data Scientist;Une femme;Administration;Hybride avec en moyenne un ou deux jours de télétravail / semaine;2
+327;Data Engineer;Un homme;Industrie;Hybride avec en moyenne un ou deux jours de télétravail / semaine;5
+328;Data Analyst;NA;Banques / assurances / finances;Hybride avec en moyenne un ou deux jours de télétravail / semaine;0
+330;Data Scientist;NA;Autre;Mon activité est trop spécifique pour distinguer télétravail et présentiel;1
+331;Data Scientist;Une femme;Santé;Distanciel complet (pas de travail sur site);5
+332;Data Analyst;Un homme;Industrie;Présentiel complet (pas ou quasiment pas de travail à distance);3
+333;Data Scientist;Une femme;Prestation de services informatiques / statistiques;Hybride avec en moyenne trois ou quatre jours de télétravail / semaine;5
+335;Data Scientist;Un homme;Autre;Distanciel complet (pas de travail sur site);6
+339;Data Analyst;Un homme;Banques / assurances / finances;Présentiel complet (pas ou quasiment pas de travail à distance);2
+340;Data Engineer;Un homme;Banques / assurances / finances;Hybride avec en moyenne trois ou quatre jours de télétravail / semaine;3
+341;Data Analyst;NA;Prestation de services informatiques / statistiques;Présentiel complet (pas ou quasiment pas de travail à distance);3
+342;Data Scientist;NA;Transport;Hybride avec en moyenne un ou deux jours de télétravail / semaine;1
+345;Data Scientist;NA;Banques / assurances / finances;Hybride avec en moyenne trois ou quatre jours de télétravail / semaine;2
+346;Data Analyst;NA;Transport;Présentiel complet (pas ou quasiment pas de travail à distance);1
+347;Data Analyst;Une femme;Autre;Hybride avec en moyenne un ou deux jours de télétravail / semaine;3
+348;Data Analyst;NA;Banques / assurances / finances;Hybride avec en moyenne un ou deux jours de télétravail / semaine;5
+349;Data Analyst;Un homme;Autre;Hybride avec en moyenne un ou deux jours de télétravail / semaine;5
+350;Data Analyst;Un homme;Enseignement / recherche;Hybride avec en moyenne trois ou quatre jours de télétravail / semaine;2
+351;Data Analyst;Un homme;Enseignement / recherche;Hybride avec en moyenne trois ou quatre jours de télétravail / semaine;5
+353;Data Engineer;Un homme;Autre;Hybride avec en moyenne trois ou quatre jours de télétravail / semaine;0
+354;Data Analyst;NA;Banques / assurances / finances;Hybride avec en moyenne trois ou quatre jours de télétravail / semaine;7
+356;Data Analyst;Un homme;Banques / assurances / finances;Hybride avec en moyenne trois ou quatre jours de télétravail / semaine;2
+362;Data Analyst;Une femme;Autre;Distanciel complet (pas de travail sur site);8
+364;Data Scientist;Un homme;Transport;Hybride avec en moyenne un ou deux jours de télétravail / semaine;10
+365;Data Scientist;Un homme;Prestation de services informatiques / statistiques;Hybride avec en moyenne un ou deux jours de télétravail / semaine;15
+367;Data Analyst;Un homme;Numérique / Web;Hybride avec en moyenne trois ou quatre jours de télétravail / semaine;3
+369;Data Scientist;Un homme;Santé;Hybride avec en moyenne un ou deux jours de télétravail / semaine;12
+370;Data Engineer;Une femme;Santé;Hybride avec en moyenne trois ou quatre jours de télétravail / semaine;2
+371;Data Engineer;Un homme;Prestation de services informatiques / statistiques;Hybride avec en moyenne un ou deux jours de télétravail / semaine;4
+372;Data Scientist;Un homme;Marketing;Hybride avec en moyenne un ou deux jours de télétravail / semaine;3
+373;Data Analyst;NA;Autre;Hybride avec en moyenne un ou deux jours de télétravail / semaine;4
+374;Data Analyst;NA;NA;NA;NA
+375;Data Scientist;Une femme;Prestation de services informatiques / statistiques;Hybride avec en moyenne trois ou quatre jours de télétravail / semaine;5
+376;Data Scientist;Un homme;Santé;Distanciel complet (pas de travail sur site);9
+377;Data Analyst;NA;Autre;Hybride avec en moyenne un ou deux jours de télétravail / semaine;4
+378;Data Analyst;Une femme;Banques / assurances / finances;Hybride avec en moyenne un ou deux jours de télétravail / semaine;3
+379;Data Analyst;Une femme;Autre;Hybride avec en moyenne un ou deux jours de télétravail / semaine;4
+380;Data Engineer;Une femme;Prestation de services informatiques / statistiques;Hybride avec en moyenne trois ou quatre jours de télétravail / semaine;2
+381;Data Analyst;NA;Administration;Hybride avec en moyenne trois ou quatre jours de télétravail / semaine;11
+382;Data Engineer;Une femme;Prestation de services informatiques / statistiques;Hybride avec en moyenne trois ou quatre jours de télétravail / semaine;7
+383;Data Analyst;NA;Marketing;Hybride avec en moyenne un ou deux jours de télétravail / semaine;3
+384;Data Analyst;NA;Prestation de services informatiques / statistiques;Hybride avec en moyenne trois ou quatre jours de télétravail / semaine;2
+385;Data Analyst;Un homme;Numérique / Web;Hybride avec en moyenne un ou deux jours de télétravail / semaine;1
+386;Data Scientist;Un homme;Autre;Hybride avec en moyenne un ou deux jours de télétravail / semaine;1
+390;Data Analyst;Un homme;Autre;Hybride avec en moyenne trois ou quatre jours de télétravail / semaine;11
+391;Data Scientist;Un homme;Santé;Hybride avec en moyenne trois ou quatre jours de télétravail / semaine;10
+392;Data Analyst;Une femme;Autre;Distanciel complet (pas de travail sur site);25
+393;Data Analyst;Un homme;Industrie;Hybride avec en moyenne un ou deux jours de télétravail / semaine;5
+398;Data Analyst;Une femme;Autre;Hybride avec en moyenne un ou deux jours de télétravail / semaine;2
+400;Data Scientist;NA;Industrie;Hybride avec en moyenne un ou deux jours de télétravail / semaine;3
+401;Data Analyst;Une femme;Banques / assurances / finances;Hybride avec en moyenne un ou deux jours de télétravail / semaine;4
+402;Data Engineer;Une femme;Administration;Hybride avec en moyenne un ou deux jours de télétravail / semaine;20
+403;Data Scientist;Un homme;Administration;Hybride avec en moyenne un ou deux jours de télétravail / semaine;5
+406;Data Analyst;NA;Prestation de services informatiques / statistiques;Hybride avec en moyenne un ou deux jours de télétravail / semaine;2
+407;Data Analyst;Un homme;Banques / assurances / finances;Hybride avec en moyenne trois ou quatre jours de télétravail / semaine;3
+409;Data Analyst;Un homme;Marketing;Distanciel complet (pas de travail sur site);1
+410;Data Analyst;Une femme;Autre;Présentiel complet (pas ou quasiment pas de travail à distance);0
+413;Data Analyst;Un homme;Prestation de services informatiques / statistiques;Distanciel complet (pas de travail sur site);12
+419;Data Analyst;Un homme;Enseignement / recherche;Présentiel complet (pas ou quasiment pas de travail à distance);10
+422;Data Scientist;NA;Industrie;Hybride avec en moyenne un ou deux jours de télétravail / semaine;5
+424;Data Analyst;Un homme;Prestation de services informatiques / statistiques;Présentiel complet (pas ou quasiment pas de travail à distance);1
+425;Data Analyst;Un homme;Banques / assurances / finances;Hybride avec en moyenne un ou deux jours de télétravail / semaine;1
+427;Data Scientist;Une femme;Santé;Distanciel complet (pas de travail sur site);2
+429;Data Analyst;Un homme;Autre;Distanciel complet (pas de travail sur site);1
+432;Data Scientist;Une femme;Autre;Présentiel complet (pas ou quasiment pas de travail à distance);2
+433;Data Engineer;NA;Autre;Hybride avec en moyenne un ou deux jours de télétravail / semaine;2
+434;Data Analyst;Un homme;Banques / assurances / finances;Hybride avec en moyenne un ou deux jours de télétravail / semaine;7
+435;Data Scientist;Un homme;Transport;Hybride avec en moyenne un ou deux jours de télétravail / semaine;1
+438;Data Scientist;Un homme;Banques / assurances / finances;Hybride avec en moyenne trois ou quatre jours de télétravail / semaine;14
+440;Data Engineer;NA;Prestation de services informatiques / statistiques;Hybride avec en moyenne un ou deux jours de télétravail / semaine;4
+441;Data Scientist;Un homme;Administration;Hybride avec en moyenne un ou deux jours de télétravail / semaine;20
+444;Data Scientist;NA;Industrie;Hybride avec en moyenne un ou deux jours de télétravail / semaine;2
+445;Data Scientist;Un homme;Banques / assurances / finances;Hybride avec en moyenne un ou deux jours de télétravail / semaine;4
+446;Data Analyst;Un homme;Banques / assurances / finances;Hybride avec en moyenne un ou deux jours de télétravail / semaine;10
+449;Data Analyst;Une femme;Prestation de services informatiques / statistiques;Hybride avec en moyenne un ou deux jours de télétravail / semaine;8
+450;Data Analyst;Une femme;Prestation de services informatiques / statistiques;Hybride avec en moyenne un ou deux jours de télétravail / semaine;3
+451;Data Analyst;NA;Transport;Hybride avec en moyenne trois ou quatre jours de télétravail / semaine;4
+458;Data Scientist;Un homme;Prestation de services informatiques / statistiques;Hybride avec en moyenne trois ou quatre jours de télétravail / semaine;2
+459;Data Scientist;NA;Banques / assurances / finances;Hybride avec en moyenne un ou deux jours de télétravail / semaine;17
+460;Data Scientist;Une femme;Banques / assurances / finances;Hybride avec en moyenne un ou deux jours de télétravail / semaine;18
+461;Data Scientist;Un homme;Autre;Présentiel complet (pas ou quasiment pas de travail à distance);0
+463;Data Analyst;NA;Autre;Hybride avec en moyenne un ou deux jours de télétravail / semaine;2
+464;Data Analyst;Un homme;Autre;Hybride avec en moyenne un ou deux jours de télétravail / semaine;2
+465;Data Scientist;Un homme;Autre;Hybride avec en moyenne trois ou quatre jours de télétravail / semaine;8
+467;Data Analyst;Une femme;Marketing;Présentiel complet (pas ou quasiment pas de travail à distance);3
+469;Data Engineer;Un homme;Autre;Hybride avec en moyenne trois ou quatre jours de télétravail / semaine;2
+470;Data Scientist;Un homme;Autre;Mon activité est trop spécifique pour distinguer télétravail et présentiel;2
+472;Data Analyst;Un homme;Autre;Hybride avec en moyenne un ou deux jours de télétravail / semaine;2
+473;Data Engineer;Un homme;Marketing;Hybride avec en moyenne trois ou quatre jours de télétravail / semaine;3
+474;Data Analyst;Un homme;Administration;Hybride avec en moyenne un ou deux jours de télétravail / semaine;3
+476;Data Engineer;NA;Banques / assurances / finances;Présentiel complet (pas ou quasiment pas de travail à distance);6
+477;Data Scientist;Une femme;Santé;Distanciel complet (pas de travail sur site);10
+480;Data Analyst;NA;Prestation de services informatiques / statistiques;Hybride avec en moyenne un ou deux jours de télétravail / semaine;NA
+482;Data Analyst;Un homme;Prestation de services informatiques / statistiques;Hybride avec en moyenne un ou deux jours de télétravail / semaine;2
+483;Data Scientist;NA;Industrie;Hybride avec en moyenne trois ou quatre jours de télétravail / semaine;1
+485;Data Scientist;Une femme;Santé;Hybride avec en moyenne un ou deux jours de télétravail / semaine;5
+486;Data Analyst;Une femme;Marketing;Présentiel complet (pas ou quasiment pas de travail à distance);1
+487;Data Analyst;Une femme;Autre;Hybride avec en moyenne un ou deux jours de télétravail / semaine;3
+492;Data Analyst;Une femme;Prestation de services informatiques / statistiques;Hybride avec en moyenne un ou deux jours de télétravail / semaine;10
+493;Data Analyst;Un homme;Prestation de services informatiques / statistiques;Distanciel complet (pas de travail sur site);5
+494;Data Scientist;Un homme;Santé;Hybride avec en moyenne un ou deux jours de télétravail / semaine;4
+495;Data Scientist;NA;Industrie;Distanciel complet (pas de travail sur site);5

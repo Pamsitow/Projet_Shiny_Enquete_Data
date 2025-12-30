@@ -1,0 +1,3810 @@
+id;new_poste;Y1A_genre;Outil;Frequence
+7;Data Analyst;Une femme;python;Jamais
+7;Data Analyst;Une femme;r;Jamais
+7;Data Analyst;Une femme;sas;Régulièrement
+7;Data Analyst;Une femme;powerBI;Occasionnellement
+7;Data Analyst;Une femme;tableau;Jamais
+7;Data Analyst;Une femme;qlik;Jamais
+7;Data Analyst;Une femme;excel;Régulièrement
+7;Data Analyst;Une femme;sql;Régulièrement
+7;Data Analyst;Une femme;spark;Jamais
+7;Data Analyst;Une femme;spss;Jamais
+7;Data Analyst;Une femme;c_java;Jamais
+7;Data Analyst;Une femme;datastudio;Jamais
+7;Data Analyst;Une femme;matlab;Jamais
+9;Data Scientist;Un homme;python;Régulièrement
+9;Data Scientist;Un homme;r;Régulièrement
+9;Data Scientist;Un homme;sas;Jamais
+9;Data Scientist;Un homme;powerBI;Jamais
+9;Data Scientist;Un homme;tableau;Jamais
+9;Data Scientist;Un homme;qlik;Jamais
+9;Data Scientist;Un homme;excel;Régulièrement
+9;Data Scientist;Un homme;sql;Occasionnellement
+9;Data Scientist;Un homme;spark;Jamais
+9;Data Scientist;Un homme;spss;Jamais
+9;Data Scientist;Un homme;c_java;Jamais
+9;Data Scientist;Un homme;datastudio;Jamais
+9;Data Scientist;Un homme;matlab;Jamais
+10;Data Scientist;NA;python;Jamais
+10;Data Scientist;NA;r;Jamais
+10;Data Scientist;NA;sas;Jamais
+10;Data Scientist;NA;powerBI;Jamais
+10;Data Scientist;NA;tableau;Jamais
+10;Data Scientist;NA;qlik;Jamais
+10;Data Scientist;NA;excel;Jamais
+10;Data Scientist;NA;sql;Jamais
+10;Data Scientist;NA;spark;Jamais
+10;Data Scientist;NA;spss;Jamais
+10;Data Scientist;NA;c_java;Jamais
+10;Data Scientist;NA;datastudio;Jamais
+10;Data Scientist;NA;matlab;Jamais
+11;Data Analyst;Un homme;python;Jamais
+11;Data Analyst;Un homme;r;Jamais
+11;Data Analyst;Un homme;sas;Jamais
+11;Data Analyst;Un homme;powerBI;Jamais
+11;Data Analyst;Un homme;tableau;Jamais
+11;Data Analyst;Un homme;qlik;Jamais
+11;Data Analyst;Un homme;excel;Régulièrement
+11;Data Analyst;Un homme;sql;Jamais
+11;Data Analyst;Un homme;spark;Jamais
+11;Data Analyst;Un homme;spss;Jamais
+11;Data Analyst;Un homme;c_java;Jamais
+11;Data Analyst;Un homme;datastudio;Jamais
+11;Data Analyst;Un homme;matlab;Jamais
+16;Data Analyst;NA;python;Jamais
+16;Data Analyst;NA;r;Jamais
+16;Data Analyst;NA;sas;Jamais
+16;Data Analyst;NA;powerBI;Jamais
+16;Data Analyst;NA;tableau;Régulièrement
+16;Data Analyst;NA;qlik;Jamais
+16;Data Analyst;NA;excel;Jamais
+16;Data Analyst;NA;sql;Jamais
+16;Data Analyst;NA;spark;Jamais
+16;Data Analyst;NA;spss;Jamais
+16;Data Analyst;NA;c_java;Jamais
+16;Data Analyst;NA;datastudio;Jamais
+16;Data Analyst;NA;matlab;Jamais
+18;Data Analyst;Un homme;python;Jamais
+18;Data Analyst;Un homme;r;Occasionnellement
+18;Data Analyst;Un homme;sas;Jamais
+18;Data Analyst;Un homme;powerBI;Jamais
+18;Data Analyst;Un homme;tableau;Jamais
+18;Data Analyst;Un homme;qlik;Jamais
+18;Data Analyst;Un homme;excel;Régulièrement
+18;Data Analyst;Un homme;sql;Jamais
+18;Data Analyst;Un homme;spark;Jamais
+18;Data Analyst;Un homme;spss;Occasionnellement
+18;Data Analyst;Un homme;c_java;Jamais
+18;Data Analyst;Un homme;datastudio;Jamais
+18;Data Analyst;Un homme;matlab;Jamais
+19;Data Scientist;Une femme;python;Régulièrement
+19;Data Scientist;Une femme;r;Jamais
+19;Data Scientist;Une femme;sas;Jamais
+19;Data Scientist;Une femme;powerBI;Jamais
+19;Data Scientist;Une femme;tableau;Occasionnellement
+19;Data Scientist;Une femme;qlik;Jamais
+19;Data Scientist;Une femme;excel;Occasionnellement
+19;Data Scientist;Une femme;sql;Occasionnellement
+19;Data Scientist;Une femme;spark;Jamais
+19;Data Scientist;Une femme;spss;Jamais
+19;Data Scientist;Une femme;c_java;Jamais
+19;Data Scientist;Une femme;datastudio;Jamais
+19;Data Scientist;Une femme;matlab;Jamais
+20;Data Analyst;NA;python;Occasionnellement
+20;Data Analyst;NA;r;Jamais
+20;Data Analyst;NA;sas;Jamais
+20;Data Analyst;NA;powerBI;Occasionnellement
+20;Data Analyst;NA;tableau;Jamais
+20;Data Analyst;NA;qlik;Jamais
+20;Data Analyst;NA;excel;Régulièrement
+20;Data Analyst;NA;sql;Régulièrement
+20;Data Analyst;NA;spark;Jamais
+20;Data Analyst;NA;spss;Jamais
+20;Data Analyst;NA;c_java;Jamais
+20;Data Analyst;NA;datastudio;Occasionnellement
+20;Data Analyst;NA;matlab;Jamais
+21;Data Analyst;Un homme;python;Occasionnellement
+21;Data Analyst;Un homme;r;Régulièrement
+21;Data Analyst;Un homme;sas;Jamais
+21;Data Analyst;Un homme;powerBI;Régulièrement
+21;Data Analyst;Un homme;tableau;Jamais
+21;Data Analyst;Un homme;qlik;Jamais
+21;Data Analyst;Un homme;excel;Régulièrement
+21;Data Analyst;Un homme;sql;Jamais
+21;Data Analyst;Un homme;spark;Jamais
+21;Data Analyst;Un homme;spss;Jamais
+21;Data Analyst;Un homme;c_java;Jamais
+21;Data Analyst;Un homme;datastudio;Jamais
+21;Data Analyst;Un homme;matlab;Jamais
+22;Data Scientist;Une femme;python;Occasionnellement
+22;Data Scientist;Une femme;r;Régulièrement
+22;Data Scientist;Une femme;sas;Jamais
+22;Data Scientist;Une femme;powerBI;Jamais
+22;Data Scientist;Une femme;tableau;Jamais
+22;Data Scientist;Une femme;qlik;Jamais
+22;Data Scientist;Une femme;excel;Occasionnellement
+22;Data Scientist;Une femme;sql;Jamais
+22;Data Scientist;Une femme;spark;Jamais
+22;Data Scientist;Une femme;spss;Jamais
+22;Data Scientist;Une femme;c_java;Jamais
+22;Data Scientist;Une femme;datastudio;Jamais
+22;Data Scientist;Une femme;matlab;Jamais
+24;Data Analyst;Une femme;python;Occasionnellement
+24;Data Analyst;Une femme;r;Jamais
+24;Data Analyst;Une femme;sas;Jamais
+24;Data Analyst;Une femme;powerBI;Jamais
+24;Data Analyst;Une femme;tableau;Occasionnellement
+24;Data Analyst;Une femme;qlik;Jamais
+24;Data Analyst;Une femme;excel;Occasionnellement
+24;Data Analyst;Une femme;sql;Régulièrement
+24;Data Analyst;Une femme;spark;Jamais
+24;Data Analyst;Une femme;spss;Jamais
+24;Data Analyst;Une femme;c_java;Jamais
+24;Data Analyst;Une femme;datastudio;Jamais
+24;Data Analyst;Une femme;matlab;Jamais
+25;Data Scientist;NA;python;Régulièrement
+25;Data Scientist;NA;r;Jamais
+25;Data Scientist;NA;sas;Jamais
+25;Data Scientist;NA;powerBI;Jamais
+25;Data Scientist;NA;tableau;Jamais
+25;Data Scientist;NA;qlik;Jamais
+25;Data Scientist;NA;excel;Occasionnellement
+25;Data Scientist;NA;sql;Jamais
+25;Data Scientist;NA;spark;Jamais
+25;Data Scientist;NA;spss;Jamais
+25;Data Scientist;NA;c_java;Jamais
+25;Data Scientist;NA;datastudio;Jamais
+25;Data Scientist;NA;matlab;Jamais
+26;Data Engineer;NA;python;Jamais
+26;Data Engineer;NA;r;Jamais
+26;Data Engineer;NA;sas;Jamais
+26;Data Engineer;NA;powerBI;Jamais
+26;Data Engineer;NA;tableau;Jamais
+26;Data Engineer;NA;qlik;Jamais
+26;Data Engineer;NA;excel;Jamais
+26;Data Engineer;NA;sql;Jamais
+26;Data Engineer;NA;spark;Jamais
+26;Data Engineer;NA;spss;Jamais
+26;Data Engineer;NA;c_java;Jamais
+26;Data Engineer;NA;datastudio;Jamais
+26;Data Engineer;NA;matlab;Jamais
+29;Data Analyst;Un homme;python;Jamais
+29;Data Analyst;Un homme;r;Jamais
+29;Data Analyst;Un homme;sas;Régulièrement
+29;Data Analyst;Un homme;powerBI;Jamais
+29;Data Analyst;Un homme;tableau;Jamais
+29;Data Analyst;Un homme;qlik;Jamais
+29;Data Analyst;Un homme;excel;Régulièrement
+29;Data Analyst;Un homme;sql;Régulièrement
+29;Data Analyst;Un homme;spark;Jamais
+29;Data Analyst;Un homme;spss;Jamais
+29;Data Analyst;Un homme;c_java;Jamais
+29;Data Analyst;Un homme;datastudio;Jamais
+29;Data Analyst;Un homme;matlab;Jamais
+31;Data Scientist;Un homme;python;Occasionnellement
+31;Data Scientist;Un homme;r;Régulièrement
+31;Data Scientist;Un homme;sas;Jamais
+31;Data Scientist;Un homme;powerBI;Jamais
+31;Data Scientist;Un homme;tableau;Jamais
+31;Data Scientist;Un homme;qlik;Jamais
+31;Data Scientist;Un homme;excel;Jamais
+31;Data Scientist;Un homme;sql;Jamais
+31;Data Scientist;Un homme;spark;Jamais
+31;Data Scientist;Un homme;spss;Jamais
+31;Data Scientist;Un homme;c_java;Jamais
+31;Data Scientist;Un homme;datastudio;Jamais
+31;Data Scientist;Un homme;matlab;Jamais
+39;Data Analyst;Un homme;python;Régulièrement
+39;Data Analyst;Un homme;r;Jamais
+39;Data Analyst;Un homme;sas;Jamais
+39;Data Analyst;Un homme;powerBI;Occasionnellement
+39;Data Analyst;Un homme;tableau;Régulièrement
+39;Data Analyst;Un homme;qlik;Jamais
+39;Data Analyst;Un homme;excel;Régulièrement
+39;Data Analyst;Un homme;sql;Régulièrement
+39;Data Analyst;Un homme;spark;Jamais
+39;Data Analyst;Un homme;spss;Jamais
+39;Data Analyst;Un homme;c_java;Jamais
+39;Data Analyst;Un homme;datastudio;Régulièrement
+39;Data Analyst;Un homme;matlab;Jamais
+41;Data Analyst;Un homme;python;Jamais
+41;Data Analyst;Un homme;r;Jamais
+41;Data Analyst;Un homme;sas;Jamais
+41;Data Analyst;Un homme;powerBI;Occasionnellement
+41;Data Analyst;Un homme;tableau;Jamais
+41;Data Analyst;Un homme;qlik;Jamais
+41;Data Analyst;Un homme;excel;Régulièrement
+41;Data Analyst;Un homme;sql;Régulièrement
+41;Data Analyst;Un homme;spark;Jamais
+41;Data Analyst;Un homme;spss;Jamais
+41;Data Analyst;Un homme;c_java;Jamais
+41;Data Analyst;Un homme;datastudio;Jamais
+41;Data Analyst;Un homme;matlab;Jamais
+42;Data Analyst;Un homme;python;Régulièrement
+42;Data Analyst;Un homme;r;Jamais
+42;Data Analyst;Un homme;sas;Jamais
+42;Data Analyst;Un homme;powerBI;Occasionnellement
+42;Data Analyst;Un homme;tableau;Jamais
+42;Data Analyst;Un homme;qlik;Jamais
+42;Data Analyst;Un homme;excel;Régulièrement
+42;Data Analyst;Un homme;sql;Régulièrement
+42;Data Analyst;Un homme;spark;Jamais
+42;Data Analyst;Un homme;spss;Jamais
+42;Data Analyst;Un homme;c_java;Jamais
+42;Data Analyst;Un homme;datastudio;Jamais
+42;Data Analyst;Un homme;matlab;Jamais
+43;Data Scientist;Une femme;python;Jamais
+43;Data Scientist;Une femme;r;Occasionnellement
+43;Data Scientist;Une femme;sas;Régulièrement
+43;Data Scientist;Une femme;powerBI;Jamais
+43;Data Scientist;Une femme;tableau;Jamais
+43;Data Scientist;Une femme;qlik;Jamais
+43;Data Scientist;Une femme;excel;Occasionnellement
+43;Data Scientist;Une femme;sql;Jamais
+43;Data Scientist;Une femme;spark;Jamais
+43;Data Scientist;Une femme;spss;Jamais
+43;Data Scientist;Une femme;c_java;Jamais
+43;Data Scientist;Une femme;datastudio;Jamais
+43;Data Scientist;Une femme;matlab;Jamais
+44;Data Scientist;NA;python;Régulièrement
+44;Data Scientist;NA;r;Jamais
+44;Data Scientist;NA;sas;Jamais
+44;Data Scientist;NA;powerBI;Jamais
+44;Data Scientist;NA;tableau;Jamais
+44;Data Scientist;NA;qlik;Jamais
+44;Data Scientist;NA;excel;Régulièrement
+44;Data Scientist;NA;sql;Régulièrement
+44;Data Scientist;NA;spark;Jamais
+44;Data Scientist;NA;spss;Jamais
+44;Data Scientist;NA;c_java;Jamais
+44;Data Scientist;NA;datastudio;Jamais
+44;Data Scientist;NA;matlab;Jamais
+46;Data Analyst;Une femme;python;Jamais
+46;Data Analyst;Une femme;r;Jamais
+46;Data Analyst;Une femme;sas;Jamais
+46;Data Analyst;Une femme;powerBI;Régulièrement
+46;Data Analyst;Une femme;tableau;Jamais
+46;Data Analyst;Une femme;qlik;Jamais
+46;Data Analyst;Une femme;excel;Régulièrement
+46;Data Analyst;Une femme;sql;Régulièrement
+46;Data Analyst;Une femme;spark;Jamais
+46;Data Analyst;Une femme;spss;Jamais
+46;Data Analyst;Une femme;c_java;Jamais
+46;Data Analyst;Une femme;datastudio;Jamais
+46;Data Analyst;Une femme;matlab;Jamais
+47;Data Analyst;NA;python;Jamais
+47;Data Analyst;NA;r;Occasionnellement
+47;Data Analyst;NA;sas;Occasionnellement
+47;Data Analyst;NA;powerBI;Jamais
+47;Data Analyst;NA;tableau;Jamais
+47;Data Analyst;NA;qlik;Jamais
+47;Data Analyst;NA;excel;Régulièrement
+47;Data Analyst;NA;sql;Jamais
+47;Data Analyst;NA;spark;Jamais
+47;Data Analyst;NA;spss;Jamais
+47;Data Analyst;NA;c_java;Jamais
+47;Data Analyst;NA;datastudio;Jamais
+47;Data Analyst;NA;matlab;Jamais
+50;Data Analyst;Un homme;python;Jamais
+50;Data Analyst;Un homme;r;Régulièrement
+50;Data Analyst;Un homme;sas;Jamais
+50;Data Analyst;Un homme;powerBI;Jamais
+50;Data Analyst;Un homme;tableau;Jamais
+50;Data Analyst;Un homme;qlik;Jamais
+50;Data Analyst;Un homme;excel;Régulièrement
+50;Data Analyst;Un homme;sql;Jamais
+50;Data Analyst;Un homme;spark;Jamais
+50;Data Analyst;Un homme;spss;Jamais
+50;Data Analyst;Un homme;c_java;Jamais
+50;Data Analyst;Un homme;datastudio;Jamais
+50;Data Analyst;Un homme;matlab;Jamais
+51;Data Analyst;Un homme;python;Jamais
+51;Data Analyst;Un homme;r;Jamais
+51;Data Analyst;Un homme;sas;Régulièrement
+51;Data Analyst;Un homme;powerBI;Occasionnellement
+51;Data Analyst;Un homme;tableau;Jamais
+51;Data Analyst;Un homme;qlik;Occasionnellement
+51;Data Analyst;Un homme;excel;Régulièrement
+51;Data Analyst;Un homme;sql;Régulièrement
+51;Data Analyst;Un homme;spark;Jamais
+51;Data Analyst;Un homme;spss;Jamais
+51;Data Analyst;Un homme;c_java;Jamais
+51;Data Analyst;Un homme;datastudio;Jamais
+51;Data Analyst;Un homme;matlab;Jamais
+52;Data Analyst;Une femme;python;Jamais
+52;Data Analyst;Une femme;r;Jamais
+52;Data Analyst;Une femme;sas;Jamais
+52;Data Analyst;Une femme;powerBI;Régulièrement
+52;Data Analyst;Une femme;tableau;Jamais
+52;Data Analyst;Une femme;qlik;Jamais
+52;Data Analyst;Une femme;excel;Régulièrement
+52;Data Analyst;Une femme;sql;Régulièrement
+52;Data Analyst;Une femme;spark;Jamais
+52;Data Analyst;Une femme;spss;Jamais
+52;Data Analyst;Une femme;c_java;Jamais
+52;Data Analyst;Une femme;datastudio;Occasionnellement
+52;Data Analyst;Une femme;matlab;Jamais
+54;Data Analyst;Une femme;python;Occasionnellement
+54;Data Analyst;Une femme;r;Jamais
+54;Data Analyst;Une femme;sas;Jamais
+54;Data Analyst;Une femme;powerBI;Occasionnellement
+54;Data Analyst;Une femme;tableau;Jamais
+54;Data Analyst;Une femme;qlik;Jamais
+54;Data Analyst;Une femme;excel;Régulièrement
+54;Data Analyst;Une femme;sql;Occasionnellement
+54;Data Analyst;Une femme;spark;Jamais
+54;Data Analyst;Une femme;spss;Jamais
+54;Data Analyst;Une femme;c_java;Jamais
+54;Data Analyst;Une femme;datastudio;Jamais
+54;Data Analyst;Une femme;matlab;Jamais
+56;Data Analyst;Une femme;python;Jamais
+56;Data Analyst;Une femme;r;Occasionnellement
+56;Data Analyst;Une femme;sas;Jamais
+56;Data Analyst;Une femme;powerBI;Régulièrement
+56;Data Analyst;Une femme;tableau;Jamais
+56;Data Analyst;Une femme;qlik;Régulièrement
+56;Data Analyst;Une femme;excel;Régulièrement
+56;Data Analyst;Une femme;sql;Jamais
+56;Data Analyst;Une femme;spark;Jamais
+56;Data Analyst;Une femme;spss;Jamais
+56;Data Analyst;Une femme;c_java;Jamais
+56;Data Analyst;Une femme;datastudio;Jamais
+56;Data Analyst;Une femme;matlab;Jamais
+57;Data Engineer;NA;python;Jamais
+57;Data Engineer;NA;r;Jamais
+57;Data Engineer;NA;sas;Jamais
+57;Data Engineer;NA;powerBI;Jamais
+57;Data Engineer;NA;tableau;Jamais
+57;Data Engineer;NA;qlik;Jamais
+57;Data Engineer;NA;excel;Jamais
+57;Data Engineer;NA;sql;Jamais
+57;Data Engineer;NA;spark;Jamais
+57;Data Engineer;NA;spss;Jamais
+57;Data Engineer;NA;c_java;Jamais
+57;Data Engineer;NA;datastudio;Jamais
+57;Data Engineer;NA;matlab;Jamais
+58;Data Analyst;Une femme;python;Jamais
+58;Data Analyst;Une femme;r;Régulièrement
+58;Data Analyst;Une femme;sas;Jamais
+58;Data Analyst;Une femme;powerBI;Jamais
+58;Data Analyst;Une femme;tableau;Jamais
+58;Data Analyst;Une femme;qlik;Jamais
+58;Data Analyst;Une femme;excel;Jamais
+58;Data Analyst;Une femme;sql;Jamais
+58;Data Analyst;Une femme;spark;Jamais
+58;Data Analyst;Une femme;spss;Jamais
+58;Data Analyst;Une femme;c_java;Jamais
+58;Data Analyst;Une femme;datastudio;Jamais
+58;Data Analyst;Une femme;matlab;Jamais
+59;Data Engineer;Un homme;python;Régulièrement
+59;Data Engineer;Un homme;r;Jamais
+59;Data Engineer;Un homme;sas;Jamais
+59;Data Engineer;Un homme;powerBI;Jamais
+59;Data Engineer;Un homme;tableau;Jamais
+59;Data Engineer;Un homme;qlik;Jamais
+59;Data Engineer;Un homme;excel;Régulièrement
+59;Data Engineer;Un homme;sql;Régulièrement
+59;Data Engineer;Un homme;spark;Occasionnellement
+59;Data Engineer;Un homme;spss;Jamais
+59;Data Engineer;Un homme;c_java;Jamais
+59;Data Engineer;Un homme;datastudio;Jamais
+59;Data Engineer;Un homme;matlab;Jamais
+60;Data Scientist;Un homme;python;Jamais
+60;Data Scientist;Un homme;r;Régulièrement
+60;Data Scientist;Un homme;sas;Jamais
+60;Data Scientist;Un homme;powerBI;Jamais
+60;Data Scientist;Un homme;tableau;Jamais
+60;Data Scientist;Un homme;qlik;Jamais
+60;Data Scientist;Un homme;excel;Jamais
+60;Data Scientist;Un homme;sql;Jamais
+60;Data Scientist;Un homme;spark;Jamais
+60;Data Scientist;Un homme;spss;Jamais
+60;Data Scientist;Un homme;c_java;Jamais
+60;Data Scientist;Un homme;datastudio;Jamais
+60;Data Scientist;Un homme;matlab;Jamais
+61;Data Scientist;NA;python;Jamais
+61;Data Scientist;NA;r;Jamais
+61;Data Scientist;NA;sas;Jamais
+61;Data Scientist;NA;powerBI;Jamais
+61;Data Scientist;NA;tableau;Jamais
+61;Data Scientist;NA;qlik;Jamais
+61;Data Scientist;NA;excel;Jamais
+61;Data Scientist;NA;sql;Jamais
+61;Data Scientist;NA;spark;Jamais
+61;Data Scientist;NA;spss;Jamais
+61;Data Scientist;NA;c_java;Jamais
+61;Data Scientist;NA;datastudio;Jamais
+61;Data Scientist;NA;matlab;Jamais
+62;Data Scientist;NA;python;Jamais
+62;Data Scientist;NA;r;Jamais
+62;Data Scientist;NA;sas;Jamais
+62;Data Scientist;NA;powerBI;Jamais
+62;Data Scientist;NA;tableau;Jamais
+62;Data Scientist;NA;qlik;Jamais
+62;Data Scientist;NA;excel;Jamais
+62;Data Scientist;NA;sql;Jamais
+62;Data Scientist;NA;spark;Jamais
+62;Data Scientist;NA;spss;Jamais
+62;Data Scientist;NA;c_java;Jamais
+62;Data Scientist;NA;datastudio;Jamais
+62;Data Scientist;NA;matlab;Jamais
+63;Data Analyst;Un homme;python;Jamais
+63;Data Analyst;Un homme;r;Jamais
+63;Data Analyst;Un homme;sas;Régulièrement
+63;Data Analyst;Un homme;powerBI;Régulièrement
+63;Data Analyst;Un homme;tableau;Jamais
+63;Data Analyst;Un homme;qlik;Occasionnellement
+63;Data Analyst;Un homme;excel;Régulièrement
+63;Data Analyst;Un homme;sql;Régulièrement
+63;Data Analyst;Un homme;spark;Jamais
+63;Data Analyst;Un homme;spss;Jamais
+63;Data Analyst;Un homme;c_java;Jamais
+63;Data Analyst;Un homme;datastudio;Jamais
+63;Data Analyst;Un homme;matlab;Jamais
+65;Data Analyst;Un homme;python;Jamais
+65;Data Analyst;Un homme;r;Jamais
+65;Data Analyst;Un homme;sas;Régulièrement
+65;Data Analyst;Un homme;powerBI;Régulièrement
+65;Data Analyst;Un homme;tableau;Jamais
+65;Data Analyst;Un homme;qlik;Jamais
+65;Data Analyst;Un homme;excel;Régulièrement
+65;Data Analyst;Un homme;sql;Régulièrement
+65;Data Analyst;Un homme;spark;Jamais
+65;Data Analyst;Un homme;spss;Jamais
+65;Data Analyst;Un homme;c_java;Jamais
+65;Data Analyst;Un homme;datastudio;Jamais
+65;Data Analyst;Un homme;matlab;Jamais
+66;Data Analyst;Un homme;python;Jamais
+66;Data Analyst;Un homme;r;Régulièrement
+66;Data Analyst;Un homme;sas;Occasionnellement
+66;Data Analyst;Un homme;powerBI;Jamais
+66;Data Analyst;Un homme;tableau;Jamais
+66;Data Analyst;Un homme;qlik;Jamais
+66;Data Analyst;Un homme;excel;Occasionnellement
+66;Data Analyst;Un homme;sql;Régulièrement
+66;Data Analyst;Un homme;spark;Jamais
+66;Data Analyst;Un homme;spss;Jamais
+66;Data Analyst;Un homme;c_java;Jamais
+66;Data Analyst;Un homme;datastudio;Jamais
+66;Data Analyst;Un homme;matlab;Jamais
+67;Data Analyst;Un homme;python;Jamais
+67;Data Analyst;Un homme;r;Régulièrement
+67;Data Analyst;Un homme;sas;Jamais
+67;Data Analyst;Un homme;powerBI;Occasionnellement
+67;Data Analyst;Un homme;tableau;Jamais
+67;Data Analyst;Un homme;qlik;Jamais
+67;Data Analyst;Un homme;excel;Régulièrement
+67;Data Analyst;Un homme;sql;Jamais
+67;Data Analyst;Un homme;spark;Jamais
+67;Data Analyst;Un homme;spss;Occasionnellement
+67;Data Analyst;Un homme;c_java;Jamais
+67;Data Analyst;Un homme;datastudio;Jamais
+67;Data Analyst;Un homme;matlab;Jamais
+69;Data Analyst;Un homme;python;Jamais
+69;Data Analyst;Un homme;r;Régulièrement
+69;Data Analyst;Un homme;sas;Régulièrement
+69;Data Analyst;Un homme;powerBI;Occasionnellement
+69;Data Analyst;Un homme;tableau;Jamais
+69;Data Analyst;Un homme;qlik;Jamais
+69;Data Analyst;Un homme;excel;Occasionnellement
+69;Data Analyst;Un homme;sql;Régulièrement
+69;Data Analyst;Un homme;spark;Jamais
+69;Data Analyst;Un homme;spss;Jamais
+69;Data Analyst;Un homme;c_java;Jamais
+69;Data Analyst;Un homme;datastudio;Jamais
+69;Data Analyst;Un homme;matlab;Jamais
+70;Data Analyst;Un homme;python;Jamais
+70;Data Analyst;Un homme;r;Régulièrement
+70;Data Analyst;Un homme;sas;Jamais
+70;Data Analyst;Un homme;powerBI;Jamais
+70;Data Analyst;Un homme;tableau;Jamais
+70;Data Analyst;Un homme;qlik;Jamais
+70;Data Analyst;Un homme;excel;Régulièrement
+70;Data Analyst;Un homme;sql;Jamais
+70;Data Analyst;Un homme;spark;Jamais
+70;Data Analyst;Un homme;spss;Jamais
+70;Data Analyst;Un homme;c_java;Jamais
+70;Data Analyst;Un homme;datastudio;Jamais
+70;Data Analyst;Un homme;matlab;Jamais
+73;Data Analyst;NA;python;Jamais
+73;Data Analyst;NA;r;Jamais
+73;Data Analyst;NA;sas;Jamais
+73;Data Analyst;NA;powerBI;Jamais
+73;Data Analyst;NA;tableau;Jamais
+73;Data Analyst;NA;qlik;Jamais
+73;Data Analyst;NA;excel;Jamais
+73;Data Analyst;NA;sql;Jamais
+73;Data Analyst;NA;spark;Jamais
+73;Data Analyst;NA;spss;Jamais
+73;Data Analyst;NA;c_java;Jamais
+73;Data Analyst;NA;datastudio;Jamais
+73;Data Analyst;NA;matlab;Jamais
+74;Data Analyst;Un homme;python;Jamais
+74;Data Analyst;Un homme;r;Régulièrement
+74;Data Analyst;Un homme;sas;Régulièrement
+74;Data Analyst;Un homme;powerBI;Jamais
+74;Data Analyst;Un homme;tableau;Jamais
+74;Data Analyst;Un homme;qlik;Jamais
+74;Data Analyst;Un homme;excel;Occasionnellement
+74;Data Analyst;Un homme;sql;Régulièrement
+74;Data Analyst;Un homme;spark;Jamais
+74;Data Analyst;Un homme;spss;Jamais
+74;Data Analyst;Un homme;c_java;Jamais
+74;Data Analyst;Un homme;datastudio;Jamais
+74;Data Analyst;Un homme;matlab;Jamais
+75;Data Engineer;Un homme;python;Occasionnellement
+75;Data Engineer;Un homme;r;Jamais
+75;Data Engineer;Un homme;sas;Régulièrement
+75;Data Engineer;Un homme;powerBI;Jamais
+75;Data Engineer;Un homme;tableau;Jamais
+75;Data Engineer;Un homme;qlik;Jamais
+75;Data Engineer;Un homme;excel;Jamais
+75;Data Engineer;Un homme;sql;Régulièrement
+75;Data Engineer;Un homme;spark;Jamais
+75;Data Engineer;Un homme;spss;Jamais
+75;Data Engineer;Un homme;c_java;Jamais
+75;Data Engineer;Un homme;datastudio;Jamais
+75;Data Engineer;Un homme;matlab;Jamais
+76;Data Analyst;Une femme;python;Jamais
+76;Data Analyst;Une femme;r;Jamais
+76;Data Analyst;Une femme;sas;Jamais
+76;Data Analyst;Une femme;powerBI;Régulièrement
+76;Data Analyst;Une femme;tableau;Jamais
+76;Data Analyst;Une femme;qlik;Jamais
+76;Data Analyst;Une femme;excel;Régulièrement
+76;Data Analyst;Une femme;sql;Occasionnellement
+76;Data Analyst;Une femme;spark;Jamais
+76;Data Analyst;Une femme;spss;Jamais
+76;Data Analyst;Une femme;c_java;Jamais
+76;Data Analyst;Une femme;datastudio;Jamais
+76;Data Analyst;Une femme;matlab;Jamais
+77;Data Analyst;Un homme;python;Occasionnellement
+77;Data Analyst;Un homme;r;Régulièrement
+77;Data Analyst;Un homme;sas;Régulièrement
+77;Data Analyst;Un homme;powerBI;Occasionnellement
+77;Data Analyst;Un homme;tableau;Jamais
+77;Data Analyst;Un homme;qlik;Jamais
+77;Data Analyst;Un homme;excel;Régulièrement
+77;Data Analyst;Un homme;sql;Régulièrement
+77;Data Analyst;Un homme;spark;Jamais
+77;Data Analyst;Un homme;spss;Jamais
+77;Data Analyst;Un homme;c_java;Jamais
+77;Data Analyst;Un homme;datastudio;Jamais
+77;Data Analyst;Un homme;matlab;Jamais
+79;Data Scientist;Une femme;python;Jamais
+79;Data Scientist;Une femme;r;Régulièrement
+79;Data Scientist;Une femme;sas;Jamais
+79;Data Scientist;Une femme;powerBI;Jamais
+79;Data Scientist;Une femme;tableau;Jamais
+79;Data Scientist;Une femme;qlik;Jamais
+79;Data Scientist;Une femme;excel;Occasionnellement
+79;Data Scientist;Une femme;sql;Jamais
+79;Data Scientist;Une femme;spark;Jamais
+79;Data Scientist;Une femme;spss;Jamais
+79;Data Scientist;Une femme;c_java;Jamais
+79;Data Scientist;Une femme;datastudio;Jamais
+79;Data Scientist;Une femme;matlab;Jamais
+81;Data Engineer;Un homme;python;Régulièrement
+81;Data Engineer;Un homme;r;Jamais
+81;Data Engineer;Un homme;sas;Jamais
+81;Data Engineer;Un homme;powerBI;Jamais
+81;Data Engineer;Un homme;tableau;Régulièrement
+81;Data Engineer;Un homme;qlik;Jamais
+81;Data Engineer;Un homme;excel;Régulièrement
+81;Data Engineer;Un homme;sql;Régulièrement
+81;Data Engineer;Un homme;spark;Jamais
+81;Data Engineer;Un homme;spss;Jamais
+81;Data Engineer;Un homme;c_java;Jamais
+81;Data Engineer;Un homme;datastudio;Jamais
+81;Data Engineer;Un homme;matlab;Jamais
+82;Data Engineer;Un homme;python;Jamais
+82;Data Engineer;Un homme;r;Jamais
+82;Data Engineer;Un homme;sas;Jamais
+82;Data Engineer;Un homme;powerBI;Occasionnellement
+82;Data Engineer;Un homme;tableau;Jamais
+82;Data Engineer;Un homme;qlik;Jamais
+82;Data Engineer;Un homme;excel;Occasionnellement
+82;Data Engineer;Un homme;sql;Régulièrement
+82;Data Engineer;Un homme;spark;Jamais
+82;Data Engineer;Un homme;spss;Jamais
+82;Data Engineer;Un homme;c_java;Jamais
+82;Data Engineer;Un homme;datastudio;Jamais
+82;Data Engineer;Un homme;matlab;Jamais
+83;Data Analyst;Une femme;python;Régulièrement
+83;Data Analyst;Une femme;r;Jamais
+83;Data Analyst;Une femme;sas;Jamais
+83;Data Analyst;Une femme;powerBI;Jamais
+83;Data Analyst;Une femme;tableau;Régulièrement
+83;Data Analyst;Une femme;qlik;Jamais
+83;Data Analyst;Une femme;excel;Jamais
+83;Data Analyst;Une femme;sql;Régulièrement
+83;Data Analyst;Une femme;spark;Jamais
+83;Data Analyst;Une femme;spss;Jamais
+83;Data Analyst;Une femme;c_java;Jamais
+83;Data Analyst;Une femme;datastudio;Jamais
+83;Data Analyst;Une femme;matlab;Jamais
+84;Data Scientist;NA;python;Jamais
+84;Data Scientist;NA;r;Régulièrement
+84;Data Scientist;NA;sas;Jamais
+84;Data Scientist;NA;powerBI;Jamais
+84;Data Scientist;NA;tableau;Jamais
+84;Data Scientist;NA;qlik;Jamais
+84;Data Scientist;NA;excel;Régulièrement
+84;Data Scientist;NA;sql;Régulièrement
+84;Data Scientist;NA;spark;Jamais
+84;Data Scientist;NA;spss;Jamais
+84;Data Scientist;NA;c_java;Jamais
+84;Data Scientist;NA;datastudio;Jamais
+84;Data Scientist;NA;matlab;Jamais
+91;Data Analyst;Une femme;python;Jamais
+91;Data Analyst;Une femme;r;Jamais
+91;Data Analyst;Une femme;sas;Jamais
+91;Data Analyst;Une femme;powerBI;Jamais
+91;Data Analyst;Une femme;tableau;Jamais
+91;Data Analyst;Une femme;qlik;Jamais
+91;Data Analyst;Une femme;excel;Occasionnellement
+91;Data Analyst;Une femme;sql;Occasionnellement
+91;Data Analyst;Une femme;spark;Régulièrement
+91;Data Analyst;Une femme;spss;Jamais
+91;Data Analyst;Une femme;c_java;Jamais
+91;Data Analyst;Une femme;datastudio;Jamais
+91;Data Analyst;Une femme;matlab;Jamais
+92;Data Engineer;NA;python;Jamais
+92;Data Engineer;NA;r;Jamais
+92;Data Engineer;NA;sas;Jamais
+92;Data Engineer;NA;powerBI;Jamais
+92;Data Engineer;NA;tableau;Jamais
+92;Data Engineer;NA;qlik;Jamais
+92;Data Engineer;NA;excel;Jamais
+92;Data Engineer;NA;sql;Jamais
+92;Data Engineer;NA;spark;Jamais
+92;Data Engineer;NA;spss;Occasionnellement
+92;Data Engineer;NA;c_java;Jamais
+92;Data Engineer;NA;datastudio;Jamais
+92;Data Engineer;NA;matlab;Jamais
+93;Data Analyst;Une femme;python;Jamais
+93;Data Analyst;Une femme;r;Jamais
+93;Data Analyst;Une femme;sas;Jamais
+93;Data Analyst;Une femme;powerBI;Régulièrement
+93;Data Analyst;Une femme;tableau;Jamais
+93;Data Analyst;Une femme;qlik;Jamais
+93;Data Analyst;Une femme;excel;Régulièrement
+93;Data Analyst;Une femme;sql;Occasionnellement
+93;Data Analyst;Une femme;spark;Jamais
+93;Data Analyst;Une femme;spss;Jamais
+93;Data Analyst;Une femme;c_java;Jamais
+93;Data Analyst;Une femme;datastudio;Jamais
+93;Data Analyst;Une femme;matlab;Jamais
+94;Data Analyst;Un homme;python;Régulièrement
+94;Data Analyst;Un homme;r;Régulièrement
+94;Data Analyst;Un homme;sas;Jamais
+94;Data Analyst;Un homme;powerBI;Jamais
+94;Data Analyst;Un homme;tableau;Jamais
+94;Data Analyst;Un homme;qlik;Jamais
+94;Data Analyst;Un homme;excel;Régulièrement
+94;Data Analyst;Un homme;sql;Occasionnellement
+94;Data Analyst;Un homme;spark;Jamais
+94;Data Analyst;Un homme;spss;Jamais
+94;Data Analyst;Un homme;c_java;Jamais
+94;Data Analyst;Un homme;datastudio;Jamais
+94;Data Analyst;Un homme;matlab;Jamais
+95;Data Scientist;Un homme;python;Jamais
+95;Data Scientist;Un homme;r;Régulièrement
+95;Data Scientist;Un homme;sas;Jamais
+95;Data Scientist;Un homme;powerBI;Jamais
+95;Data Scientist;Un homme;tableau;Jamais
+95;Data Scientist;Un homme;qlik;Jamais
+95;Data Scientist;Un homme;excel;Régulièrement
+95;Data Scientist;Un homme;sql;Régulièrement
+95;Data Scientist;Un homme;spark;Jamais
+95;Data Scientist;Un homme;spss;Jamais
+95;Data Scientist;Un homme;c_java;Jamais
+95;Data Scientist;Un homme;datastudio;Jamais
+95;Data Scientist;Un homme;matlab;Jamais
+96;Data Engineer;NA;python;Occasionnellement
+96;Data Engineer;NA;r;Jamais
+96;Data Engineer;NA;sas;Jamais
+96;Data Engineer;NA;powerBI;Régulièrement
+96;Data Engineer;NA;tableau;Jamais
+96;Data Engineer;NA;qlik;Jamais
+96;Data Engineer;NA;excel;Occasionnellement
+96;Data Engineer;NA;sql;Régulièrement
+96;Data Engineer;NA;spark;Occasionnellement
+96;Data Engineer;NA;spss;Jamais
+96;Data Engineer;NA;c_java;Jamais
+96;Data Engineer;NA;datastudio;Jamais
+96;Data Engineer;NA;matlab;Jamais
+97;Data Scientist;NA;python;Jamais
+97;Data Scientist;NA;r;Jamais
+97;Data Scientist;NA;sas;Jamais
+97;Data Scientist;NA;powerBI;Jamais
+97;Data Scientist;NA;tableau;Jamais
+97;Data Scientist;NA;qlik;Occasionnellement
+97;Data Scientist;NA;excel;Jamais
+97;Data Scientist;NA;sql;Jamais
+97;Data Scientist;NA;spark;Jamais
+97;Data Scientist;NA;spss;Occasionnellement
+97;Data Scientist;NA;c_java;Jamais
+97;Data Scientist;NA;datastudio;Jamais
+97;Data Scientist;NA;matlab;Jamais
+98;Data Scientist;NA;python;Jamais
+98;Data Scientist;NA;r;Jamais
+98;Data Scientist;NA;sas;Jamais
+98;Data Scientist;NA;powerBI;Jamais
+98;Data Scientist;NA;tableau;Jamais
+98;Data Scientist;NA;qlik;Jamais
+98;Data Scientist;NA;excel;Jamais
+98;Data Scientist;NA;sql;Jamais
+98;Data Scientist;NA;spark;Jamais
+98;Data Scientist;NA;spss;Jamais
+98;Data Scientist;NA;c_java;Jamais
+98;Data Scientist;NA;datastudio;Jamais
+98;Data Scientist;NA;matlab;Jamais
+99;Data Scientist;NA;python;Régulièrement
+99;Data Scientist;NA;r;Jamais
+99;Data Scientist;NA;sas;Jamais
+99;Data Scientist;NA;powerBI;Régulièrement
+99;Data Scientist;NA;tableau;Jamais
+99;Data Scientist;NA;qlik;Jamais
+99;Data Scientist;NA;excel;Régulièrement
+99;Data Scientist;NA;sql;Occasionnellement
+99;Data Scientist;NA;spark;Jamais
+99;Data Scientist;NA;spss;Jamais
+99;Data Scientist;NA;c_java;Jamais
+99;Data Scientist;NA;datastudio;Jamais
+99;Data Scientist;NA;matlab;Jamais
+101;Data Engineer;Une femme;python;Régulièrement
+101;Data Engineer;Une femme;r;Jamais
+101;Data Engineer;Une femme;sas;Jamais
+101;Data Engineer;Une femme;powerBI;Jamais
+101;Data Engineer;Une femme;tableau;Jamais
+101;Data Engineer;Une femme;qlik;Jamais
+101;Data Engineer;Une femme;excel;Jamais
+101;Data Engineer;Une femme;sql;Jamais
+101;Data Engineer;Une femme;spark;Régulièrement
+101;Data Engineer;Une femme;spss;Jamais
+101;Data Engineer;Une femme;c_java;Jamais
+101;Data Engineer;Une femme;datastudio;Jamais
+101;Data Engineer;Une femme;matlab;Jamais
+104;Data Analyst;NA;python;Jamais
+104;Data Analyst;NA;r;Jamais
+104;Data Analyst;NA;sas;Jamais
+104;Data Analyst;NA;powerBI;Jamais
+104;Data Analyst;NA;tableau;Jamais
+104;Data Analyst;NA;qlik;Jamais
+104;Data Analyst;NA;excel;Jamais
+104;Data Analyst;NA;sql;Jamais
+104;Data Analyst;NA;spark;Jamais
+104;Data Analyst;NA;spss;Jamais
+104;Data Analyst;NA;c_java;Jamais
+104;Data Analyst;NA;datastudio;Jamais
+104;Data Analyst;NA;matlab;Jamais
+105;Data Analyst;Une femme;python;Jamais
+105;Data Analyst;Une femme;r;Jamais
+105;Data Analyst;Une femme;sas;Jamais
+105;Data Analyst;Une femme;powerBI;Occasionnellement
+105;Data Analyst;Une femme;tableau;Jamais
+105;Data Analyst;Une femme;qlik;Jamais
+105;Data Analyst;Une femme;excel;Régulièrement
+105;Data Analyst;Une femme;sql;Régulièrement
+105;Data Analyst;Une femme;spark;Jamais
+105;Data Analyst;Une femme;spss;Jamais
+105;Data Analyst;Une femme;c_java;Jamais
+105;Data Analyst;Une femme;datastudio;Jamais
+105;Data Analyst;Une femme;matlab;Jamais
+106;Data Analyst;Un homme;python;Occasionnellement
+106;Data Analyst;Un homme;r;Régulièrement
+106;Data Analyst;Un homme;sas;Jamais
+106;Data Analyst;Un homme;powerBI;Occasionnellement
+106;Data Analyst;Un homme;tableau;Jamais
+106;Data Analyst;Un homme;qlik;Jamais
+106;Data Analyst;Un homme;excel;Régulièrement
+106;Data Analyst;Un homme;sql;Occasionnellement
+106;Data Analyst;Un homme;spark;Jamais
+106;Data Analyst;Un homme;spss;Jamais
+106;Data Analyst;Un homme;c_java;Jamais
+106;Data Analyst;Un homme;datastudio;Jamais
+106;Data Analyst;Un homme;matlab;Jamais
+107;Data Analyst;NA;python;Jamais
+107;Data Analyst;NA;r;Jamais
+107;Data Analyst;NA;sas;Jamais
+107;Data Analyst;NA;powerBI;Jamais
+107;Data Analyst;NA;tableau;Jamais
+107;Data Analyst;NA;qlik;Jamais
+107;Data Analyst;NA;excel;Jamais
+107;Data Analyst;NA;sql;Jamais
+107;Data Analyst;NA;spark;Jamais
+107;Data Analyst;NA;spss;Jamais
+107;Data Analyst;NA;c_java;Jamais
+107;Data Analyst;NA;datastudio;Jamais
+107;Data Analyst;NA;matlab;Jamais
+109;Data Analyst;Un homme;python;Régulièrement
+109;Data Analyst;Un homme;r;Jamais
+109;Data Analyst;Un homme;sas;Jamais
+109;Data Analyst;Un homme;powerBI;Régulièrement
+109;Data Analyst;Un homme;tableau;Jamais
+109;Data Analyst;Un homme;qlik;Jamais
+109;Data Analyst;Un homme;excel;Régulièrement
+109;Data Analyst;Un homme;sql;Régulièrement
+109;Data Analyst;Un homme;spark;Jamais
+109;Data Analyst;Un homme;spss;Jamais
+109;Data Analyst;Un homme;c_java;Jamais
+109;Data Analyst;Un homme;datastudio;Jamais
+109;Data Analyst;Un homme;matlab;Jamais
+110;Data Scientist;Un homme;python;Régulièrement
+110;Data Scientist;Un homme;r;Jamais
+110;Data Scientist;Un homme;sas;Jamais
+110;Data Scientist;Un homme;powerBI;Jamais
+110;Data Scientist;Un homme;tableau;Jamais
+110;Data Scientist;Un homme;qlik;Jamais
+110;Data Scientist;Un homme;excel;Régulièrement
+110;Data Scientist;Un homme;sql;Occasionnellement
+110;Data Scientist;Un homme;spark;Occasionnellement
+110;Data Scientist;Un homme;spss;Jamais
+110;Data Scientist;Un homme;c_java;Jamais
+110;Data Scientist;Un homme;datastudio;Jamais
+110;Data Scientist;Un homme;matlab;Jamais
+111;Data Analyst;NA;python;Jamais
+111;Data Analyst;NA;r;Jamais
+111;Data Analyst;NA;sas;Jamais
+111;Data Analyst;NA;powerBI;Jamais
+111;Data Analyst;NA;tableau;Régulièrement
+111;Data Analyst;NA;qlik;Jamais
+111;Data Analyst;NA;excel;Régulièrement
+111;Data Analyst;NA;sql;Régulièrement
+111;Data Analyst;NA;spark;Jamais
+111;Data Analyst;NA;spss;Jamais
+111;Data Analyst;NA;c_java;Jamais
+111;Data Analyst;NA;datastudio;Jamais
+111;Data Analyst;NA;matlab;Jamais
+112;Data Engineer;NA;python;Occasionnellement
+112;Data Engineer;NA;r;Jamais
+112;Data Engineer;NA;sas;Occasionnellement
+112;Data Engineer;NA;powerBI;Régulièrement
+112;Data Engineer;NA;tableau;Occasionnellement
+112;Data Engineer;NA;qlik;Occasionnellement
+112;Data Engineer;NA;excel;Régulièrement
+112;Data Engineer;NA;sql;Régulièrement
+112;Data Engineer;NA;spark;Occasionnellement
+112;Data Engineer;NA;spss;Jamais
+112;Data Engineer;NA;c_java;Occasionnellement
+112;Data Engineer;NA;datastudio;Régulièrement
+112;Data Engineer;NA;matlab;Jamais
+116;Data Analyst;NA;python;Jamais
+116;Data Analyst;NA;r;Jamais
+116;Data Analyst;NA;sas;Jamais
+116;Data Analyst;NA;powerBI;Jamais
+116;Data Analyst;NA;tableau;Jamais
+116;Data Analyst;NA;qlik;Jamais
+116;Data Analyst;NA;excel;Jamais
+116;Data Analyst;NA;sql;Jamais
+116;Data Analyst;NA;spark;Jamais
+116;Data Analyst;NA;spss;Jamais
+116;Data Analyst;NA;c_java;Jamais
+116;Data Analyst;NA;datastudio;Jamais
+116;Data Analyst;NA;matlab;Jamais
+117;Data Analyst;Une femme;python;Jamais
+117;Data Analyst;Une femme;r;Jamais
+117;Data Analyst;Une femme;sas;Jamais
+117;Data Analyst;Une femme;powerBI;Jamais
+117;Data Analyst;Une femme;tableau;Jamais
+117;Data Analyst;Une femme;qlik;Jamais
+117;Data Analyst;Une femme;excel;Régulièrement
+117;Data Analyst;Une femme;sql;Régulièrement
+117;Data Analyst;Une femme;spark;Jamais
+117;Data Analyst;Une femme;spss;Jamais
+117;Data Analyst;Une femme;c_java;Jamais
+117;Data Analyst;Une femme;datastudio;Jamais
+117;Data Analyst;Une femme;matlab;Jamais
+118;Data Analyst;NA;python;Jamais
+118;Data Analyst;NA;r;Jamais
+118;Data Analyst;NA;sas;Jamais
+118;Data Analyst;NA;powerBI;Régulièrement
+118;Data Analyst;NA;tableau;Jamais
+118;Data Analyst;NA;qlik;Jamais
+118;Data Analyst;NA;excel;Occasionnellement
+118;Data Analyst;NA;sql;Occasionnellement
+118;Data Analyst;NA;spark;Jamais
+118;Data Analyst;NA;spss;Jamais
+118;Data Analyst;NA;c_java;Jamais
+118;Data Analyst;NA;datastudio;Jamais
+118;Data Analyst;NA;matlab;Jamais
+119;Data Analyst;Un homme;python;Occasionnellement
+119;Data Analyst;Un homme;r;Occasionnellement
+119;Data Analyst;Un homme;sas;Occasionnellement
+119;Data Analyst;Un homme;powerBI;Occasionnellement
+119;Data Analyst;Un homme;tableau;Régulièrement
+119;Data Analyst;Un homme;qlik;Jamais
+119;Data Analyst;Un homme;excel;Régulièrement
+119;Data Analyst;Un homme;sql;Régulièrement
+119;Data Analyst;Un homme;spark;Jamais
+119;Data Analyst;Un homme;spss;Occasionnellement
+119;Data Analyst;Un homme;c_java;Jamais
+119;Data Analyst;Un homme;datastudio;Régulièrement
+119;Data Analyst;Un homme;matlab;Jamais
+122;Data Analyst;Un homme;python;Occasionnellement
+122;Data Analyst;Un homme;r;Jamais
+122;Data Analyst;Un homme;sas;Jamais
+122;Data Analyst;Un homme;powerBI;Jamais
+122;Data Analyst;Un homme;tableau;Régulièrement
+122;Data Analyst;Un homme;qlik;Jamais
+122;Data Analyst;Un homme;excel;Régulièrement
+122;Data Analyst;Un homme;sql;Régulièrement
+122;Data Analyst;Un homme;spark;Jamais
+122;Data Analyst;Un homme;spss;Jamais
+122;Data Analyst;Un homme;c_java;Jamais
+122;Data Analyst;Un homme;datastudio;Occasionnellement
+122;Data Analyst;Un homme;matlab;Jamais
+125;Data Engineer;Un homme;python;Régulièrement
+125;Data Engineer;Un homme;r;Jamais
+125;Data Engineer;Un homme;sas;Occasionnellement
+125;Data Engineer;Un homme;powerBI;Occasionnellement
+125;Data Engineer;Un homme;tableau;Jamais
+125;Data Engineer;Un homme;qlik;Jamais
+125;Data Engineer;Un homme;excel;Occasionnellement
+125;Data Engineer;Un homme;sql;Régulièrement
+125;Data Engineer;Un homme;spark;Occasionnellement
+125;Data Engineer;Un homme;spss;Jamais
+125;Data Engineer;Un homme;c_java;Jamais
+125;Data Engineer;Un homme;datastudio;Occasionnellement
+125;Data Engineer;Un homme;matlab;Jamais
+126;Data Scientist;Une femme;python;Régulièrement
+126;Data Scientist;Une femme;r;Occasionnellement
+126;Data Scientist;Une femme;sas;Jamais
+126;Data Scientist;Une femme;powerBI;Jamais
+126;Data Scientist;Une femme;tableau;Jamais
+126;Data Scientist;Une femme;qlik;Jamais
+126;Data Scientist;Une femme;excel;Régulièrement
+126;Data Scientist;Une femme;sql;Jamais
+126;Data Scientist;Une femme;spark;Occasionnellement
+126;Data Scientist;Une femme;spss;Jamais
+126;Data Scientist;Une femme;c_java;Régulièrement
+126;Data Scientist;Une femme;datastudio;Jamais
+126;Data Scientist;Une femme;matlab;Jamais
+127;Data Analyst;Une femme;python;Occasionnellement
+127;Data Analyst;Une femme;r;Jamais
+127;Data Analyst;Une femme;sas;Jamais
+127;Data Analyst;Une femme;powerBI;Jamais
+127;Data Analyst;Une femme;tableau;Régulièrement
+127;Data Analyst;Une femme;qlik;Jamais
+127;Data Analyst;Une femme;excel;Occasionnellement
+127;Data Analyst;Une femme;sql;Régulièrement
+127;Data Analyst;Une femme;spark;Occasionnellement
+127;Data Analyst;Une femme;spss;Jamais
+127;Data Analyst;Une femme;c_java;Jamais
+127;Data Analyst;Une femme;datastudio;Jamais
+127;Data Analyst;Une femme;matlab;Jamais
+128;Data Engineer;Un homme;python;Régulièrement
+128;Data Engineer;Un homme;r;Jamais
+128;Data Engineer;Un homme;sas;Jamais
+128;Data Engineer;Un homme;powerBI;Jamais
+128;Data Engineer;Un homme;tableau;Jamais
+128;Data Engineer;Un homme;qlik;Jamais
+128;Data Engineer;Un homme;excel;Régulièrement
+128;Data Engineer;Un homme;sql;Régulièrement
+128;Data Engineer;Un homme;spark;Jamais
+128;Data Engineer;Un homme;spss;Jamais
+128;Data Engineer;Un homme;c_java;Jamais
+128;Data Engineer;Un homme;datastudio;Jamais
+128;Data Engineer;Un homme;matlab;Jamais
+129;Data Scientist;Une femme;python;Régulièrement
+129;Data Scientist;Une femme;r;Jamais
+129;Data Scientist;Une femme;sas;Jamais
+129;Data Scientist;Une femme;powerBI;Jamais
+129;Data Scientist;Une femme;tableau;Jamais
+129;Data Scientist;Une femme;qlik;Jamais
+129;Data Scientist;Une femme;excel;Occasionnellement
+129;Data Scientist;Une femme;sql;Régulièrement
+129;Data Scientist;Une femme;spark;Régulièrement
+129;Data Scientist;Une femme;spss;Jamais
+129;Data Scientist;Une femme;c_java;Jamais
+129;Data Scientist;Une femme;datastudio;Jamais
+129;Data Scientist;Une femme;matlab;Jamais
+132;Data Scientist;NA;python;Régulièrement
+132;Data Scientist;NA;r;Occasionnellement
+132;Data Scientist;NA;sas;Jamais
+132;Data Scientist;NA;powerBI;Jamais
+132;Data Scientist;NA;tableau;Jamais
+132;Data Scientist;NA;qlik;Jamais
+132;Data Scientist;NA;excel;Régulièrement
+132;Data Scientist;NA;sql;Jamais
+132;Data Scientist;NA;spark;Occasionnellement
+132;Data Scientist;NA;spss;Jamais
+132;Data Scientist;NA;c_java;Régulièrement
+132;Data Scientist;NA;datastudio;Jamais
+132;Data Scientist;NA;matlab;Jamais
+133;Data Engineer;Un homme;python;Occasionnellement
+133;Data Engineer;Un homme;r;Jamais
+133;Data Engineer;Un homme;sas;Jamais
+133;Data Engineer;Un homme;powerBI;Occasionnellement
+133;Data Engineer;Un homme;tableau;Jamais
+133;Data Engineer;Un homme;qlik;Jamais
+133;Data Engineer;Un homme;excel;Régulièrement
+133;Data Engineer;Un homme;sql;Régulièrement
+133;Data Engineer;Un homme;spark;Jamais
+133;Data Engineer;Un homme;spss;Jamais
+133;Data Engineer;Un homme;c_java;Jamais
+133;Data Engineer;Un homme;datastudio;Jamais
+133;Data Engineer;Un homme;matlab;Jamais
+136;Data Analyst;Un homme;python;Jamais
+136;Data Analyst;Un homme;r;Jamais
+136;Data Analyst;Un homme;sas;Régulièrement
+136;Data Analyst;Un homme;powerBI;Jamais
+136;Data Analyst;Un homme;tableau;Jamais
+136;Data Analyst;Un homme;qlik;Occasionnellement
+136;Data Analyst;Un homme;excel;Régulièrement
+136;Data Analyst;Un homme;sql;Régulièrement
+136;Data Analyst;Un homme;spark;Jamais
+136;Data Analyst;Un homme;spss;Jamais
+136;Data Analyst;Un homme;c_java;Jamais
+136;Data Analyst;Un homme;datastudio;Occasionnellement
+136;Data Analyst;Un homme;matlab;Jamais
+137;Data Scientist;Un homme;python;Régulièrement
+137;Data Scientist;Un homme;r;Régulièrement
+137;Data Scientist;Un homme;sas;Occasionnellement
+137;Data Scientist;Un homme;powerBI;Occasionnellement
+137;Data Scientist;Un homme;tableau;Occasionnellement
+137;Data Scientist;Un homme;qlik;Jamais
+137;Data Scientist;Un homme;excel;Occasionnellement
+137;Data Scientist;Un homme;sql;Occasionnellement
+137;Data Scientist;Un homme;spark;Occasionnellement
+137;Data Scientist;Un homme;spss;Jamais
+137;Data Scientist;Un homme;c_java;Jamais
+137;Data Scientist;Un homme;datastudio;Jamais
+137;Data Scientist;Un homme;matlab;Jamais
+138;Data Scientist;Un homme;python;Régulièrement
+138;Data Scientist;Un homme;r;Occasionnellement
+138;Data Scientist;Un homme;sas;Jamais
+138;Data Scientist;Un homme;powerBI;Jamais
+138;Data Scientist;Un homme;tableau;Jamais
+138;Data Scientist;Un homme;qlik;Jamais
+138;Data Scientist;Un homme;excel;Jamais
+138;Data Scientist;Un homme;sql;Occasionnellement
+138;Data Scientist;Un homme;spark;Jamais
+138;Data Scientist;Un homme;spss;Jamais
+138;Data Scientist;Un homme;c_java;Jamais
+138;Data Scientist;Un homme;datastudio;Jamais
+138;Data Scientist;Un homme;matlab;Jamais
+139;Data Scientist;Un homme;python;Occasionnellement
+139;Data Scientist;Un homme;r;Jamais
+139;Data Scientist;Un homme;sas;Jamais
+139;Data Scientist;Un homme;powerBI;Occasionnellement
+139;Data Scientist;Un homme;tableau;Jamais
+139;Data Scientist;Un homme;qlik;Jamais
+139;Data Scientist;Un homme;excel;Régulièrement
+139;Data Scientist;Un homme;sql;Régulièrement
+139;Data Scientist;Un homme;spark;Jamais
+139;Data Scientist;Un homme;spss;Jamais
+139;Data Scientist;Un homme;c_java;Jamais
+139;Data Scientist;Un homme;datastudio;Jamais
+139;Data Scientist;Un homme;matlab;Jamais
+141;Data Analyst;Une femme;python;Jamais
+141;Data Analyst;Une femme;r;Régulièrement
+141;Data Analyst;Une femme;sas;Jamais
+141;Data Analyst;Une femme;powerBI;Jamais
+141;Data Analyst;Une femme;tableau;Jamais
+141;Data Analyst;Une femme;qlik;Jamais
+141;Data Analyst;Une femme;excel;Occasionnellement
+141;Data Analyst;Une femme;sql;Occasionnellement
+141;Data Analyst;Une femme;spark;Jamais
+141;Data Analyst;Une femme;spss;Jamais
+141;Data Analyst;Une femme;c_java;Jamais
+141;Data Analyst;Une femme;datastudio;Jamais
+141;Data Analyst;Une femme;matlab;Jamais
+146;Data Analyst;Un homme;python;Jamais
+146;Data Analyst;Un homme;r;Jamais
+146;Data Analyst;Un homme;sas;Jamais
+146;Data Analyst;Un homme;powerBI;Régulièrement
+146;Data Analyst;Un homme;tableau;Jamais
+146;Data Analyst;Un homme;qlik;Jamais
+146;Data Analyst;Un homme;excel;Régulièrement
+146;Data Analyst;Un homme;sql;Occasionnellement
+146;Data Analyst;Un homme;spark;Jamais
+146;Data Analyst;Un homme;spss;Jamais
+146;Data Analyst;Un homme;c_java;Jamais
+146;Data Analyst;Un homme;datastudio;Jamais
+146;Data Analyst;Un homme;matlab;Jamais
+147;Data Scientist;Une femme;python;Régulièrement
+147;Data Scientist;Une femme;r;Jamais
+147;Data Scientist;Une femme;sas;Jamais
+147;Data Scientist;Une femme;powerBI;Jamais
+147;Data Scientist;Une femme;tableau;Jamais
+147;Data Scientist;Une femme;qlik;Jamais
+147;Data Scientist;Une femme;excel;Occasionnellement
+147;Data Scientist;Une femme;sql;Occasionnellement
+147;Data Scientist;Une femme;spark;Occasionnellement
+147;Data Scientist;Une femme;spss;Jamais
+147;Data Scientist;Une femme;c_java;Jamais
+147;Data Scientist;Une femme;datastudio;Jamais
+147;Data Scientist;Une femme;matlab;Jamais
+148;Data Scientist;Une femme;python;Jamais
+148;Data Scientist;Une femme;r;Jamais
+148;Data Scientist;Une femme;sas;Régulièrement
+148;Data Scientist;Une femme;powerBI;Jamais
+148;Data Scientist;Une femme;tableau;Jamais
+148;Data Scientist;Une femme;qlik;Jamais
+148;Data Scientist;Une femme;excel;Régulièrement
+148;Data Scientist;Une femme;sql;Jamais
+148;Data Scientist;Une femme;spark;Jamais
+148;Data Scientist;Une femme;spss;Jamais
+148;Data Scientist;Une femme;c_java;Jamais
+148;Data Scientist;Une femme;datastudio;Jamais
+148;Data Scientist;Une femme;matlab;Jamais
+149;Data Engineer;Une femme;python;Régulièrement
+149;Data Engineer;Une femme;r;Jamais
+149;Data Engineer;Une femme;sas;Jamais
+149;Data Engineer;Une femme;powerBI;Occasionnellement
+149;Data Engineer;Une femme;tableau;Jamais
+149;Data Engineer;Une femme;qlik;Jamais
+149;Data Engineer;Une femme;excel;Jamais
+149;Data Engineer;Une femme;sql;Occasionnellement
+149;Data Engineer;Une femme;spark;Régulièrement
+149;Data Engineer;Une femme;spss;Jamais
+149;Data Engineer;Une femme;c_java;Jamais
+149;Data Engineer;Une femme;datastudio;Jamais
+149;Data Engineer;Une femme;matlab;Jamais
+150;Data Analyst;Un homme;python;Jamais
+150;Data Analyst;Un homme;r;Jamais
+150;Data Analyst;Un homme;sas;Jamais
+150;Data Analyst;Un homme;powerBI;Jamais
+150;Data Analyst;Un homme;tableau;Jamais
+150;Data Analyst;Un homme;qlik;Jamais
+150;Data Analyst;Un homme;excel;Régulièrement
+150;Data Analyst;Un homme;sql;Jamais
+150;Data Analyst;Un homme;spark;Jamais
+150;Data Analyst;Un homme;spss;Jamais
+150;Data Analyst;Un homme;c_java;Jamais
+150;Data Analyst;Un homme;datastudio;Jamais
+150;Data Analyst;Un homme;matlab;Jamais
+153;Data Analyst;Un homme;python;Occasionnellement
+153;Data Analyst;Un homme;r;Jamais
+153;Data Analyst;Un homme;sas;Jamais
+153;Data Analyst;Un homme;powerBI;Jamais
+153;Data Analyst;Un homme;tableau;Régulièrement
+153;Data Analyst;Un homme;qlik;Jamais
+153;Data Analyst;Un homme;excel;Jamais
+153;Data Analyst;Un homme;sql;Régulièrement
+153;Data Analyst;Un homme;spark;Jamais
+153;Data Analyst;Un homme;spss;Jamais
+153;Data Analyst;Un homme;c_java;Jamais
+153;Data Analyst;Un homme;datastudio;Jamais
+153;Data Analyst;Un homme;matlab;Jamais
+154;Data Analyst;Un homme;python;Occasionnellement
+154;Data Analyst;Un homme;r;Jamais
+154;Data Analyst;Un homme;sas;Jamais
+154;Data Analyst;Un homme;powerBI;Régulièrement
+154;Data Analyst;Un homme;tableau;Jamais
+154;Data Analyst;Un homme;qlik;Jamais
+154;Data Analyst;Un homme;excel;Occasionnellement
+154;Data Analyst;Un homme;sql;Occasionnellement
+154;Data Analyst;Un homme;spark;Jamais
+154;Data Analyst;Un homme;spss;Jamais
+154;Data Analyst;Un homme;c_java;Jamais
+154;Data Analyst;Un homme;datastudio;Jamais
+154;Data Analyst;Un homme;matlab;Jamais
+156;Data Analyst;Une femme;python;Occasionnellement
+156;Data Analyst;Une femme;r;Jamais
+156;Data Analyst;Une femme;sas;Jamais
+156;Data Analyst;Une femme;powerBI;Jamais
+156;Data Analyst;Une femme;tableau;Jamais
+156;Data Analyst;Une femme;qlik;Jamais
+156;Data Analyst;Une femme;excel;Jamais
+156;Data Analyst;Une femme;sql;Occasionnellement
+156;Data Analyst;Une femme;spark;Jamais
+156;Data Analyst;Une femme;spss;Jamais
+156;Data Analyst;Une femme;c_java;Jamais
+156;Data Analyst;Une femme;datastudio;Jamais
+156;Data Analyst;Une femme;matlab;Jamais
+158;Data Analyst;Un homme;python;Régulièrement
+158;Data Analyst;Un homme;r;Régulièrement
+158;Data Analyst;Un homme;sas;Jamais
+158;Data Analyst;Un homme;powerBI;Régulièrement
+158;Data Analyst;Un homme;tableau;Jamais
+158;Data Analyst;Un homme;qlik;Occasionnellement
+158;Data Analyst;Un homme;excel;Régulièrement
+158;Data Analyst;Un homme;sql;Jamais
+158;Data Analyst;Un homme;spark;Jamais
+158;Data Analyst;Un homme;spss;Jamais
+158;Data Analyst;Un homme;c_java;Jamais
+158;Data Analyst;Un homme;datastudio;Jamais
+158;Data Analyst;Un homme;matlab;Jamais
+160;Data Analyst;Un homme;python;Occasionnellement
+160;Data Analyst;Un homme;r;Jamais
+160;Data Analyst;Un homme;sas;Jamais
+160;Data Analyst;Un homme;powerBI;Régulièrement
+160;Data Analyst;Un homme;tableau;Jamais
+160;Data Analyst;Un homme;qlik;Jamais
+160;Data Analyst;Un homme;excel;Régulièrement
+160;Data Analyst;Un homme;sql;Occasionnellement
+160;Data Analyst;Un homme;spark;Jamais
+160;Data Analyst;Un homme;spss;Jamais
+160;Data Analyst;Un homme;c_java;Jamais
+160;Data Analyst;Un homme;datastudio;Jamais
+160;Data Analyst;Un homme;matlab;Jamais
+162;Data Engineer;NA;python;Jamais
+162;Data Engineer;NA;r;Jamais
+162;Data Engineer;NA;sas;Jamais
+162;Data Engineer;NA;powerBI;Régulièrement
+162;Data Engineer;NA;tableau;Jamais
+162;Data Engineer;NA;qlik;Régulièrement
+162;Data Engineer;NA;excel;Jamais
+162;Data Engineer;NA;sql;Régulièrement
+162;Data Engineer;NA;spark;Jamais
+162;Data Engineer;NA;spss;Jamais
+162;Data Engineer;NA;c_java;Jamais
+162;Data Engineer;NA;datastudio;Jamais
+162;Data Engineer;NA;matlab;Jamais
+163;Data Scientist;Un homme;python;Régulièrement
+163;Data Scientist;Un homme;r;Jamais
+163;Data Scientist;Un homme;sas;Jamais
+163;Data Scientist;Un homme;powerBI;Jamais
+163;Data Scientist;Un homme;tableau;Occasionnellement
+163;Data Scientist;Un homme;qlik;Jamais
+163;Data Scientist;Un homme;excel;Occasionnellement
+163;Data Scientist;Un homme;sql;Occasionnellement
+163;Data Scientist;Un homme;spark;Jamais
+163;Data Scientist;Un homme;spss;Jamais
+163;Data Scientist;Un homme;c_java;Jamais
+163;Data Scientist;Un homme;datastudio;Jamais
+163;Data Scientist;Un homme;matlab;Jamais
+167;Data Analyst;Un homme;python;Jamais
+167;Data Analyst;Un homme;r;Jamais
+167;Data Analyst;Un homme;sas;Jamais
+167;Data Analyst;Un homme;powerBI;Régulièrement
+167;Data Analyst;Un homme;tableau;Occasionnellement
+167;Data Analyst;Un homme;qlik;Jamais
+167;Data Analyst;Un homme;excel;Régulièrement
+167;Data Analyst;Un homme;sql;Régulièrement
+167;Data Analyst;Un homme;spark;Jamais
+167;Data Analyst;Un homme;spss;Jamais
+167;Data Analyst;Un homme;c_java;Jamais
+167;Data Analyst;Un homme;datastudio;Jamais
+167;Data Analyst;Un homme;matlab;Jamais
+169;Data Scientist;Un homme;python;Régulièrement
+169;Data Scientist;Un homme;r;Occasionnellement
+169;Data Scientist;Un homme;sas;Jamais
+169;Data Scientist;Un homme;powerBI;Jamais
+169;Data Scientist;Un homme;tableau;Jamais
+169;Data Scientist;Un homme;qlik;Jamais
+169;Data Scientist;Un homme;excel;Jamais
+169;Data Scientist;Un homme;sql;Régulièrement
+169;Data Scientist;Un homme;spark;Jamais
+169;Data Scientist;Un homme;spss;Jamais
+169;Data Scientist;Un homme;c_java;Jamais
+169;Data Scientist;Un homme;datastudio;Jamais
+169;Data Scientist;Un homme;matlab;Jamais
+171;Data Analyst;NA;python;Jamais
+171;Data Analyst;NA;r;Jamais
+171;Data Analyst;NA;sas;Jamais
+171;Data Analyst;NA;powerBI;Jamais
+171;Data Analyst;NA;tableau;Régulièrement
+171;Data Analyst;NA;qlik;Jamais
+171;Data Analyst;NA;excel;Régulièrement
+171;Data Analyst;NA;sql;Régulièrement
+171;Data Analyst;NA;spark;Jamais
+171;Data Analyst;NA;spss;Jamais
+171;Data Analyst;NA;c_java;Jamais
+171;Data Analyst;NA;datastudio;Jamais
+171;Data Analyst;NA;matlab;Jamais
+173;Data Scientist;NA;python;Régulièrement
+173;Data Scientist;NA;r;Jamais
+173;Data Scientist;NA;sas;Jamais
+173;Data Scientist;NA;powerBI;Jamais
+173;Data Scientist;NA;tableau;Régulièrement
+173;Data Scientist;NA;qlik;Jamais
+173;Data Scientist;NA;excel;Occasionnellement
+173;Data Scientist;NA;sql;Occasionnellement
+173;Data Scientist;NA;spark;Jamais
+173;Data Scientist;NA;spss;Jamais
+173;Data Scientist;NA;c_java;Jamais
+173;Data Scientist;NA;datastudio;Jamais
+173;Data Scientist;NA;matlab;Jamais
+175;Data Analyst;Un homme;python;Jamais
+175;Data Analyst;Un homme;r;Jamais
+175;Data Analyst;Un homme;sas;Régulièrement
+175;Data Analyst;Un homme;powerBI;Régulièrement
+175;Data Analyst;Un homme;tableau;Jamais
+175;Data Analyst;Un homme;qlik;Jamais
+175;Data Analyst;Un homme;excel;Régulièrement
+175;Data Analyst;Un homme;sql;Régulièrement
+175;Data Analyst;Un homme;spark;Jamais
+175;Data Analyst;Un homme;spss;Jamais
+175;Data Analyst;Un homme;c_java;Jamais
+175;Data Analyst;Un homme;datastudio;Jamais
+175;Data Analyst;Un homme;matlab;Jamais
+176;Data Engineer;NA;python;Jamais
+176;Data Engineer;NA;r;Jamais
+176;Data Engineer;NA;sas;Jamais
+176;Data Engineer;NA;powerBI;Jamais
+176;Data Engineer;NA;tableau;Jamais
+176;Data Engineer;NA;qlik;Jamais
+176;Data Engineer;NA;excel;Jamais
+176;Data Engineer;NA;sql;Jamais
+176;Data Engineer;NA;spark;Jamais
+176;Data Engineer;NA;spss;Jamais
+176;Data Engineer;NA;c_java;Jamais
+176;Data Engineer;NA;datastudio;Jamais
+176;Data Engineer;NA;matlab;Jamais
+177;Data Engineer;NA;python;Régulièrement
+177;Data Engineer;NA;r;Jamais
+177;Data Engineer;NA;sas;Jamais
+177;Data Engineer;NA;powerBI;Occasionnellement
+177;Data Engineer;NA;tableau;Jamais
+177;Data Engineer;NA;qlik;Jamais
+177;Data Engineer;NA;excel;Jamais
+177;Data Engineer;NA;sql;Occasionnellement
+177;Data Engineer;NA;spark;Régulièrement
+177;Data Engineer;NA;spss;Jamais
+177;Data Engineer;NA;c_java;Jamais
+177;Data Engineer;NA;datastudio;Jamais
+177;Data Engineer;NA;matlab;Jamais
+178;Data Engineer;Un homme;python;Occasionnellement
+178;Data Engineer;Un homme;r;Jamais
+178;Data Engineer;Un homme;sas;Jamais
+178;Data Engineer;Un homme;powerBI;Jamais
+178;Data Engineer;Un homme;tableau;Jamais
+178;Data Engineer;Un homme;qlik;Jamais
+178;Data Engineer;Un homme;excel;Jamais
+178;Data Engineer;Un homme;sql;Régulièrement
+178;Data Engineer;Un homme;spark;Occasionnellement
+178;Data Engineer;Un homme;spss;Jamais
+178;Data Engineer;Un homme;c_java;Jamais
+178;Data Engineer;Un homme;datastudio;Jamais
+178;Data Engineer;Un homme;matlab;Jamais
+179;Data Engineer;NA;python;Régulièrement
+179;Data Engineer;NA;r;Jamais
+179;Data Engineer;NA;sas;Jamais
+179;Data Engineer;NA;powerBI;Jamais
+179;Data Engineer;NA;tableau;Jamais
+179;Data Engineer;NA;qlik;Jamais
+179;Data Engineer;NA;excel;Régulièrement
+179;Data Engineer;NA;sql;Occasionnellement
+179;Data Engineer;NA;spark;Occasionnellement
+179;Data Engineer;NA;spss;Jamais
+179;Data Engineer;NA;c_java;Jamais
+179;Data Engineer;NA;datastudio;Jamais
+179;Data Engineer;NA;matlab;Jamais
+180;Data Analyst;Un homme;python;Jamais
+180;Data Analyst;Un homme;r;Occasionnellement
+180;Data Analyst;Un homme;sas;Jamais
+180;Data Analyst;Un homme;powerBI;Jamais
+180;Data Analyst;Un homme;tableau;Jamais
+180;Data Analyst;Un homme;qlik;Jamais
+180;Data Analyst;Un homme;excel;Jamais
+180;Data Analyst;Un homme;sql;Régulièrement
+180;Data Analyst;Un homme;spark;Jamais
+180;Data Analyst;Un homme;spss;Jamais
+180;Data Analyst;Un homme;c_java;Jamais
+180;Data Analyst;Un homme;datastudio;Occasionnellement
+180;Data Analyst;Un homme;matlab;Jamais
+181;Data Engineer;Un homme;python;Régulièrement
+181;Data Engineer;Un homme;r;Jamais
+181;Data Engineer;Un homme;sas;Jamais
+181;Data Engineer;Un homme;powerBI;Occasionnellement
+181;Data Engineer;Un homme;tableau;Jamais
+181;Data Engineer;Un homme;qlik;Jamais
+181;Data Engineer;Un homme;excel;Jamais
+181;Data Engineer;Un homme;sql;Régulièrement
+181;Data Engineer;Un homme;spark;Régulièrement
+181;Data Engineer;Un homme;spss;Jamais
+181;Data Engineer;Un homme;c_java;Jamais
+181;Data Engineer;Un homme;datastudio;Jamais
+181;Data Engineer;Un homme;matlab;Jamais
+182;Data Scientist;Un homme;python;Régulièrement
+182;Data Scientist;Un homme;r;Jamais
+182;Data Scientist;Un homme;sas;Jamais
+182;Data Scientist;Un homme;powerBI;Jamais
+182;Data Scientist;Un homme;tableau;Jamais
+182;Data Scientist;Un homme;qlik;Jamais
+182;Data Scientist;Un homme;excel;Régulièrement
+182;Data Scientist;Un homme;sql;Régulièrement
+182;Data Scientist;Un homme;spark;Jamais
+182;Data Scientist;Un homme;spss;Jamais
+182;Data Scientist;Un homme;c_java;Jamais
+182;Data Scientist;Un homme;datastudio;Jamais
+182;Data Scientist;Un homme;matlab;Jamais
+183;Data Engineer;Une femme;python;Occasionnellement
+183;Data Engineer;Une femme;r;Occasionnellement
+183;Data Engineer;Une femme;sas;Jamais
+183;Data Engineer;Une femme;powerBI;Occasionnellement
+183;Data Engineer;Une femme;tableau;Jamais
+183;Data Engineer;Une femme;qlik;Occasionnellement
+183;Data Engineer;Une femme;excel;Régulièrement
+183;Data Engineer;Une femme;sql;Régulièrement
+183;Data Engineer;Une femme;spark;Régulièrement
+183;Data Engineer;Une femme;spss;Jamais
+183;Data Engineer;Une femme;c_java;Régulièrement
+183;Data Engineer;Une femme;datastudio;Jamais
+183;Data Engineer;Une femme;matlab;Jamais
+184;Data Analyst;Une femme;python;Occasionnellement
+184;Data Analyst;Une femme;r;Jamais
+184;Data Analyst;Une femme;sas;Jamais
+184;Data Analyst;Une femme;powerBI;Régulièrement
+184;Data Analyst;Une femme;tableau;Régulièrement
+184;Data Analyst;Une femme;qlik;Jamais
+184;Data Analyst;Une femme;excel;Occasionnellement
+184;Data Analyst;Une femme;sql;Régulièrement
+184;Data Analyst;Une femme;spark;Jamais
+184;Data Analyst;Une femme;spss;Jamais
+184;Data Analyst;Une femme;c_java;Jamais
+184;Data Analyst;Une femme;datastudio;Régulièrement
+184;Data Analyst;Une femme;matlab;Jamais
+185;Data Engineer;NA;python;Jamais
+185;Data Engineer;NA;r;Jamais
+185;Data Engineer;NA;sas;Jamais
+185;Data Engineer;NA;powerBI;Jamais
+185;Data Engineer;NA;tableau;Jamais
+185;Data Engineer;NA;qlik;Jamais
+185;Data Engineer;NA;excel;Jamais
+185;Data Engineer;NA;sql;Jamais
+185;Data Engineer;NA;spark;Jamais
+185;Data Engineer;NA;spss;Jamais
+185;Data Engineer;NA;c_java;Jamais
+185;Data Engineer;NA;datastudio;Jamais
+185;Data Engineer;NA;matlab;Jamais
+186;Data Engineer;Une femme;python;Régulièrement
+186;Data Engineer;Une femme;r;Jamais
+186;Data Engineer;Une femme;sas;Jamais
+186;Data Engineer;Une femme;powerBI;Jamais
+186;Data Engineer;Une femme;tableau;Jamais
+186;Data Engineer;Une femme;qlik;Jamais
+186;Data Engineer;Une femme;excel;Jamais
+186;Data Engineer;Une femme;sql;Occasionnellement
+186;Data Engineer;Une femme;spark;Jamais
+186;Data Engineer;Une femme;spss;Jamais
+186;Data Engineer;Une femme;c_java;Jamais
+186;Data Engineer;Une femme;datastudio;Jamais
+186;Data Engineer;Une femme;matlab;Jamais
+187;Data Analyst;Un homme;python;Régulièrement
+187;Data Analyst;Un homme;r;Jamais
+187;Data Analyst;Un homme;sas;Jamais
+187;Data Analyst;Un homme;powerBI;Jamais
+187;Data Analyst;Un homme;tableau;Jamais
+187;Data Analyst;Un homme;qlik;Jamais
+187;Data Analyst;Un homme;excel;Régulièrement
+187;Data Analyst;Un homme;sql;Occasionnellement
+187;Data Analyst;Un homme;spark;Jamais
+187;Data Analyst;Un homme;spss;Jamais
+187;Data Analyst;Un homme;c_java;Jamais
+187;Data Analyst;Un homme;datastudio;Jamais
+187;Data Analyst;Un homme;matlab;Jamais
+188;Data Analyst;Un homme;python;Régulièrement
+188;Data Analyst;Un homme;r;Jamais
+188;Data Analyst;Un homme;sas;Régulièrement
+188;Data Analyst;Un homme;powerBI;Occasionnellement
+188;Data Analyst;Un homme;tableau;Jamais
+188;Data Analyst;Un homme;qlik;Jamais
+188;Data Analyst;Un homme;excel;Régulièrement
+188;Data Analyst;Un homme;sql;Régulièrement
+188;Data Analyst;Un homme;spark;Jamais
+188;Data Analyst;Un homme;spss;Jamais
+188;Data Analyst;Un homme;c_java;Jamais
+188;Data Analyst;Un homme;datastudio;Jamais
+188;Data Analyst;Un homme;matlab;Jamais
+189;Data Scientist;Un homme;python;Régulièrement
+189;Data Scientist;Un homme;r;Jamais
+189;Data Scientist;Un homme;sas;Jamais
+189;Data Scientist;Un homme;powerBI;Jamais
+189;Data Scientist;Un homme;tableau;Jamais
+189;Data Scientist;Un homme;qlik;Jamais
+189;Data Scientist;Un homme;excel;Jamais
+189;Data Scientist;Un homme;sql;Jamais
+189;Data Scientist;Un homme;spark;Jamais
+189;Data Scientist;Un homme;spss;Jamais
+189;Data Scientist;Un homme;c_java;Jamais
+189;Data Scientist;Un homme;datastudio;Jamais
+189;Data Scientist;Un homme;matlab;Jamais
+190;Data Analyst;Un homme;python;Occasionnellement
+190;Data Analyst;Un homme;r;Jamais
+190;Data Analyst;Un homme;sas;Jamais
+190;Data Analyst;Un homme;powerBI;Jamais
+190;Data Analyst;Un homme;tableau;Jamais
+190;Data Analyst;Un homme;qlik;Jamais
+190;Data Analyst;Un homme;excel;Régulièrement
+190;Data Analyst;Un homme;sql;Jamais
+190;Data Analyst;Un homme;spark;Jamais
+190;Data Analyst;Un homme;spss;Jamais
+190;Data Analyst;Un homme;c_java;Jamais
+190;Data Analyst;Un homme;datastudio;Jamais
+190;Data Analyst;Un homme;matlab;Jamais
+191;Data Scientist;Un homme;python;Régulièrement
+191;Data Scientist;Un homme;r;Occasionnellement
+191;Data Scientist;Un homme;sas;Jamais
+191;Data Scientist;Un homme;powerBI;Régulièrement
+191;Data Scientist;Un homme;tableau;Occasionnellement
+191;Data Scientist;Un homme;qlik;Jamais
+191;Data Scientist;Un homme;excel;Régulièrement
+191;Data Scientist;Un homme;sql;Régulièrement
+191;Data Scientist;Un homme;spark;Occasionnellement
+191;Data Scientist;Un homme;spss;Jamais
+191;Data Scientist;Un homme;c_java;Jamais
+191;Data Scientist;Un homme;datastudio;Jamais
+191;Data Scientist;Un homme;matlab;Jamais
+197;Data Engineer;NA;python;Jamais
+197;Data Engineer;NA;r;Jamais
+197;Data Engineer;NA;sas;Jamais
+197;Data Engineer;NA;powerBI;Régulièrement
+197;Data Engineer;NA;tableau;Jamais
+197;Data Engineer;NA;qlik;Jamais
+197;Data Engineer;NA;excel;Occasionnellement
+197;Data Engineer;NA;sql;Régulièrement
+197;Data Engineer;NA;spark;Jamais
+197;Data Engineer;NA;spss;Jamais
+197;Data Engineer;NA;c_java;Jamais
+197;Data Engineer;NA;datastudio;Jamais
+197;Data Engineer;NA;matlab;Jamais
+200;Data Analyst;Un homme;python;Régulièrement
+200;Data Analyst;Un homme;r;Jamais
+200;Data Analyst;Un homme;sas;Jamais
+200;Data Analyst;Un homme;powerBI;Jamais
+200;Data Analyst;Un homme;tableau;Jamais
+200;Data Analyst;Un homme;qlik;Jamais
+200;Data Analyst;Un homme;excel;Régulièrement
+200;Data Analyst;Un homme;sql;Occasionnellement
+200;Data Analyst;Un homme;spark;Jamais
+200;Data Analyst;Un homme;spss;Jamais
+200;Data Analyst;Un homme;c_java;Jamais
+200;Data Analyst;Un homme;datastudio;Jamais
+200;Data Analyst;Un homme;matlab;Jamais
+201;Data Engineer;Un homme;python;Régulièrement
+201;Data Engineer;Un homme;r;Jamais
+201;Data Engineer;Un homme;sas;Jamais
+201;Data Engineer;Un homme;powerBI;Régulièrement
+201;Data Engineer;Un homme;tableau;Jamais
+201;Data Engineer;Un homme;qlik;Jamais
+201;Data Engineer;Un homme;excel;Régulièrement
+201;Data Engineer;Un homme;sql;Régulièrement
+201;Data Engineer;Un homme;spark;Régulièrement
+201;Data Engineer;Un homme;spss;Jamais
+201;Data Engineer;Un homme;c_java;Jamais
+201;Data Engineer;Un homme;datastudio;Jamais
+201;Data Engineer;Un homme;matlab;Jamais
+202;Data Scientist;NA;python;Régulièrement
+202;Data Scientist;NA;r;Jamais
+202;Data Scientist;NA;sas;Jamais
+202;Data Scientist;NA;powerBI;Jamais
+202;Data Scientist;NA;tableau;Jamais
+202;Data Scientist;NA;qlik;Jamais
+202;Data Scientist;NA;excel;Jamais
+202;Data Scientist;NA;sql;Jamais
+202;Data Scientist;NA;spark;Jamais
+202;Data Scientist;NA;spss;Jamais
+202;Data Scientist;NA;c_java;Jamais
+202;Data Scientist;NA;datastudio;Jamais
+202;Data Scientist;NA;matlab;Jamais
+204;Data Scientist;Un homme;python;Régulièrement
+204;Data Scientist;Un homme;r;Jamais
+204;Data Scientist;Un homme;sas;Jamais
+204;Data Scientist;Un homme;powerBI;Jamais
+204;Data Scientist;Un homme;tableau;Jamais
+204;Data Scientist;Un homme;qlik;Jamais
+204;Data Scientist;Un homme;excel;Occasionnellement
+204;Data Scientist;Un homme;sql;Occasionnellement
+204;Data Scientist;Un homme;spark;Jamais
+204;Data Scientist;Un homme;spss;Jamais
+204;Data Scientist;Un homme;c_java;Jamais
+204;Data Scientist;Un homme;datastudio;Jamais
+204;Data Scientist;Un homme;matlab;Jamais
+205;Data Scientist;NA;python;Jamais
+205;Data Scientist;NA;r;Jamais
+205;Data Scientist;NA;sas;Jamais
+205;Data Scientist;NA;powerBI;Jamais
+205;Data Scientist;NA;tableau;Jamais
+205;Data Scientist;NA;qlik;Jamais
+205;Data Scientist;NA;excel;Jamais
+205;Data Scientist;NA;sql;Jamais
+205;Data Scientist;NA;spark;Jamais
+205;Data Scientist;NA;spss;Jamais
+205;Data Scientist;NA;c_java;Jamais
+205;Data Scientist;NA;datastudio;Jamais
+205;Data Scientist;NA;matlab;Jamais
+206;Data Scientist;Une femme;python;Occasionnellement
+206;Data Scientist;Une femme;r;Jamais
+206;Data Scientist;Une femme;sas;Jamais
+206;Data Scientist;Une femme;powerBI;Jamais
+206;Data Scientist;Une femme;tableau;Jamais
+206;Data Scientist;Une femme;qlik;Jamais
+206;Data Scientist;Une femme;excel;Jamais
+206;Data Scientist;Une femme;sql;Régulièrement
+206;Data Scientist;Une femme;spark;Jamais
+206;Data Scientist;Une femme;spss;Jamais
+206;Data Scientist;Une femme;c_java;Jamais
+206;Data Scientist;Une femme;datastudio;Régulièrement
+206;Data Scientist;Une femme;matlab;Jamais
+208;Data Analyst;Un homme;python;Régulièrement
+208;Data Analyst;Un homme;r;Jamais
+208;Data Analyst;Un homme;sas;Jamais
+208;Data Analyst;Un homme;powerBI;Régulièrement
+208;Data Analyst;Un homme;tableau;Jamais
+208;Data Analyst;Un homme;qlik;Jamais
+208;Data Analyst;Un homme;excel;Régulièrement
+208;Data Analyst;Un homme;sql;Régulièrement
+208;Data Analyst;Un homme;spark;Jamais
+208;Data Analyst;Un homme;spss;Jamais
+208;Data Analyst;Un homme;c_java;Jamais
+208;Data Analyst;Un homme;datastudio;Jamais
+208;Data Analyst;Un homme;matlab;Jamais
+209;Data Scientist;Un homme;python;Occasionnellement
+209;Data Scientist;Un homme;r;Régulièrement
+209;Data Scientist;Un homme;sas;Jamais
+209;Data Scientist;Un homme;powerBI;Jamais
+209;Data Scientist;Un homme;tableau;Jamais
+209;Data Scientist;Un homme;qlik;Jamais
+209;Data Scientist;Un homme;excel;Régulièrement
+209;Data Scientist;Un homme;sql;Jamais
+209;Data Scientist;Un homme;spark;Jamais
+209;Data Scientist;Un homme;spss;Jamais
+209;Data Scientist;Un homme;c_java;Jamais
+209;Data Scientist;Un homme;datastudio;Jamais
+209;Data Scientist;Un homme;matlab;Jamais
+210;Data Scientist;Un homme;python;Occasionnellement
+210;Data Scientist;Un homme;r;Régulièrement
+210;Data Scientist;Un homme;sas;Jamais
+210;Data Scientist;Un homme;powerBI;Jamais
+210;Data Scientist;Un homme;tableau;Jamais
+210;Data Scientist;Un homme;qlik;Jamais
+210;Data Scientist;Un homme;excel;Occasionnellement
+210;Data Scientist;Un homme;sql;Régulièrement
+210;Data Scientist;Un homme;spark;Occasionnellement
+210;Data Scientist;Un homme;spss;Jamais
+210;Data Scientist;Un homme;c_java;Jamais
+210;Data Scientist;Un homme;datastudio;Jamais
+210;Data Scientist;Un homme;matlab;Jamais
+211;Data Analyst;Un homme;python;Jamais
+211;Data Analyst;Un homme;r;Régulièrement
+211;Data Analyst;Un homme;sas;Jamais
+211;Data Analyst;Un homme;powerBI;Jamais
+211;Data Analyst;Un homme;tableau;Régulièrement
+211;Data Analyst;Un homme;qlik;Jamais
+211;Data Analyst;Un homme;excel;Jamais
+211;Data Analyst;Un homme;sql;Jamais
+211;Data Analyst;Un homme;spark;Jamais
+211;Data Analyst;Un homme;spss;Jamais
+211;Data Analyst;Un homme;c_java;Jamais
+211;Data Analyst;Un homme;datastudio;Jamais
+211;Data Analyst;Un homme;matlab;Jamais
+214;Data Analyst;Une femme;python;Régulièrement
+214;Data Analyst;Une femme;r;Jamais
+214;Data Analyst;Une femme;sas;Jamais
+214;Data Analyst;Une femme;powerBI;Occasionnellement
+214;Data Analyst;Une femme;tableau;Jamais
+214;Data Analyst;Une femme;qlik;Jamais
+214;Data Analyst;Une femme;excel;Occasionnellement
+214;Data Analyst;Une femme;sql;Régulièrement
+214;Data Analyst;Une femme;spark;Jamais
+214;Data Analyst;Une femme;spss;Jamais
+214;Data Analyst;Une femme;c_java;Jamais
+214;Data Analyst;Une femme;datastudio;Jamais
+214;Data Analyst;Une femme;matlab;Jamais
+215;Data Analyst;Un homme;python;Régulièrement
+215;Data Analyst;Un homme;r;Jamais
+215;Data Analyst;Un homme;sas;Jamais
+215;Data Analyst;Un homme;powerBI;Régulièrement
+215;Data Analyst;Un homme;tableau;Jamais
+215;Data Analyst;Un homme;qlik;Jamais
+215;Data Analyst;Un homme;excel;Régulièrement
+215;Data Analyst;Un homme;sql;Occasionnellement
+215;Data Analyst;Un homme;spark;Jamais
+215;Data Analyst;Un homme;spss;Jamais
+215;Data Analyst;Un homme;c_java;Jamais
+215;Data Analyst;Un homme;datastudio;Jamais
+215;Data Analyst;Un homme;matlab;Jamais
+217;Data Analyst;Un homme;python;Jamais
+217;Data Analyst;Un homme;r;Jamais
+217;Data Analyst;Un homme;sas;Jamais
+217;Data Analyst;Un homme;powerBI;Jamais
+217;Data Analyst;Un homme;tableau;Jamais
+217;Data Analyst;Un homme;qlik;Jamais
+217;Data Analyst;Un homme;excel;Occasionnellement
+217;Data Analyst;Un homme;sql;Régulièrement
+217;Data Analyst;Un homme;spark;Jamais
+217;Data Analyst;Un homme;spss;Jamais
+217;Data Analyst;Un homme;c_java;Jamais
+217;Data Analyst;Un homme;datastudio;Jamais
+217;Data Analyst;Un homme;matlab;Jamais
+221;Data Analyst;NA;python;Occasionnellement
+221;Data Analyst;NA;r;Jamais
+221;Data Analyst;NA;sas;Jamais
+221;Data Analyst;NA;powerBI;Régulièrement
+221;Data Analyst;NA;tableau;Jamais
+221;Data Analyst;NA;qlik;Jamais
+221;Data Analyst;NA;excel;Régulièrement
+221;Data Analyst;NA;sql;Occasionnellement
+221;Data Analyst;NA;spark;Jamais
+221;Data Analyst;NA;spss;Jamais
+221;Data Analyst;NA;c_java;Jamais
+221;Data Analyst;NA;datastudio;Jamais
+221;Data Analyst;NA;matlab;Jamais
+222;Data Analyst;Un homme;python;Occasionnellement
+222;Data Analyst;Un homme;r;Jamais
+222;Data Analyst;Un homme;sas;Occasionnellement
+222;Data Analyst;Un homme;powerBI;Occasionnellement
+222;Data Analyst;Un homme;tableau;Jamais
+222;Data Analyst;Un homme;qlik;Jamais
+222;Data Analyst;Un homme;excel;Jamais
+222;Data Analyst;Un homme;sql;Régulièrement
+222;Data Analyst;Un homme;spark;Occasionnellement
+222;Data Analyst;Un homme;spss;Jamais
+222;Data Analyst;Un homme;c_java;Jamais
+222;Data Analyst;Un homme;datastudio;Occasionnellement
+222;Data Analyst;Un homme;matlab;Jamais
+223;Data Scientist;Un homme;python;Occasionnellement
+223;Data Scientist;Un homme;r;Jamais
+223;Data Scientist;Un homme;sas;Régulièrement
+223;Data Scientist;Un homme;powerBI;Jamais
+223;Data Scientist;Un homme;tableau;Jamais
+223;Data Scientist;Un homme;qlik;Jamais
+223;Data Scientist;Un homme;excel;Occasionnellement
+223;Data Scientist;Un homme;sql;Régulièrement
+223;Data Scientist;Un homme;spark;Jamais
+223;Data Scientist;Un homme;spss;Jamais
+223;Data Scientist;Un homme;c_java;Jamais
+223;Data Scientist;Un homme;datastudio;Jamais
+223;Data Scientist;Un homme;matlab;Jamais
+224;Data Engineer;Un homme;python;Régulièrement
+224;Data Engineer;Un homme;r;Jamais
+224;Data Engineer;Un homme;sas;Jamais
+224;Data Engineer;Un homme;powerBI;Jamais
+224;Data Engineer;Un homme;tableau;Jamais
+224;Data Engineer;Un homme;qlik;Jamais
+224;Data Engineer;Un homme;excel;Régulièrement
+224;Data Engineer;Un homme;sql;Occasionnellement
+224;Data Engineer;Un homme;spark;Jamais
+224;Data Engineer;Un homme;spss;Jamais
+224;Data Engineer;Un homme;c_java;Jamais
+224;Data Engineer;Un homme;datastudio;Jamais
+224;Data Engineer;Un homme;matlab;Jamais
+226;Data Analyst;Une femme;python;Régulièrement
+226;Data Analyst;Une femme;r;Jamais
+226;Data Analyst;Une femme;sas;Jamais
+226;Data Analyst;Une femme;powerBI;Jamais
+226;Data Analyst;Une femme;tableau;Jamais
+226;Data Analyst;Une femme;qlik;Jamais
+226;Data Analyst;Une femme;excel;Régulièrement
+226;Data Analyst;Une femme;sql;Régulièrement
+226;Data Analyst;Une femme;spark;Jamais
+226;Data Analyst;Une femme;spss;Jamais
+226;Data Analyst;Une femme;c_java;Jamais
+226;Data Analyst;Une femme;datastudio;Jamais
+226;Data Analyst;Une femme;matlab;Jamais
+227;Data Engineer;Un homme;python;Jamais
+227;Data Engineer;Un homme;r;Jamais
+227;Data Engineer;Un homme;sas;Jamais
+227;Data Engineer;Un homme;powerBI;Régulièrement
+227;Data Engineer;Un homme;tableau;Jamais
+227;Data Engineer;Un homme;qlik;Jamais
+227;Data Engineer;Un homme;excel;Régulièrement
+227;Data Engineer;Un homme;sql;Régulièrement
+227;Data Engineer;Un homme;spark;Jamais
+227;Data Engineer;Un homme;spss;Jamais
+227;Data Engineer;Un homme;c_java;Occasionnellement
+227;Data Engineer;Un homme;datastudio;Jamais
+227;Data Engineer;Un homme;matlab;Jamais
+229;Data Scientist;Un homme;python;Régulièrement
+229;Data Scientist;Un homme;r;Régulièrement
+229;Data Scientist;Un homme;sas;Jamais
+229;Data Scientist;Un homme;powerBI;Jamais
+229;Data Scientist;Un homme;tableau;Jamais
+229;Data Scientist;Un homme;qlik;Jamais
+229;Data Scientist;Un homme;excel;Occasionnellement
+229;Data Scientist;Un homme;sql;Occasionnellement
+229;Data Scientist;Un homme;spark;Jamais
+229;Data Scientist;Un homme;spss;Jamais
+229;Data Scientist;Un homme;c_java;Jamais
+229;Data Scientist;Un homme;datastudio;Jamais
+229;Data Scientist;Un homme;matlab;Jamais
+231;Data Analyst;Un homme;python;Jamais
+231;Data Analyst;Un homme;r;Jamais
+231;Data Analyst;Un homme;sas;Jamais
+231;Data Analyst;Un homme;powerBI;Jamais
+231;Data Analyst;Un homme;tableau;Régulièrement
+231;Data Analyst;Un homme;qlik;Jamais
+231;Data Analyst;Un homme;excel;Occasionnellement
+231;Data Analyst;Un homme;sql;Occasionnellement
+231;Data Analyst;Un homme;spark;Jamais
+231;Data Analyst;Un homme;spss;Jamais
+231;Data Analyst;Un homme;c_java;Jamais
+231;Data Analyst;Un homme;datastudio;Jamais
+231;Data Analyst;Un homme;matlab;Jamais
+232;Data Analyst;Un homme;python;Régulièrement
+232;Data Analyst;Un homme;r;Jamais
+232;Data Analyst;Un homme;sas;Jamais
+232;Data Analyst;Un homme;powerBI;Régulièrement
+232;Data Analyst;Un homme;tableau;Jamais
+232;Data Analyst;Un homme;qlik;Jamais
+232;Data Analyst;Un homme;excel;Occasionnellement
+232;Data Analyst;Un homme;sql;Régulièrement
+232;Data Analyst;Un homme;spark;Jamais
+232;Data Analyst;Un homme;spss;Jamais
+232;Data Analyst;Un homme;c_java;Jamais
+232;Data Analyst;Un homme;datastudio;Jamais
+232;Data Analyst;Un homme;matlab;Jamais
+236;Data Scientist;Une femme;python;Régulièrement
+236;Data Scientist;Une femme;r;Régulièrement
+236;Data Scientist;Une femme;sas;Jamais
+236;Data Scientist;Une femme;powerBI;Jamais
+236;Data Scientist;Une femme;tableau;Jamais
+236;Data Scientist;Une femme;qlik;Jamais
+236;Data Scientist;Une femme;excel;Occasionnellement
+236;Data Scientist;Une femme;sql;Jamais
+236;Data Scientist;Une femme;spark;Jamais
+236;Data Scientist;Une femme;spss;Jamais
+236;Data Scientist;Une femme;c_java;Jamais
+236;Data Scientist;Une femme;datastudio;Jamais
+236;Data Scientist;Une femme;matlab;Jamais
+237;Data Engineer;Un homme;python;Régulièrement
+237;Data Engineer;Un homme;r;Occasionnellement
+237;Data Engineer;Un homme;sas;Jamais
+237;Data Engineer;Un homme;powerBI;Jamais
+237;Data Engineer;Un homme;tableau;Jamais
+237;Data Engineer;Un homme;qlik;Jamais
+237;Data Engineer;Un homme;excel;Occasionnellement
+237;Data Engineer;Un homme;sql;Régulièrement
+237;Data Engineer;Un homme;spark;Jamais
+237;Data Engineer;Un homme;spss;Jamais
+237;Data Engineer;Un homme;c_java;Jamais
+237;Data Engineer;Un homme;datastudio;Jamais
+237;Data Engineer;Un homme;matlab;Jamais
+239;Data Scientist;Une femme;python;Régulièrement
+239;Data Scientist;Une femme;r;Jamais
+239;Data Scientist;Une femme;sas;Jamais
+239;Data Scientist;Une femme;powerBI;Jamais
+239;Data Scientist;Une femme;tableau;Jamais
+239;Data Scientist;Une femme;qlik;Jamais
+239;Data Scientist;Une femme;excel;Occasionnellement
+239;Data Scientist;Une femme;sql;Régulièrement
+239;Data Scientist;Une femme;spark;Jamais
+239;Data Scientist;Une femme;spss;Jamais
+239;Data Scientist;Une femme;c_java;Jamais
+239;Data Scientist;Une femme;datastudio;Jamais
+239;Data Scientist;Une femme;matlab;Jamais
+241;Data Analyst;Un homme;python;Régulièrement
+241;Data Analyst;Un homme;r;Jamais
+241;Data Analyst;Un homme;sas;Jamais
+241;Data Analyst;Un homme;powerBI;Régulièrement
+241;Data Analyst;Un homme;tableau;Jamais
+241;Data Analyst;Un homme;qlik;Jamais
+241;Data Analyst;Un homme;excel;Occasionnellement
+241;Data Analyst;Un homme;sql;Régulièrement
+241;Data Analyst;Un homme;spark;Régulièrement
+241;Data Analyst;Un homme;spss;Jamais
+241;Data Analyst;Un homme;c_java;Jamais
+241;Data Analyst;Un homme;datastudio;Occasionnellement
+241;Data Analyst;Un homme;matlab;Jamais
+242;Data Scientist;Un homme;python;Régulièrement
+242;Data Scientist;Un homme;r;Jamais
+242;Data Scientist;Un homme;sas;Jamais
+242;Data Scientist;Un homme;powerBI;Occasionnellement
+242;Data Scientist;Un homme;tableau;Jamais
+242;Data Scientist;Un homme;qlik;Jamais
+242;Data Scientist;Un homme;excel;Occasionnellement
+242;Data Scientist;Un homme;sql;Régulièrement
+242;Data Scientist;Un homme;spark;Régulièrement
+242;Data Scientist;Un homme;spss;Jamais
+242;Data Scientist;Un homme;c_java;Jamais
+242;Data Scientist;Un homme;datastudio;Jamais
+242;Data Scientist;Un homme;matlab;Jamais
+243;Data Scientist;Une femme;python;Régulièrement
+243;Data Scientist;Une femme;r;Jamais
+243;Data Scientist;Une femme;sas;Jamais
+243;Data Scientist;Une femme;powerBI;Jamais
+243;Data Scientist;Une femme;tableau;Jamais
+243;Data Scientist;Une femme;qlik;Jamais
+243;Data Scientist;Une femme;excel;Régulièrement
+243;Data Scientist;Une femme;sql;Occasionnellement
+243;Data Scientist;Une femme;spark;Jamais
+243;Data Scientist;Une femme;spss;Jamais
+243;Data Scientist;Une femme;c_java;Jamais
+243;Data Scientist;Une femme;datastudio;Jamais
+243;Data Scientist;Une femme;matlab;Jamais
+245;Data Scientist;Un homme;python;Régulièrement
+245;Data Scientist;Un homme;r;Occasionnellement
+245;Data Scientist;Un homme;sas;Jamais
+245;Data Scientist;Un homme;powerBI;Jamais
+245;Data Scientist;Un homme;tableau;Jamais
+245;Data Scientist;Un homme;qlik;Jamais
+245;Data Scientist;Un homme;excel;Occasionnellement
+245;Data Scientist;Un homme;sql;Régulièrement
+245;Data Scientist;Un homme;spark;Occasionnellement
+245;Data Scientist;Un homme;spss;Jamais
+245;Data Scientist;Un homme;c_java;Jamais
+245;Data Scientist;Un homme;datastudio;Jamais
+245;Data Scientist;Un homme;matlab;Jamais
+249;Data Engineer;Un homme;python;Régulièrement
+249;Data Engineer;Un homme;r;Jamais
+249;Data Engineer;Un homme;sas;Jamais
+249;Data Engineer;Un homme;powerBI;Occasionnellement
+249;Data Engineer;Un homme;tableau;Occasionnellement
+249;Data Engineer;Un homme;qlik;Jamais
+249;Data Engineer;Un homme;excel;Occasionnellement
+249;Data Engineer;Un homme;sql;Régulièrement
+249;Data Engineer;Un homme;spark;Régulièrement
+249;Data Engineer;Un homme;spss;Jamais
+249;Data Engineer;Un homme;c_java;Jamais
+249;Data Engineer;Un homme;datastudio;Régulièrement
+249;Data Engineer;Un homme;matlab;Jamais
+251;Data Analyst;Un homme;python;Régulièrement
+251;Data Analyst;Un homme;r;Régulièrement
+251;Data Analyst;Un homme;sas;Jamais
+251;Data Analyst;Un homme;powerBI;Occasionnellement
+251;Data Analyst;Un homme;tableau;Jamais
+251;Data Analyst;Un homme;qlik;Jamais
+251;Data Analyst;Un homme;excel;Régulièrement
+251;Data Analyst;Un homme;sql;Occasionnellement
+251;Data Analyst;Un homme;spark;Jamais
+251;Data Analyst;Un homme;spss;Régulièrement
+251;Data Analyst;Un homme;c_java;Jamais
+251;Data Analyst;Un homme;datastudio;Jamais
+251;Data Analyst;Un homme;matlab;Jamais
+252;Data Analyst;Un homme;python;Occasionnellement
+252;Data Analyst;Un homme;r;Jamais
+252;Data Analyst;Un homme;sas;Jamais
+252;Data Analyst;Un homme;powerBI;Régulièrement
+252;Data Analyst;Un homme;tableau;Jamais
+252;Data Analyst;Un homme;qlik;Jamais
+252;Data Analyst;Un homme;excel;Régulièrement
+252;Data Analyst;Un homme;sql;Régulièrement
+252;Data Analyst;Un homme;spark;Occasionnellement
+252;Data Analyst;Un homme;spss;Jamais
+252;Data Analyst;Un homme;c_java;Jamais
+252;Data Analyst;Un homme;datastudio;Jamais
+252;Data Analyst;Un homme;matlab;Jamais
+257;Data Analyst;Un homme;python;Occasionnellement
+257;Data Analyst;Un homme;r;Jamais
+257;Data Analyst;Un homme;sas;Jamais
+257;Data Analyst;Un homme;powerBI;Régulièrement
+257;Data Analyst;Un homme;tableau;Jamais
+257;Data Analyst;Un homme;qlik;Jamais
+257;Data Analyst;Un homme;excel;Régulièrement
+257;Data Analyst;Un homme;sql;Régulièrement
+257;Data Analyst;Un homme;spark;Jamais
+257;Data Analyst;Un homme;spss;Jamais
+257;Data Analyst;Un homme;c_java;Jamais
+257;Data Analyst;Un homme;datastudio;Jamais
+257;Data Analyst;Un homme;matlab;Jamais
+258;Data Analyst;Un homme;python;Occasionnellement
+258;Data Analyst;Un homme;r;Jamais
+258;Data Analyst;Un homme;sas;Jamais
+258;Data Analyst;Un homme;powerBI;Régulièrement
+258;Data Analyst;Un homme;tableau;Jamais
+258;Data Analyst;Un homme;qlik;Jamais
+258;Data Analyst;Un homme;excel;Régulièrement
+258;Data Analyst;Un homme;sql;Régulièrement
+258;Data Analyst;Un homme;spark;Jamais
+258;Data Analyst;Un homme;spss;Jamais
+258;Data Analyst;Un homme;c_java;Jamais
+258;Data Analyst;Un homme;datastudio;Jamais
+258;Data Analyst;Un homme;matlab;Jamais
+259;Data Analyst;Un homme;python;Occasionnellement
+259;Data Analyst;Un homme;r;Jamais
+259;Data Analyst;Un homme;sas;Jamais
+259;Data Analyst;Un homme;powerBI;Régulièrement
+259;Data Analyst;Un homme;tableau;Jamais
+259;Data Analyst;Un homme;qlik;Jamais
+259;Data Analyst;Un homme;excel;Régulièrement
+259;Data Analyst;Un homme;sql;Régulièrement
+259;Data Analyst;Un homme;spark;Jamais
+259;Data Analyst;Un homme;spss;Jamais
+259;Data Analyst;Un homme;c_java;Jamais
+259;Data Analyst;Un homme;datastudio;Jamais
+259;Data Analyst;Un homme;matlab;Jamais
+260;Data Scientist;Une femme;python;Occasionnellement
+260;Data Scientist;Une femme;r;Jamais
+260;Data Scientist;Une femme;sas;Jamais
+260;Data Scientist;Une femme;powerBI;Régulièrement
+260;Data Scientist;Une femme;tableau;Régulièrement
+260;Data Scientist;Une femme;qlik;Jamais
+260;Data Scientist;Une femme;excel;Régulièrement
+260;Data Scientist;Une femme;sql;Régulièrement
+260;Data Scientist;Une femme;spark;Jamais
+260;Data Scientist;Une femme;spss;Jamais
+260;Data Scientist;Une femme;c_java;Jamais
+260;Data Scientist;Une femme;datastudio;Jamais
+260;Data Scientist;Une femme;matlab;Jamais
+261;Data Scientist;NA;python;Jamais
+261;Data Scientist;NA;r;Jamais
+261;Data Scientist;NA;sas;Jamais
+261;Data Scientist;NA;powerBI;Jamais
+261;Data Scientist;NA;tableau;Jamais
+261;Data Scientist;NA;qlik;Jamais
+261;Data Scientist;NA;excel;Jamais
+261;Data Scientist;NA;sql;Jamais
+261;Data Scientist;NA;spark;Jamais
+261;Data Scientist;NA;spss;Jamais
+261;Data Scientist;NA;c_java;Jamais
+261;Data Scientist;NA;datastudio;Jamais
+261;Data Scientist;NA;matlab;Jamais
+262;Data Analyst;Un homme;python;Jamais
+262;Data Analyst;Un homme;r;Jamais
+262;Data Analyst;Un homme;sas;Jamais
+262;Data Analyst;Un homme;powerBI;Jamais
+262;Data Analyst;Un homme;tableau;Jamais
+262;Data Analyst;Un homme;qlik;Jamais
+262;Data Analyst;Un homme;excel;Occasionnellement
+262;Data Analyst;Un homme;sql;Jamais
+262;Data Analyst;Un homme;spark;Jamais
+262;Data Analyst;Un homme;spss;Jamais
+262;Data Analyst;Un homme;c_java;Jamais
+262;Data Analyst;Un homme;datastudio;Jamais
+262;Data Analyst;Un homme;matlab;Jamais
+264;Data Scientist;NA;python;Jamais
+264;Data Scientist;NA;r;Jamais
+264;Data Scientist;NA;sas;Jamais
+264;Data Scientist;NA;powerBI;Jamais
+264;Data Scientist;NA;tableau;Jamais
+264;Data Scientist;NA;qlik;Jamais
+264;Data Scientist;NA;excel;Jamais
+264;Data Scientist;NA;sql;Jamais
+264;Data Scientist;NA;spark;Jamais
+264;Data Scientist;NA;spss;Jamais
+264;Data Scientist;NA;c_java;Jamais
+264;Data Scientist;NA;datastudio;Jamais
+264;Data Scientist;NA;matlab;Jamais
+265;Data Scientist;Un homme;python;Régulièrement
+265;Data Scientist;Un homme;r;Occasionnellement
+265;Data Scientist;Un homme;sas;Régulièrement
+265;Data Scientist;Un homme;powerBI;Régulièrement
+265;Data Scientist;Un homme;tableau;Occasionnellement
+265;Data Scientist;Un homme;qlik;Jamais
+265;Data Scientist;Un homme;excel;Régulièrement
+265;Data Scientist;Un homme;sql;Régulièrement
+265;Data Scientist;Un homme;spark;Occasionnellement
+265;Data Scientist;Un homme;spss;Jamais
+265;Data Scientist;Un homme;c_java;Jamais
+265;Data Scientist;Un homme;datastudio;Jamais
+265;Data Scientist;Un homme;matlab;Jamais
+266;Data Analyst;Un homme;python;Jamais
+266;Data Analyst;Un homme;r;Jamais
+266;Data Analyst;Un homme;sas;Jamais
+266;Data Analyst;Un homme;powerBI;Occasionnellement
+266;Data Analyst;Un homme;tableau;Jamais
+266;Data Analyst;Un homme;qlik;Régulièrement
+266;Data Analyst;Un homme;excel;Régulièrement
+266;Data Analyst;Un homme;sql;Régulièrement
+266;Data Analyst;Un homme;spark;Jamais
+266;Data Analyst;Un homme;spss;Jamais
+266;Data Analyst;Un homme;c_java;Jamais
+266;Data Analyst;Un homme;datastudio;Jamais
+266;Data Analyst;Un homme;matlab;Jamais
+267;Data Scientist;Une femme;python;Régulièrement
+267;Data Scientist;Une femme;r;Jamais
+267;Data Scientist;Une femme;sas;Jamais
+267;Data Scientist;Une femme;powerBI;Jamais
+267;Data Scientist;Une femme;tableau;Jamais
+267;Data Scientist;Une femme;qlik;Jamais
+267;Data Scientist;Une femme;excel;Occasionnellement
+267;Data Scientist;Une femme;sql;Régulièrement
+267;Data Scientist;Une femme;spark;Jamais
+267;Data Scientist;Une femme;spss;Jamais
+267;Data Scientist;Une femme;c_java;Jamais
+267;Data Scientist;Une femme;datastudio;Jamais
+267;Data Scientist;Une femme;matlab;Jamais
+268;Data Analyst;NA;python;Jamais
+268;Data Analyst;NA;r;Jamais
+268;Data Analyst;NA;sas;Jamais
+268;Data Analyst;NA;powerBI;Occasionnellement
+268;Data Analyst;NA;tableau;Jamais
+268;Data Analyst;NA;qlik;Jamais
+268;Data Analyst;NA;excel;Régulièrement
+268;Data Analyst;NA;sql;Occasionnellement
+268;Data Analyst;NA;spark;Jamais
+268;Data Analyst;NA;spss;Jamais
+268;Data Analyst;NA;c_java;Jamais
+268;Data Analyst;NA;datastudio;Jamais
+268;Data Analyst;NA;matlab;Jamais
+269;Data Analyst;Un homme;python;Régulièrement
+269;Data Analyst;Un homme;r;Jamais
+269;Data Analyst;Un homme;sas;Jamais
+269;Data Analyst;Un homme;powerBI;Régulièrement
+269;Data Analyst;Un homme;tableau;Jamais
+269;Data Analyst;Un homme;qlik;Jamais
+269;Data Analyst;Un homme;excel;Régulièrement
+269;Data Analyst;Un homme;sql;Régulièrement
+269;Data Analyst;Un homme;spark;Jamais
+269;Data Analyst;Un homme;spss;Jamais
+269;Data Analyst;Un homme;c_java;Jamais
+269;Data Analyst;Un homme;datastudio;Occasionnellement
+269;Data Analyst;Un homme;matlab;Jamais
+271;Data Analyst;Une femme;python;Occasionnellement
+271;Data Analyst;Une femme;r;Jamais
+271;Data Analyst;Une femme;sas;Jamais
+271;Data Analyst;Une femme;powerBI;Jamais
+271;Data Analyst;Une femme;tableau;Jamais
+271;Data Analyst;Une femme;qlik;Jamais
+271;Data Analyst;Une femme;excel;Occasionnellement
+271;Data Analyst;Une femme;sql;Régulièrement
+271;Data Analyst;Une femme;spark;Jamais
+271;Data Analyst;Une femme;spss;Jamais
+271;Data Analyst;Une femme;c_java;Jamais
+271;Data Analyst;Une femme;datastudio;Jamais
+271;Data Analyst;Une femme;matlab;Jamais
+274;Data Analyst;Un homme;python;Occasionnellement
+274;Data Analyst;Un homme;r;Jamais
+274;Data Analyst;Un homme;sas;Jamais
+274;Data Analyst;Un homme;powerBI;Régulièrement
+274;Data Analyst;Un homme;tableau;Jamais
+274;Data Analyst;Un homme;qlik;Jamais
+274;Data Analyst;Un homme;excel;Régulièrement
+274;Data Analyst;Un homme;sql;Jamais
+274;Data Analyst;Un homme;spark;Jamais
+274;Data Analyst;Un homme;spss;Jamais
+274;Data Analyst;Un homme;c_java;Jamais
+274;Data Analyst;Un homme;datastudio;Jamais
+274;Data Analyst;Un homme;matlab;Jamais
+275;Data Scientist;Une femme;python;Occasionnellement
+275;Data Scientist;Une femme;r;Occasionnellement
+275;Data Scientist;Une femme;sas;Régulièrement
+275;Data Scientist;Une femme;powerBI;Jamais
+275;Data Scientist;Une femme;tableau;Jamais
+275;Data Scientist;Une femme;qlik;Jamais
+275;Data Scientist;Une femme;excel;Jamais
+275;Data Scientist;Une femme;sql;Occasionnellement
+275;Data Scientist;Une femme;spark;Jamais
+275;Data Scientist;Une femme;spss;Jamais
+275;Data Scientist;Une femme;c_java;Jamais
+275;Data Scientist;Une femme;datastudio;Jamais
+275;Data Scientist;Une femme;matlab;Jamais
+277;Data Scientist;Une femme;python;Régulièrement
+277;Data Scientist;Une femme;r;Jamais
+277;Data Scientist;Une femme;sas;Jamais
+277;Data Scientist;Une femme;powerBI;Jamais
+277;Data Scientist;Une femme;tableau;Jamais
+277;Data Scientist;Une femme;qlik;Jamais
+277;Data Scientist;Une femme;excel;Occasionnellement
+277;Data Scientist;Une femme;sql;Jamais
+277;Data Scientist;Une femme;spark;Jamais
+277;Data Scientist;Une femme;spss;Jamais
+277;Data Scientist;Une femme;c_java;Jamais
+277;Data Scientist;Une femme;datastudio;Jamais
+277;Data Scientist;Une femme;matlab;Jamais
+278;Data Analyst;Une femme;python;Occasionnellement
+278;Data Analyst;Une femme;r;Jamais
+278;Data Analyst;Une femme;sas;Jamais
+278;Data Analyst;Une femme;powerBI;Régulièrement
+278;Data Analyst;Une femme;tableau;Jamais
+278;Data Analyst;Une femme;qlik;Jamais
+278;Data Analyst;Une femme;excel;Régulièrement
+278;Data Analyst;Une femme;sql;Régulièrement
+278;Data Analyst;Une femme;spark;Jamais
+278;Data Analyst;Une femme;spss;Jamais
+278;Data Analyst;Une femme;c_java;Jamais
+278;Data Analyst;Une femme;datastudio;Jamais
+278;Data Analyst;Une femme;matlab;Jamais
+279;Data Analyst;Une femme;python;Occasionnellement
+279;Data Analyst;Une femme;r;Jamais
+279;Data Analyst;Une femme;sas;Jamais
+279;Data Analyst;Une femme;powerBI;Régulièrement
+279;Data Analyst;Une femme;tableau;Jamais
+279;Data Analyst;Une femme;qlik;Jamais
+279;Data Analyst;Une femme;excel;Régulièrement
+279;Data Analyst;Une femme;sql;Occasionnellement
+279;Data Analyst;Une femme;spark;Jamais
+279;Data Analyst;Une femme;spss;Jamais
+279;Data Analyst;Une femme;c_java;Jamais
+279;Data Analyst;Une femme;datastudio;Jamais
+279;Data Analyst;Une femme;matlab;Jamais
+280;Data Analyst;Un homme;python;Occasionnellement
+280;Data Analyst;Un homme;r;Occasionnellement
+280;Data Analyst;Un homme;sas;Jamais
+280;Data Analyst;Un homme;powerBI;Jamais
+280;Data Analyst;Un homme;tableau;Jamais
+280;Data Analyst;Un homme;qlik;Jamais
+280;Data Analyst;Un homme;excel;Jamais
+280;Data Analyst;Un homme;sql;Régulièrement
+280;Data Analyst;Un homme;spark;Jamais
+280;Data Analyst;Un homme;spss;Jamais
+280;Data Analyst;Un homme;c_java;Jamais
+280;Data Analyst;Un homme;datastudio;Régulièrement
+280;Data Analyst;Un homme;matlab;Jamais
+281;Data Engineer;Une femme;python;Régulièrement
+281;Data Engineer;Une femme;r;Jamais
+281;Data Engineer;Une femme;sas;Jamais
+281;Data Engineer;Une femme;powerBI;Jamais
+281;Data Engineer;Une femme;tableau;Jamais
+281;Data Engineer;Une femme;qlik;Jamais
+281;Data Engineer;Une femme;excel;Jamais
+281;Data Engineer;Une femme;sql;Occasionnellement
+281;Data Engineer;Une femme;spark;Occasionnellement
+281;Data Engineer;Une femme;spss;Jamais
+281;Data Engineer;Une femme;c_java;Régulièrement
+281;Data Engineer;Une femme;datastudio;Jamais
+281;Data Engineer;Une femme;matlab;Jamais
+283;Data Analyst;NA;python;Jamais
+283;Data Analyst;NA;r;Jamais
+283;Data Analyst;NA;sas;Jamais
+283;Data Analyst;NA;powerBI;Jamais
+283;Data Analyst;NA;tableau;Jamais
+283;Data Analyst;NA;qlik;Jamais
+283;Data Analyst;NA;excel;Régulièrement
+283;Data Analyst;NA;sql;Jamais
+283;Data Analyst;NA;spark;Jamais
+283;Data Analyst;NA;spss;Jamais
+283;Data Analyst;NA;c_java;Jamais
+283;Data Analyst;NA;datastudio;Jamais
+283;Data Analyst;NA;matlab;Jamais
+285;Data Analyst;Un homme;python;Régulièrement
+285;Data Analyst;Un homme;r;Jamais
+285;Data Analyst;Un homme;sas;Jamais
+285;Data Analyst;Un homme;powerBI;Régulièrement
+285;Data Analyst;Un homme;tableau;Jamais
+285;Data Analyst;Un homme;qlik;Jamais
+285;Data Analyst;Un homme;excel;Régulièrement
+285;Data Analyst;Un homme;sql;Jamais
+285;Data Analyst;Un homme;spark;Jamais
+285;Data Analyst;Un homme;spss;Jamais
+285;Data Analyst;Un homme;c_java;Jamais
+285;Data Analyst;Un homme;datastudio;Jamais
+285;Data Analyst;Un homme;matlab;Jamais
+289;Data Scientist;Un homme;python;Régulièrement
+289;Data Scientist;Un homme;r;Jamais
+289;Data Scientist;Un homme;sas;Jamais
+289;Data Scientist;Un homme;powerBI;Jamais
+289;Data Scientist;Un homme;tableau;Jamais
+289;Data Scientist;Un homme;qlik;Jamais
+289;Data Scientist;Un homme;excel;Jamais
+289;Data Scientist;Un homme;sql;Régulièrement
+289;Data Scientist;Un homme;spark;Occasionnellement
+289;Data Scientist;Un homme;spss;Jamais
+289;Data Scientist;Un homme;c_java;Jamais
+289;Data Scientist;Un homme;datastudio;Occasionnellement
+289;Data Scientist;Un homme;matlab;Jamais
+290;Data Analyst;NA;python;Régulièrement
+290;Data Analyst;NA;r;Jamais
+290;Data Analyst;NA;sas;Jamais
+290;Data Analyst;NA;powerBI;Régulièrement
+290;Data Analyst;NA;tableau;Jamais
+290;Data Analyst;NA;qlik;Jamais
+290;Data Analyst;NA;excel;Occasionnellement
+290;Data Analyst;NA;sql;Régulièrement
+290;Data Analyst;NA;spark;Jamais
+290;Data Analyst;NA;spss;Jamais
+290;Data Analyst;NA;c_java;Jamais
+290;Data Analyst;NA;datastudio;Jamais
+290;Data Analyst;NA;matlab;Jamais
+297;Data Scientist;Un homme;python;Régulièrement
+297;Data Scientist;Un homme;r;Jamais
+297;Data Scientist;Un homme;sas;Jamais
+297;Data Scientist;Un homme;powerBI;Occasionnellement
+297;Data Scientist;Un homme;tableau;Jamais
+297;Data Scientist;Un homme;qlik;Jamais
+297;Data Scientist;Un homme;excel;Régulièrement
+297;Data Scientist;Un homme;sql;Régulièrement
+297;Data Scientist;Un homme;spark;Jamais
+297;Data Scientist;Un homme;spss;Jamais
+297;Data Scientist;Un homme;c_java;Jamais
+297;Data Scientist;Un homme;datastudio;Régulièrement
+297;Data Scientist;Un homme;matlab;Jamais
+298;Data Analyst;Une femme;python;Occasionnellement
+298;Data Analyst;Une femme;r;Jamais
+298;Data Analyst;Une femme;sas;Jamais
+298;Data Analyst;Une femme;powerBI;Occasionnellement
+298;Data Analyst;Une femme;tableau;Régulièrement
+298;Data Analyst;Une femme;qlik;Jamais
+298;Data Analyst;Une femme;excel;Occasionnellement
+298;Data Analyst;Une femme;sql;Régulièrement
+298;Data Analyst;Une femme;spark;Jamais
+298;Data Analyst;Une femme;spss;Jamais
+298;Data Analyst;Une femme;c_java;Jamais
+298;Data Analyst;Une femme;datastudio;Jamais
+298;Data Analyst;Une femme;matlab;Jamais
+302;Data Analyst;Une femme;python;Jamais
+302;Data Analyst;Une femme;r;Occasionnellement
+302;Data Analyst;Une femme;sas;Jamais
+302;Data Analyst;Une femme;powerBI;Régulièrement
+302;Data Analyst;Une femme;tableau;Jamais
+302;Data Analyst;Une femme;qlik;Jamais
+302;Data Analyst;Une femme;excel;Régulièrement
+302;Data Analyst;Une femme;sql;Occasionnellement
+302;Data Analyst;Une femme;spark;Jamais
+302;Data Analyst;Une femme;spss;Jamais
+302;Data Analyst;Une femme;c_java;Jamais
+302;Data Analyst;Une femme;datastudio;Jamais
+302;Data Analyst;Une femme;matlab;Jamais
+303;Data Scientist;Un homme;python;Occasionnellement
+303;Data Scientist;Un homme;r;Jamais
+303;Data Scientist;Un homme;sas;Jamais
+303;Data Scientist;Un homme;powerBI;Occasionnellement
+303;Data Scientist;Un homme;tableau;Jamais
+303;Data Scientist;Un homme;qlik;Jamais
+303;Data Scientist;Un homme;excel;Régulièrement
+303;Data Scientist;Un homme;sql;Régulièrement
+303;Data Scientist;Un homme;spark;Jamais
+303;Data Scientist;Un homme;spss;Jamais
+303;Data Scientist;Un homme;c_java;Jamais
+303;Data Scientist;Un homme;datastudio;Jamais
+303;Data Scientist;Un homme;matlab;Jamais
+305;Data Scientist;NA;python;Régulièrement
+305;Data Scientist;NA;r;Régulièrement
+305;Data Scientist;NA;sas;Occasionnellement
+305;Data Scientist;NA;powerBI;Occasionnellement
+305;Data Scientist;NA;tableau;Jamais
+305;Data Scientist;NA;qlik;Jamais
+305;Data Scientist;NA;excel;Occasionnellement
+305;Data Scientist;NA;sql;Régulièrement
+305;Data Scientist;NA;spark;Jamais
+305;Data Scientist;NA;spss;Jamais
+305;Data Scientist;NA;c_java;Jamais
+305;Data Scientist;NA;datastudio;Jamais
+305;Data Scientist;NA;matlab;Jamais
+306;Data Scientist;Un homme;python;Jamais
+306;Data Scientist;Un homme;r;Régulièrement
+306;Data Scientist;Un homme;sas;Jamais
+306;Data Scientist;Un homme;powerBI;Jamais
+306;Data Scientist;Un homme;tableau;Jamais
+306;Data Scientist;Un homme;qlik;Jamais
+306;Data Scientist;Un homme;excel;Régulièrement
+306;Data Scientist;Un homme;sql;Jamais
+306;Data Scientist;Un homme;spark;Jamais
+306;Data Scientist;Un homme;spss;Jamais
+306;Data Scientist;Un homme;c_java;Jamais
+306;Data Scientist;Un homme;datastudio;Jamais
+306;Data Scientist;Un homme;matlab;Jamais
+308;Data Analyst;Un homme;python;Régulièrement
+308;Data Analyst;Un homme;r;Jamais
+308;Data Analyst;Un homme;sas;Jamais
+308;Data Analyst;Un homme;powerBI;Occasionnellement
+308;Data Analyst;Un homme;tableau;Régulièrement
+308;Data Analyst;Un homme;qlik;Jamais
+308;Data Analyst;Un homme;excel;Jamais
+308;Data Analyst;Un homme;sql;Jamais
+308;Data Analyst;Un homme;spark;Jamais
+308;Data Analyst;Un homme;spss;Jamais
+308;Data Analyst;Un homme;c_java;Jamais
+308;Data Analyst;Un homme;datastudio;Jamais
+308;Data Analyst;Un homme;matlab;Jamais
+313;Data Analyst;Un homme;python;Occasionnellement
+313;Data Analyst;Un homme;r;Occasionnellement
+313;Data Analyst;Un homme;sas;Jamais
+313;Data Analyst;Un homme;powerBI;Régulièrement
+313;Data Analyst;Un homme;tableau;Jamais
+313;Data Analyst;Un homme;qlik;Jamais
+313;Data Analyst;Un homme;excel;Régulièrement
+313;Data Analyst;Un homme;sql;Régulièrement
+313;Data Analyst;Un homme;spark;Jamais
+313;Data Analyst;Un homme;spss;Jamais
+313;Data Analyst;Un homme;c_java;Jamais
+313;Data Analyst;Un homme;datastudio;Jamais
+313;Data Analyst;Un homme;matlab;Jamais
+315;Data Scientist;Un homme;python;Régulièrement
+315;Data Scientist;Un homme;r;Jamais
+315;Data Scientist;Un homme;sas;Jamais
+315;Data Scientist;Un homme;powerBI;Jamais
+315;Data Scientist;Un homme;tableau;Jamais
+315;Data Scientist;Un homme;qlik;Jamais
+315;Data Scientist;Un homme;excel;Occasionnellement
+315;Data Scientist;Un homme;sql;Régulièrement
+315;Data Scientist;Un homme;spark;Jamais
+315;Data Scientist;Un homme;spss;Jamais
+315;Data Scientist;Un homme;c_java;Jamais
+315;Data Scientist;Un homme;datastudio;Jamais
+315;Data Scientist;Un homme;matlab;Jamais
+316;Data Engineer;Une femme;python;Régulièrement
+316;Data Engineer;Une femme;r;Occasionnellement
+316;Data Engineer;Une femme;sas;Jamais
+316;Data Engineer;Une femme;powerBI;Occasionnellement
+316;Data Engineer;Une femme;tableau;Occasionnellement
+316;Data Engineer;Une femme;qlik;Jamais
+316;Data Engineer;Une femme;excel;Occasionnellement
+316;Data Engineer;Une femme;sql;Occasionnellement
+316;Data Engineer;Une femme;spark;Jamais
+316;Data Engineer;Une femme;spss;Occasionnellement
+316;Data Engineer;Une femme;c_java;Jamais
+316;Data Engineer;Une femme;datastudio;Jamais
+316;Data Engineer;Une femme;matlab;Jamais
+317;Data Scientist;Une femme;python;Régulièrement
+317;Data Scientist;Une femme;r;Occasionnellement
+317;Data Scientist;Une femme;sas;Jamais
+317;Data Scientist;Une femme;powerBI;Jamais
+317;Data Scientist;Une femme;tableau;Jamais
+317;Data Scientist;Une femme;qlik;Jamais
+317;Data Scientist;Une femme;excel;Régulièrement
+317;Data Scientist;Une femme;sql;Jamais
+317;Data Scientist;Une femme;spark;Occasionnellement
+317;Data Scientist;Une femme;spss;Jamais
+317;Data Scientist;Une femme;c_java;Régulièrement
+317;Data Scientist;Une femme;datastudio;Jamais
+317;Data Scientist;Une femme;matlab;Jamais
+318;Data Scientist;Un homme;python;Régulièrement
+318;Data Scientist;Un homme;r;Jamais
+318;Data Scientist;Un homme;sas;Jamais
+318;Data Scientist;Un homme;powerBI;Jamais
+318;Data Scientist;Un homme;tableau;Jamais
+318;Data Scientist;Un homme;qlik;Jamais
+318;Data Scientist;Un homme;excel;Jamais
+318;Data Scientist;Un homme;sql;Occasionnellement
+318;Data Scientist;Un homme;spark;Jamais
+318;Data Scientist;Un homme;spss;Jamais
+318;Data Scientist;Un homme;c_java;Jamais
+318;Data Scientist;Un homme;datastudio;Jamais
+318;Data Scientist;Un homme;matlab;Jamais
+319;Data Scientist;Un homme;python;Régulièrement
+319;Data Scientist;Un homme;r;Jamais
+319;Data Scientist;Un homme;sas;Jamais
+319;Data Scientist;Un homme;powerBI;Jamais
+319;Data Scientist;Un homme;tableau;Jamais
+319;Data Scientist;Un homme;qlik;Jamais
+319;Data Scientist;Un homme;excel;Jamais
+319;Data Scientist;Un homme;sql;Régulièrement
+319;Data Scientist;Un homme;spark;Jamais
+319;Data Scientist;Un homme;spss;Jamais
+319;Data Scientist;Un homme;c_java;Jamais
+319;Data Scientist;Un homme;datastudio;Jamais
+319;Data Scientist;Un homme;matlab;Jamais
+320;Data Engineer;Un homme;python;Régulièrement
+320;Data Engineer;Un homme;r;Jamais
+320;Data Engineer;Un homme;sas;Jamais
+320;Data Engineer;Un homme;powerBI;Occasionnellement
+320;Data Engineer;Un homme;tableau;Jamais
+320;Data Engineer;Un homme;qlik;Jamais
+320;Data Engineer;Un homme;excel;Régulièrement
+320;Data Engineer;Un homme;sql;Régulièrement
+320;Data Engineer;Un homme;spark;Jamais
+320;Data Engineer;Un homme;spss;Jamais
+320;Data Engineer;Un homme;c_java;Jamais
+320;Data Engineer;Un homme;datastudio;Jamais
+320;Data Engineer;Un homme;matlab;Jamais
+322;Data Engineer;Un homme;python;Régulièrement
+322;Data Engineer;Un homme;r;Jamais
+322;Data Engineer;Un homme;sas;Jamais
+322;Data Engineer;Un homme;powerBI;Jamais
+322;Data Engineer;Un homme;tableau;Jamais
+322;Data Engineer;Un homme;qlik;Jamais
+322;Data Engineer;Un homme;excel;Occasionnellement
+322;Data Engineer;Un homme;sql;Occasionnellement
+322;Data Engineer;Un homme;spark;Jamais
+322;Data Engineer;Un homme;spss;Jamais
+322;Data Engineer;Un homme;c_java;Jamais
+322;Data Engineer;Un homme;datastudio;Jamais
+322;Data Engineer;Un homme;matlab;Jamais
+323;Data Engineer;Un homme;python;Régulièrement
+323;Data Engineer;Un homme;r;Jamais
+323;Data Engineer;Un homme;sas;Jamais
+323;Data Engineer;Un homme;powerBI;Occasionnellement
+323;Data Engineer;Un homme;tableau;Jamais
+323;Data Engineer;Un homme;qlik;Jamais
+323;Data Engineer;Un homme;excel;Occasionnellement
+323;Data Engineer;Un homme;sql;Régulièrement
+323;Data Engineer;Un homme;spark;Jamais
+323;Data Engineer;Un homme;spss;Jamais
+323;Data Engineer;Un homme;c_java;Jamais
+323;Data Engineer;Un homme;datastudio;Jamais
+323;Data Engineer;Un homme;matlab;Jamais
+325;Data Analyst;Un homme;python;Jamais
+325;Data Analyst;Un homme;r;Jamais
+325;Data Analyst;Un homme;sas;Jamais
+325;Data Analyst;Un homme;powerBI;Jamais
+325;Data Analyst;Un homme;tableau;Jamais
+325;Data Analyst;Un homme;qlik;Jamais
+325;Data Analyst;Un homme;excel;Occasionnellement
+325;Data Analyst;Un homme;sql;Régulièrement
+325;Data Analyst;Un homme;spark;Jamais
+325;Data Analyst;Un homme;spss;Jamais
+325;Data Analyst;Un homme;c_java;Jamais
+325;Data Analyst;Un homme;datastudio;Jamais
+325;Data Analyst;Un homme;matlab;Jamais
+326;Data Scientist;Une femme;python;Régulièrement
+326;Data Scientist;Une femme;r;Jamais
+326;Data Scientist;Une femme;sas;Régulièrement
+326;Data Scientist;Une femme;powerBI;Occasionnellement
+326;Data Scientist;Une femme;tableau;Jamais
+326;Data Scientist;Une femme;qlik;Jamais
+326;Data Scientist;Une femme;excel;Régulièrement
+326;Data Scientist;Une femme;sql;Occasionnellement
+326;Data Scientist;Une femme;spark;Jamais
+326;Data Scientist;Une femme;spss;Jamais
+326;Data Scientist;Une femme;c_java;Jamais
+326;Data Scientist;Une femme;datastudio;Jamais
+326;Data Scientist;Une femme;matlab;Jamais
+327;Data Engineer;Un homme;python;Occasionnellement
+327;Data Engineer;Un homme;r;Jamais
+327;Data Engineer;Un homme;sas;Jamais
+327;Data Engineer;Un homme;powerBI;Régulièrement
+327;Data Engineer;Un homme;tableau;Jamais
+327;Data Engineer;Un homme;qlik;Jamais
+327;Data Engineer;Un homme;excel;Régulièrement
+327;Data Engineer;Un homme;sql;Régulièrement
+327;Data Engineer;Un homme;spark;Occasionnellement
+327;Data Engineer;Un homme;spss;Jamais
+327;Data Engineer;Un homme;c_java;Jamais
+327;Data Engineer;Un homme;datastudio;Jamais
+327;Data Engineer;Un homme;matlab;Jamais
+328;Data Analyst;NA;python;Jamais
+328;Data Analyst;NA;r;Jamais
+328;Data Analyst;NA;sas;Jamais
+328;Data Analyst;NA;powerBI;Jamais
+328;Data Analyst;NA;tableau;Jamais
+328;Data Analyst;NA;qlik;Jamais
+328;Data Analyst;NA;excel;Jamais
+328;Data Analyst;NA;sql;Jamais
+328;Data Analyst;NA;spark;Jamais
+328;Data Analyst;NA;spss;Jamais
+328;Data Analyst;NA;c_java;Jamais
+328;Data Analyst;NA;datastudio;Jamais
+328;Data Analyst;NA;matlab;Jamais
+330;Data Scientist;NA;python;Régulièrement
+330;Data Scientist;NA;r;Jamais
+330;Data Scientist;NA;sas;Jamais
+330;Data Scientist;NA;powerBI;Régulièrement
+330;Data Scientist;NA;tableau;Jamais
+330;Data Scientist;NA;qlik;Jamais
+330;Data Scientist;NA;excel;Régulièrement
+330;Data Scientist;NA;sql;Régulièrement
+330;Data Scientist;NA;spark;Occasionnellement
+330;Data Scientist;NA;spss;Jamais
+330;Data Scientist;NA;c_java;Jamais
+330;Data Scientist;NA;datastudio;Jamais
+330;Data Scientist;NA;matlab;Jamais
+331;Data Scientist;Une femme;python;Occasionnellement
+331;Data Scientist;Une femme;r;Régulièrement
+331;Data Scientist;Une femme;sas;Occasionnellement
+331;Data Scientist;Une femme;powerBI;Jamais
+331;Data Scientist;Une femme;tableau;Jamais
+331;Data Scientist;Une femme;qlik;Jamais
+331;Data Scientist;Une femme;excel;Régulièrement
+331;Data Scientist;Une femme;sql;Jamais
+331;Data Scientist;Une femme;spark;Jamais
+331;Data Scientist;Une femme;spss;Jamais
+331;Data Scientist;Une femme;c_java;Jamais
+331;Data Scientist;Une femme;datastudio;Jamais
+331;Data Scientist;Une femme;matlab;Jamais
+332;Data Analyst;Un homme;python;Jamais
+332;Data Analyst;Un homme;r;Jamais
+332;Data Analyst;Un homme;sas;Jamais
+332;Data Analyst;Un homme;powerBI;Régulièrement
+332;Data Analyst;Un homme;tableau;Jamais
+332;Data Analyst;Un homme;qlik;Jamais
+332;Data Analyst;Un homme;excel;Régulièrement
+332;Data Analyst;Un homme;sql;Jamais
+332;Data Analyst;Un homme;spark;Jamais
+332;Data Analyst;Un homme;spss;Jamais
+332;Data Analyst;Un homme;c_java;Jamais
+332;Data Analyst;Un homme;datastudio;Jamais
+332;Data Analyst;Un homme;matlab;Jamais
+333;Data Scientist;Une femme;python;Occasionnellement
+333;Data Scientist;Une femme;r;Régulièrement
+333;Data Scientist;Une femme;sas;Occasionnellement
+333;Data Scientist;Une femme;powerBI;Occasionnellement
+333;Data Scientist;Une femme;tableau;Jamais
+333;Data Scientist;Une femme;qlik;Jamais
+333;Data Scientist;Une femme;excel;Occasionnellement
+333;Data Scientist;Une femme;sql;Occasionnellement
+333;Data Scientist;Une femme;spark;Jamais
+333;Data Scientist;Une femme;spss;Jamais
+333;Data Scientist;Une femme;c_java;Jamais
+333;Data Scientist;Une femme;datastudio;Jamais
+333;Data Scientist;Une femme;matlab;Jamais
+335;Data Scientist;Un homme;python;Occasionnellement
+335;Data Scientist;Un homme;r;Jamais
+335;Data Scientist;Un homme;sas;Jamais
+335;Data Scientist;Un homme;powerBI;Jamais
+335;Data Scientist;Un homme;tableau;Jamais
+335;Data Scientist;Un homme;qlik;Jamais
+335;Data Scientist;Un homme;excel;Jamais
+335;Data Scientist;Un homme;sql;Régulièrement
+335;Data Scientist;Un homme;spark;Jamais
+335;Data Scientist;Un homme;spss;Jamais
+335;Data Scientist;Un homme;c_java;Jamais
+335;Data Scientist;Un homme;datastudio;Occasionnellement
+335;Data Scientist;Un homme;matlab;Jamais
+339;Data Analyst;Un homme;python;Occasionnellement
+339;Data Analyst;Un homme;r;Jamais
+339;Data Analyst;Un homme;sas;Occasionnellement
+339;Data Analyst;Un homme;powerBI;Régulièrement
+339;Data Analyst;Un homme;tableau;Jamais
+339;Data Analyst;Un homme;qlik;Jamais
+339;Data Analyst;Un homme;excel;Régulièrement
+339;Data Analyst;Un homme;sql;Régulièrement
+339;Data Analyst;Un homme;spark;Jamais
+339;Data Analyst;Un homme;spss;Jamais
+339;Data Analyst;Un homme;c_java;Jamais
+339;Data Analyst;Un homme;datastudio;Jamais
+339;Data Analyst;Un homme;matlab;Jamais
+340;Data Engineer;Un homme;python;Régulièrement
+340;Data Engineer;Un homme;r;Jamais
+340;Data Engineer;Un homme;sas;Jamais
+340;Data Engineer;Un homme;powerBI;Jamais
+340;Data Engineer;Un homme;tableau;Jamais
+340;Data Engineer;Un homme;qlik;Jamais
+340;Data Engineer;Un homme;excel;Jamais
+340;Data Engineer;Un homme;sql;Régulièrement
+340;Data Engineer;Un homme;spark;Régulièrement
+340;Data Engineer;Un homme;spss;Jamais
+340;Data Engineer;Un homme;c_java;Jamais
+340;Data Engineer;Un homme;datastudio;Jamais
+340;Data Engineer;Un homme;matlab;Jamais
+341;Data Analyst;NA;python;Occasionnellement
+341;Data Analyst;NA;r;Occasionnellement
+341;Data Analyst;NA;sas;Jamais
+341;Data Analyst;NA;powerBI;Jamais
+341;Data Analyst;NA;tableau;Jamais
+341;Data Analyst;NA;qlik;Jamais
+341;Data Analyst;NA;excel;Régulièrement
+341;Data Analyst;NA;sql;Jamais
+341;Data Analyst;NA;spark;Jamais
+341;Data Analyst;NA;spss;Jamais
+341;Data Analyst;NA;c_java;Jamais
+341;Data Analyst;NA;datastudio;Jamais
+341;Data Analyst;NA;matlab;Jamais
+342;Data Scientist;NA;python;Jamais
+342;Data Scientist;NA;r;Jamais
+342;Data Scientist;NA;sas;Jamais
+342;Data Scientist;NA;powerBI;Jamais
+342;Data Scientist;NA;tableau;Jamais
+342;Data Scientist;NA;qlik;Jamais
+342;Data Scientist;NA;excel;Jamais
+342;Data Scientist;NA;sql;Jamais
+342;Data Scientist;NA;spark;Jamais
+342;Data Scientist;NA;spss;Jamais
+342;Data Scientist;NA;c_java;Jamais
+342;Data Scientist;NA;datastudio;Jamais
+342;Data Scientist;NA;matlab;Jamais
+345;Data Scientist;NA;python;Jamais
+345;Data Scientist;NA;r;Jamais
+345;Data Scientist;NA;sas;Jamais
+345;Data Scientist;NA;powerBI;Jamais
+345;Data Scientist;NA;tableau;Jamais
+345;Data Scientist;NA;qlik;Jamais
+345;Data Scientist;NA;excel;Jamais
+345;Data Scientist;NA;sql;Jamais
+345;Data Scientist;NA;spark;Jamais
+345;Data Scientist;NA;spss;Jamais
+345;Data Scientist;NA;c_java;Jamais
+345;Data Scientist;NA;datastudio;Jamais
+345;Data Scientist;NA;matlab;Jamais
+346;Data Analyst;NA;python;Jamais
+346;Data Analyst;NA;r;Jamais
+346;Data Analyst;NA;sas;Jamais
+346;Data Analyst;NA;powerBI;Jamais
+346;Data Analyst;NA;tableau;Jamais
+346;Data Analyst;NA;qlik;Jamais
+346;Data Analyst;NA;excel;Jamais
+346;Data Analyst;NA;sql;Jamais
+346;Data Analyst;NA;spark;Jamais
+346;Data Analyst;NA;spss;Jamais
+346;Data Analyst;NA;c_java;Jamais
+346;Data Analyst;NA;datastudio;Jamais
+346;Data Analyst;NA;matlab;Jamais
+347;Data Analyst;Une femme;python;Régulièrement
+347;Data Analyst;Une femme;r;Régulièrement
+347;Data Analyst;Une femme;sas;Jamais
+347;Data Analyst;Une femme;powerBI;Occasionnellement
+347;Data Analyst;Une femme;tableau;Jamais
+347;Data Analyst;Une femme;qlik;Jamais
+347;Data Analyst;Une femme;excel;Régulièrement
+347;Data Analyst;Une femme;sql;Occasionnellement
+347;Data Analyst;Une femme;spark;Jamais
+347;Data Analyst;Une femme;spss;Occasionnellement
+347;Data Analyst;Une femme;c_java;Jamais
+347;Data Analyst;Une femme;datastudio;Jamais
+347;Data Analyst;Une femme;matlab;Occasionnellement
+348;Data Analyst;NA;python;Occasionnellement
+348;Data Analyst;NA;r;Occasionnellement
+348;Data Analyst;NA;sas;Régulièrement
+348;Data Analyst;NA;powerBI;Jamais
+348;Data Analyst;NA;tableau;Jamais
+348;Data Analyst;NA;qlik;Jamais
+348;Data Analyst;NA;excel;Régulièrement
+348;Data Analyst;NA;sql;Régulièrement
+348;Data Analyst;NA;spark;Jamais
+348;Data Analyst;NA;spss;Jamais
+348;Data Analyst;NA;c_java;Jamais
+348;Data Analyst;NA;datastudio;Jamais
+348;Data Analyst;NA;matlab;Jamais
+349;Data Analyst;Un homme;python;Jamais
+349;Data Analyst;Un homme;r;Occasionnellement
+349;Data Analyst;Un homme;sas;Jamais
+349;Data Analyst;Un homme;powerBI;Jamais
+349;Data Analyst;Un homme;tableau;Jamais
+349;Data Analyst;Un homme;qlik;Jamais
+349;Data Analyst;Un homme;excel;Régulièrement
+349;Data Analyst;Un homme;sql;Jamais
+349;Data Analyst;Un homme;spark;Jamais
+349;Data Analyst;Un homme;spss;Occasionnellement
+349;Data Analyst;Un homme;c_java;Jamais
+349;Data Analyst;Un homme;datastudio;Jamais
+349;Data Analyst;Un homme;matlab;Jamais
+350;Data Analyst;Un homme;python;Occasionnellement
+350;Data Analyst;Un homme;r;Jamais
+350;Data Analyst;Un homme;sas;Jamais
+350;Data Analyst;Un homme;powerBI;Régulièrement
+350;Data Analyst;Un homme;tableau;Jamais
+350;Data Analyst;Un homme;qlik;Jamais
+350;Data Analyst;Un homme;excel;Régulièrement
+350;Data Analyst;Un homme;sql;Régulièrement
+350;Data Analyst;Un homme;spark;Jamais
+350;Data Analyst;Un homme;spss;Jamais
+350;Data Analyst;Un homme;c_java;Jamais
+350;Data Analyst;Un homme;datastudio;Jamais
+350;Data Analyst;Un homme;matlab;Jamais
+351;Data Analyst;Un homme;python;Occasionnellement
+351;Data Analyst;Un homme;r;Jamais
+351;Data Analyst;Un homme;sas;Jamais
+351;Data Analyst;Un homme;powerBI;Régulièrement
+351;Data Analyst;Un homme;tableau;Jamais
+351;Data Analyst;Un homme;qlik;Jamais
+351;Data Analyst;Un homme;excel;Régulièrement
+351;Data Analyst;Un homme;sql;Régulièrement
+351;Data Analyst;Un homme;spark;Jamais
+351;Data Analyst;Un homme;spss;Jamais
+351;Data Analyst;Un homme;c_java;Jamais
+351;Data Analyst;Un homme;datastudio;Jamais
+351;Data Analyst;Un homme;matlab;Jamais
+353;Data Engineer;Un homme;python;Occasionnellement
+353;Data Engineer;Un homme;r;Jamais
+353;Data Engineer;Un homme;sas;Jamais
+353;Data Engineer;Un homme;powerBI;Régulièrement
+353;Data Engineer;Un homme;tableau;Jamais
+353;Data Engineer;Un homme;qlik;Jamais
+353;Data Engineer;Un homme;excel;Jamais
+353;Data Engineer;Un homme;sql;Régulièrement
+353;Data Engineer;Un homme;spark;Jamais
+353;Data Engineer;Un homme;spss;Jamais
+353;Data Engineer;Un homme;c_java;Jamais
+353;Data Engineer;Un homme;datastudio;Jamais
+353;Data Engineer;Un homme;matlab;Jamais
+354;Data Analyst;NA;python;Occasionnellement
+354;Data Analyst;NA;r;Jamais
+354;Data Analyst;NA;sas;Régulièrement
+354;Data Analyst;NA;powerBI;Occasionnellement
+354;Data Analyst;NA;tableau;Jamais
+354;Data Analyst;NA;qlik;Jamais
+354;Data Analyst;NA;excel;Régulièrement
+354;Data Analyst;NA;sql;Régulièrement
+354;Data Analyst;NA;spark;Jamais
+354;Data Analyst;NA;spss;Jamais
+354;Data Analyst;NA;c_java;Jamais
+354;Data Analyst;NA;datastudio;Jamais
+354;Data Analyst;NA;matlab;Jamais
+356;Data Analyst;Un homme;python;Occasionnellement
+356;Data Analyst;Un homme;r;Occasionnellement
+356;Data Analyst;Un homme;sas;Occasionnellement
+356;Data Analyst;Un homme;powerBI;Régulièrement
+356;Data Analyst;Un homme;tableau;Jamais
+356;Data Analyst;Un homme;qlik;Jamais
+356;Data Analyst;Un homme;excel;Régulièrement
+356;Data Analyst;Un homme;sql;Régulièrement
+356;Data Analyst;Un homme;spark;Jamais
+356;Data Analyst;Un homme;spss;Jamais
+356;Data Analyst;Un homme;c_java;Jamais
+356;Data Analyst;Un homme;datastudio;Jamais
+356;Data Analyst;Un homme;matlab;Jamais
+362;Data Analyst;Une femme;python;Régulièrement
+362;Data Analyst;Une femme;r;Jamais
+362;Data Analyst;Une femme;sas;Jamais
+362;Data Analyst;Une femme;powerBI;Jamais
+362;Data Analyst;Une femme;tableau;Régulièrement
+362;Data Analyst;Une femme;qlik;Jamais
+362;Data Analyst;Une femme;excel;Occasionnellement
+362;Data Analyst;Une femme;sql;Régulièrement
+362;Data Analyst;Une femme;spark;Jamais
+362;Data Analyst;Une femme;spss;Jamais
+362;Data Analyst;Une femme;c_java;Jamais
+362;Data Analyst;Une femme;datastudio;Jamais
+362;Data Analyst;Une femme;matlab;Jamais
+364;Data Scientist;Un homme;python;Régulièrement
+364;Data Scientist;Un homme;r;Jamais
+364;Data Scientist;Un homme;sas;Jamais
+364;Data Scientist;Un homme;powerBI;Régulièrement
+364;Data Scientist;Un homme;tableau;Jamais
+364;Data Scientist;Un homme;qlik;Jamais
+364;Data Scientist;Un homme;excel;Jamais
+364;Data Scientist;Un homme;sql;Régulièrement
+364;Data Scientist;Un homme;spark;Jamais
+364;Data Scientist;Un homme;spss;Jamais
+364;Data Scientist;Un homme;c_java;Jamais
+364;Data Scientist;Un homme;datastudio;Jamais
+364;Data Scientist;Un homme;matlab;Jamais
+365;Data Scientist;Un homme;python;Jamais
+365;Data Scientist;Un homme;r;Régulièrement
+365;Data Scientist;Un homme;sas;Jamais
+365;Data Scientist;Un homme;powerBI;Jamais
+365;Data Scientist;Un homme;tableau;Jamais
+365;Data Scientist;Un homme;qlik;Jamais
+365;Data Scientist;Un homme;excel;Occasionnellement
+365;Data Scientist;Un homme;sql;Occasionnellement
+365;Data Scientist;Un homme;spark;Jamais
+365;Data Scientist;Un homme;spss;Jamais
+365;Data Scientist;Un homme;c_java;Jamais
+365;Data Scientist;Un homme;datastudio;Jamais
+365;Data Scientist;Un homme;matlab;Jamais
+367;Data Analyst;Un homme;python;Occasionnellement
+367;Data Analyst;Un homme;r;Jamais
+367;Data Analyst;Un homme;sas;Jamais
+367;Data Analyst;Un homme;powerBI;Occasionnellement
+367;Data Analyst;Un homme;tableau;Jamais
+367;Data Analyst;Un homme;qlik;Jamais
+367;Data Analyst;Un homme;excel;Occasionnellement
+367;Data Analyst;Un homme;sql;Régulièrement
+367;Data Analyst;Un homme;spark;Jamais
+367;Data Analyst;Un homme;spss;Jamais
+367;Data Analyst;Un homme;c_java;Jamais
+367;Data Analyst;Un homme;datastudio;Jamais
+367;Data Analyst;Un homme;matlab;Jamais
+369;Data Scientist;Un homme;python;Jamais
+369;Data Scientist;Un homme;r;Jamais
+369;Data Scientist;Un homme;sas;Régulièrement
+369;Data Scientist;Un homme;powerBI;Jamais
+369;Data Scientist;Un homme;tableau;Jamais
+369;Data Scientist;Un homme;qlik;Occasionnellement
+369;Data Scientist;Un homme;excel;Régulièrement
+369;Data Scientist;Un homme;sql;Régulièrement
+369;Data Scientist;Un homme;spark;Jamais
+369;Data Scientist;Un homme;spss;Jamais
+369;Data Scientist;Un homme;c_java;Jamais
+369;Data Scientist;Un homme;datastudio;Jamais
+369;Data Scientist;Un homme;matlab;Jamais
+370;Data Engineer;Une femme;python;Régulièrement
+370;Data Engineer;Une femme;r;Jamais
+370;Data Engineer;Une femme;sas;Occasionnellement
+370;Data Engineer;Une femme;powerBI;Jamais
+370;Data Engineer;Une femme;tableau;Jamais
+370;Data Engineer;Une femme;qlik;Jamais
+370;Data Engineer;Une femme;excel;Occasionnellement
+370;Data Engineer;Une femme;sql;Occasionnellement
+370;Data Engineer;Une femme;spark;Régulièrement
+370;Data Engineer;Une femme;spss;Jamais
+370;Data Engineer;Une femme;c_java;Jamais
+370;Data Engineer;Une femme;datastudio;Jamais
+370;Data Engineer;Une femme;matlab;Jamais
+371;Data Engineer;Un homme;python;Régulièrement
+371;Data Engineer;Un homme;r;Jamais
+371;Data Engineer;Un homme;sas;Jamais
+371;Data Engineer;Un homme;powerBI;Jamais
+371;Data Engineer;Un homme;tableau;Jamais
+371;Data Engineer;Un homme;qlik;Jamais
+371;Data Engineer;Un homme;excel;Occasionnellement
+371;Data Engineer;Un homme;sql;Régulièrement
+371;Data Engineer;Un homme;spark;Jamais
+371;Data Engineer;Un homme;spss;Jamais
+371;Data Engineer;Un homme;c_java;Jamais
+371;Data Engineer;Un homme;datastudio;Jamais
+371;Data Engineer;Un homme;matlab;Jamais
+372;Data Scientist;Un homme;python;Occasionnellement
+372;Data Scientist;Un homme;r;Régulièrement
+372;Data Scientist;Un homme;sas;Jamais
+372;Data Scientist;Un homme;powerBI;Occasionnellement
+372;Data Scientist;Un homme;tableau;Jamais
+372;Data Scientist;Un homme;qlik;Jamais
+372;Data Scientist;Un homme;excel;Régulièrement
+372;Data Scientist;Un homme;sql;Jamais
+372;Data Scientist;Un homme;spark;Jamais
+372;Data Scientist;Un homme;spss;Jamais
+372;Data Scientist;Un homme;c_java;Jamais
+372;Data Scientist;Un homme;datastudio;Jamais
+372;Data Scientist;Un homme;matlab;Jamais
+373;Data Analyst;NA;python;Jamais
+373;Data Analyst;NA;r;Jamais
+373;Data Analyst;NA;sas;Jamais
+373;Data Analyst;NA;powerBI;Jamais
+373;Data Analyst;NA;tableau;Jamais
+373;Data Analyst;NA;qlik;Jamais
+373;Data Analyst;NA;excel;Jamais
+373;Data Analyst;NA;sql;Jamais
+373;Data Analyst;NA;spark;Jamais
+373;Data Analyst;NA;spss;Jamais
+373;Data Analyst;NA;c_java;Jamais
+373;Data Analyst;NA;datastudio;Jamais
+373;Data Analyst;NA;matlab;Jamais
+374;Data Analyst;NA;python;Jamais
+374;Data Analyst;NA;r;Jamais
+374;Data Analyst;NA;sas;Jamais
+374;Data Analyst;NA;powerBI;Jamais
+374;Data Analyst;NA;tableau;Jamais
+374;Data Analyst;NA;qlik;Jamais
+374;Data Analyst;NA;excel;Jamais
+374;Data Analyst;NA;sql;Jamais
+374;Data Analyst;NA;spark;Jamais
+374;Data Analyst;NA;spss;Jamais
+374;Data Analyst;NA;c_java;Jamais
+374;Data Analyst;NA;datastudio;Jamais
+374;Data Analyst;NA;matlab;Jamais
+375;Data Scientist;Une femme;python;Régulièrement
+375;Data Scientist;Une femme;r;Régulièrement
+375;Data Scientist;Une femme;sas;Jamais
+375;Data Scientist;Une femme;powerBI;Jamais
+375;Data Scientist;Une femme;tableau;Occasionnellement
+375;Data Scientist;Une femme;qlik;Jamais
+375;Data Scientist;Une femme;excel;Occasionnellement
+375;Data Scientist;Une femme;sql;Jamais
+375;Data Scientist;Une femme;spark;Jamais
+375;Data Scientist;Une femme;spss;Jamais
+375;Data Scientist;Une femme;c_java;Jamais
+375;Data Scientist;Une femme;datastudio;Jamais
+375;Data Scientist;Une femme;matlab;Jamais
+376;Data Scientist;Un homme;python;Régulièrement
+376;Data Scientist;Un homme;r;Occasionnellement
+376;Data Scientist;Un homme;sas;Jamais
+376;Data Scientist;Un homme;powerBI;Jamais
+376;Data Scientist;Un homme;tableau;Occasionnellement
+376;Data Scientist;Un homme;qlik;Jamais
+376;Data Scientist;Un homme;excel;Régulièrement
+376;Data Scientist;Un homme;sql;Régulièrement
+376;Data Scientist;Un homme;spark;Jamais
+376;Data Scientist;Un homme;spss;Jamais
+376;Data Scientist;Un homme;c_java;Jamais
+376;Data Scientist;Un homme;datastudio;Jamais
+376;Data Scientist;Un homme;matlab;Jamais
+377;Data Analyst;NA;python;Occasionnellement
+377;Data Analyst;NA;r;Régulièrement
+377;Data Analyst;NA;sas;Jamais
+377;Data Analyst;NA;powerBI;Jamais
+377;Data Analyst;NA;tableau;Jamais
+377;Data Analyst;NA;qlik;Jamais
+377;Data Analyst;NA;excel;Occasionnellement
+377;Data Analyst;NA;sql;Jamais
+377;Data Analyst;NA;spark;Jamais
+377;Data Analyst;NA;spss;Jamais
+377;Data Analyst;NA;c_java;Jamais
+377;Data Analyst;NA;datastudio;Jamais
+377;Data Analyst;NA;matlab;Jamais
+378;Data Analyst;Une femme;python;Occasionnellement
+378;Data Analyst;Une femme;r;Jamais
+378;Data Analyst;Une femme;sas;Régulièrement
+378;Data Analyst;Une femme;powerBI;Jamais
+378;Data Analyst;Une femme;tableau;Jamais
+378;Data Analyst;Une femme;qlik;Jamais
+378;Data Analyst;Une femme;excel;Régulièrement
+378;Data Analyst;Une femme;sql;Régulièrement
+378;Data Analyst;Une femme;spark;Jamais
+378;Data Analyst;Une femme;spss;Jamais
+378;Data Analyst;Une femme;c_java;Jamais
+378;Data Analyst;Une femme;datastudio;Jamais
+378;Data Analyst;Une femme;matlab;Jamais
+379;Data Analyst;Une femme;python;Occasionnellement
+379;Data Analyst;Une femme;r;Régulièrement
+379;Data Analyst;Une femme;sas;Jamais
+379;Data Analyst;Une femme;powerBI;Jamais
+379;Data Analyst;Une femme;tableau;Jamais
+379;Data Analyst;Une femme;qlik;Jamais
+379;Data Analyst;Une femme;excel;Occasionnellement
+379;Data Analyst;Une femme;sql;Jamais
+379;Data Analyst;Une femme;spark;Jamais
+379;Data Analyst;Une femme;spss;Jamais
+379;Data Analyst;Une femme;c_java;Jamais
+379;Data Analyst;Une femme;datastudio;Jamais
+379;Data Analyst;Une femme;matlab;Jamais
+380;Data Engineer;Une femme;python;Régulièrement
+380;Data Engineer;Une femme;r;Jamais
+380;Data Engineer;Une femme;sas;Jamais
+380;Data Engineer;Une femme;powerBI;Jamais
+380;Data Engineer;Une femme;tableau;Jamais
+380;Data Engineer;Une femme;qlik;Jamais
+380;Data Engineer;Une femme;excel;Jamais
+380;Data Engineer;Une femme;sql;Régulièrement
+380;Data Engineer;Une femme;spark;Jamais
+380;Data Engineer;Une femme;spss;Jamais
+380;Data Engineer;Une femme;c_java;Jamais
+380;Data Engineer;Une femme;datastudio;Régulièrement
+380;Data Engineer;Une femme;matlab;Jamais
+381;Data Analyst;NA;python;Régulièrement
+381;Data Analyst;NA;r;Occasionnellement
+381;Data Analyst;NA;sas;Jamais
+381;Data Analyst;NA;powerBI;Occasionnellement
+381;Data Analyst;NA;tableau;Occasionnellement
+381;Data Analyst;NA;qlik;Jamais
+381;Data Analyst;NA;excel;Occasionnellement
+381;Data Analyst;NA;sql;Régulièrement
+381;Data Analyst;NA;spark;Régulièrement
+381;Data Analyst;NA;spss;Jamais
+381;Data Analyst;NA;c_java;Jamais
+381;Data Analyst;NA;datastudio;Jamais
+381;Data Analyst;NA;matlab;Jamais
+382;Data Engineer;Une femme;python;Régulièrement
+382;Data Engineer;Une femme;r;Occasionnellement
+382;Data Engineer;Une femme;sas;Jamais
+382;Data Engineer;Une femme;powerBI;Occasionnellement
+382;Data Engineer;Une femme;tableau;Jamais
+382;Data Engineer;Une femme;qlik;Jamais
+382;Data Engineer;Une femme;excel;Régulièrement
+382;Data Engineer;Une femme;sql;Régulièrement
+382;Data Engineer;Une femme;spark;Occasionnellement
+382;Data Engineer;Une femme;spss;Jamais
+382;Data Engineer;Une femme;c_java;Jamais
+382;Data Engineer;Une femme;datastudio;Jamais
+382;Data Engineer;Une femme;matlab;Jamais
+383;Data Analyst;NA;python;Occasionnellement
+383;Data Analyst;NA;r;Occasionnellement
+383;Data Analyst;NA;sas;Occasionnellement
+383;Data Analyst;NA;powerBI;Occasionnellement
+383;Data Analyst;NA;tableau;Jamais
+383;Data Analyst;NA;qlik;Jamais
+383;Data Analyst;NA;excel;Régulièrement
+383;Data Analyst;NA;sql;Régulièrement
+383;Data Analyst;NA;spark;Jamais
+383;Data Analyst;NA;spss;Jamais
+383;Data Analyst;NA;c_java;Jamais
+383;Data Analyst;NA;datastudio;Occasionnellement
+383;Data Analyst;NA;matlab;Jamais
+384;Data Analyst;NA;python;Occasionnellement
+384;Data Analyst;NA;r;Jamais
+384;Data Analyst;NA;sas;Occasionnellement
+384;Data Analyst;NA;powerBI;Régulièrement
+384;Data Analyst;NA;tableau;Jamais
+384;Data Analyst;NA;qlik;Jamais
+384;Data Analyst;NA;excel;Régulièrement
+384;Data Analyst;NA;sql;Régulièrement
+384;Data Analyst;NA;spark;Jamais
+384;Data Analyst;NA;spss;Jamais
+384;Data Analyst;NA;c_java;Jamais
+384;Data Analyst;NA;datastudio;Jamais
+384;Data Analyst;NA;matlab;Jamais
+385;Data Analyst;Un homme;python;Jamais
+385;Data Analyst;Un homme;r;Jamais
+385;Data Analyst;Un homme;sas;Jamais
+385;Data Analyst;Un homme;powerBI;Occasionnellement
+385;Data Analyst;Un homme;tableau;Régulièrement
+385;Data Analyst;Un homme;qlik;Jamais
+385;Data Analyst;Un homme;excel;Occasionnellement
+385;Data Analyst;Un homme;sql;Régulièrement
+385;Data Analyst;Un homme;spark;Jamais
+385;Data Analyst;Un homme;spss;Jamais
+385;Data Analyst;Un homme;c_java;Jamais
+385;Data Analyst;Un homme;datastudio;Jamais
+385;Data Analyst;Un homme;matlab;Jamais
+386;Data Scientist;Un homme;python;Régulièrement
+386;Data Scientist;Un homme;r;Occasionnellement
+386;Data Scientist;Un homme;sas;Jamais
+386;Data Scientist;Un homme;powerBI;Jamais
+386;Data Scientist;Un homme;tableau;Jamais
+386;Data Scientist;Un homme;qlik;Occasionnellement
+386;Data Scientist;Un homme;excel;Régulièrement
+386;Data Scientist;Un homme;sql;Jamais
+386;Data Scientist;Un homme;spark;Régulièrement
+386;Data Scientist;Un homme;spss;Jamais
+386;Data Scientist;Un homme;c_java;Jamais
+386;Data Scientist;Un homme;datastudio;Jamais
+386;Data Scientist;Un homme;matlab;Jamais
+390;Data Analyst;Un homme;python;Jamais
+390;Data Analyst;Un homme;r;Jamais
+390;Data Analyst;Un homme;sas;Jamais
+390;Data Analyst;Un homme;powerBI;Jamais
+390;Data Analyst;Un homme;tableau;Jamais
+390;Data Analyst;Un homme;qlik;Régulièrement
+390;Data Analyst;Un homme;excel;Régulièrement
+390;Data Analyst;Un homme;sql;Régulièrement
+390;Data Analyst;Un homme;spark;Jamais
+390;Data Analyst;Un homme;spss;Jamais
+390;Data Analyst;Un homme;c_java;Jamais
+390;Data Analyst;Un homme;datastudio;Jamais
+390;Data Analyst;Un homme;matlab;Jamais
+391;Data Scientist;Un homme;python;Jamais
+391;Data Scientist;Un homme;r;Régulièrement
+391;Data Scientist;Un homme;sas;Régulièrement
+391;Data Scientist;Un homme;powerBI;Jamais
+391;Data Scientist;Un homme;tableau;Jamais
+391;Data Scientist;Un homme;qlik;Jamais
+391;Data Scientist;Un homme;excel;Régulièrement
+391;Data Scientist;Un homme;sql;Régulièrement
+391;Data Scientist;Un homme;spark;Jamais
+391;Data Scientist;Un homme;spss;Jamais
+391;Data Scientist;Un homme;c_java;Jamais
+391;Data Scientist;Un homme;datastudio;Jamais
+391;Data Scientist;Un homme;matlab;Jamais
+392;Data Analyst;Une femme;python;Jamais
+392;Data Analyst;Une femme;r;Régulièrement
+392;Data Analyst;Une femme;sas;Jamais
+392;Data Analyst;Une femme;powerBI;Occasionnellement
+392;Data Analyst;Une femme;tableau;Jamais
+392;Data Analyst;Une femme;qlik;Jamais
+392;Data Analyst;Une femme;excel;Occasionnellement
+392;Data Analyst;Une femme;sql;Jamais
+392;Data Analyst;Une femme;spark;Jamais
+392;Data Analyst;Une femme;spss;Jamais
+392;Data Analyst;Une femme;c_java;Jamais
+392;Data Analyst;Une femme;datastudio;Jamais
+392;Data Analyst;Une femme;matlab;Jamais
+393;Data Analyst;Un homme;python;Régulièrement
+393;Data Analyst;Un homme;r;Occasionnellement
+393;Data Analyst;Un homme;sas;Jamais
+393;Data Analyst;Un homme;powerBI;Occasionnellement
+393;Data Analyst;Un homme;tableau;Régulièrement
+393;Data Analyst;Un homme;qlik;Jamais
+393;Data Analyst;Un homme;excel;Régulièrement
+393;Data Analyst;Un homme;sql;Régulièrement
+393;Data Analyst;Un homme;spark;Jamais
+393;Data Analyst;Un homme;spss;Jamais
+393;Data Analyst;Un homme;c_java;Jamais
+393;Data Analyst;Un homme;datastudio;Jamais
+393;Data Analyst;Un homme;matlab;Jamais
+398;Data Analyst;Une femme;python;Occasionnellement
+398;Data Analyst;Une femme;r;Jamais
+398;Data Analyst;Une femme;sas;Jamais
+398;Data Analyst;Une femme;powerBI;Jamais
+398;Data Analyst;Une femme;tableau;Jamais
+398;Data Analyst;Une femme;qlik;Régulièrement
+398;Data Analyst;Une femme;excel;Régulièrement
+398;Data Analyst;Une femme;sql;Régulièrement
+398;Data Analyst;Une femme;spark;Jamais
+398;Data Analyst;Une femme;spss;Jamais
+398;Data Analyst;Une femme;c_java;Jamais
+398;Data Analyst;Une femme;datastudio;Jamais
+398;Data Analyst;Une femme;matlab;Jamais
+400;Data Scientist;NA;python;Régulièrement
+400;Data Scientist;NA;r;Occasionnellement
+400;Data Scientist;NA;sas;Jamais
+400;Data Scientist;NA;powerBI;Jamais
+400;Data Scientist;NA;tableau;Jamais
+400;Data Scientist;NA;qlik;Occasionnellement
+400;Data Scientist;NA;excel;Régulièrement
+400;Data Scientist;NA;sql;Jamais
+400;Data Scientist;NA;spark;Jamais
+400;Data Scientist;NA;spss;Jamais
+400;Data Scientist;NA;c_java;Jamais
+400;Data Scientist;NA;datastudio;Jamais
+400;Data Scientist;NA;matlab;Jamais
+401;Data Analyst;Une femme;python;Jamais
+401;Data Analyst;Une femme;r;Jamais
+401;Data Analyst;Une femme;sas;Jamais
+401;Data Analyst;Une femme;powerBI;Jamais
+401;Data Analyst;Une femme;tableau;Jamais
+401;Data Analyst;Une femme;qlik;Jamais
+401;Data Analyst;Une femme;excel;Jamais
+401;Data Analyst;Une femme;sql;Régulièrement
+401;Data Analyst;Une femme;spark;Jamais
+401;Data Analyst;Une femme;spss;Jamais
+401;Data Analyst;Une femme;c_java;Jamais
+401;Data Analyst;Une femme;datastudio;Régulièrement
+401;Data Analyst;Une femme;matlab;Jamais
+402;Data Engineer;Une femme;python;Occasionnellement
+402;Data Engineer;Une femme;r;Jamais
+402;Data Engineer;Une femme;sas;Jamais
+402;Data Engineer;Une femme;powerBI;Jamais
+402;Data Engineer;Une femme;tableau;Jamais
+402;Data Engineer;Une femme;qlik;Jamais
+402;Data Engineer;Une femme;excel;Jamais
+402;Data Engineer;Une femme;sql;Régulièrement
+402;Data Engineer;Une femme;spark;Régulièrement
+402;Data Engineer;Une femme;spss;Jamais
+402;Data Engineer;Une femme;c_java;Jamais
+402;Data Engineer;Une femme;datastudio;Jamais
+402;Data Engineer;Une femme;matlab;Jamais
+403;Data Scientist;Un homme;python;Régulièrement
+403;Data Scientist;Un homme;r;Jamais
+403;Data Scientist;Un homme;sas;Jamais
+403;Data Scientist;Un homme;powerBI;Jamais
+403;Data Scientist;Un homme;tableau;Jamais
+403;Data Scientist;Un homme;qlik;Jamais
+403;Data Scientist;Un homme;excel;Jamais
+403;Data Scientist;Un homme;sql;Occasionnellement
+403;Data Scientist;Un homme;spark;Jamais
+403;Data Scientist;Un homme;spss;Jamais
+403;Data Scientist;Un homme;c_java;Jamais
+403;Data Scientist;Un homme;datastudio;Jamais
+403;Data Scientist;Un homme;matlab;Jamais
+406;Data Analyst;NA;python;Jamais
+406;Data Analyst;NA;r;Jamais
+406;Data Analyst;NA;sas;Jamais
+406;Data Analyst;NA;powerBI;Occasionnellement
+406;Data Analyst;NA;tableau;Jamais
+406;Data Analyst;NA;qlik;Jamais
+406;Data Analyst;NA;excel;Occasionnellement
+406;Data Analyst;NA;sql;Jamais
+406;Data Analyst;NA;spark;Jamais
+406;Data Analyst;NA;spss;Jamais
+406;Data Analyst;NA;c_java;Jamais
+406;Data Analyst;NA;datastudio;Jamais
+406;Data Analyst;NA;matlab;Jamais
+407;Data Analyst;Un homme;python;Jamais
+407;Data Analyst;Un homme;r;Jamais
+407;Data Analyst;Un homme;sas;Jamais
+407;Data Analyst;Un homme;powerBI;Régulièrement
+407;Data Analyst;Un homme;tableau;Jamais
+407;Data Analyst;Un homme;qlik;Jamais
+407;Data Analyst;Un homme;excel;Régulièrement
+407;Data Analyst;Un homme;sql;Régulièrement
+407;Data Analyst;Un homme;spark;Jamais
+407;Data Analyst;Un homme;spss;Jamais
+407;Data Analyst;Un homme;c_java;Jamais
+407;Data Analyst;Un homme;datastudio;Jamais
+407;Data Analyst;Un homme;matlab;Jamais
+409;Data Analyst;Un homme;python;Régulièrement
+409;Data Analyst;Un homme;r;Occasionnellement
+409;Data Analyst;Un homme;sas;Jamais
+409;Data Analyst;Un homme;powerBI;Régulièrement
+409;Data Analyst;Un homme;tableau;Jamais
+409;Data Analyst;Un homme;qlik;Jamais
+409;Data Analyst;Un homme;excel;Jamais
+409;Data Analyst;Un homme;sql;Régulièrement
+409;Data Analyst;Un homme;spark;Jamais
+409;Data Analyst;Un homme;spss;Jamais
+409;Data Analyst;Un homme;c_java;Occasionnellement
+409;Data Analyst;Un homme;datastudio;Occasionnellement
+409;Data Analyst;Un homme;matlab;Jamais
+410;Data Analyst;Une femme;python;Occasionnellement
+410;Data Analyst;Une femme;r;Jamais
+410;Data Analyst;Une femme;sas;Jamais
+410;Data Analyst;Une femme;powerBI;Jamais
+410;Data Analyst;Une femme;tableau;Jamais
+410;Data Analyst;Une femme;qlik;Jamais
+410;Data Analyst;Une femme;excel;Occasionnellement
+410;Data Analyst;Une femme;sql;Jamais
+410;Data Analyst;Une femme;spark;Jamais
+410;Data Analyst;Une femme;spss;Jamais
+410;Data Analyst;Une femme;c_java;Jamais
+410;Data Analyst;Une femme;datastudio;Jamais
+410;Data Analyst;Une femme;matlab;Jamais
+413;Data Analyst;Un homme;python;Jamais
+413;Data Analyst;Un homme;r;Jamais
+413;Data Analyst;Un homme;sas;Jamais
+413;Data Analyst;Un homme;powerBI;Régulièrement
+413;Data Analyst;Un homme;tableau;Régulièrement
+413;Data Analyst;Un homme;qlik;Jamais
+413;Data Analyst;Un homme;excel;Régulièrement
+413;Data Analyst;Un homme;sql;Occasionnellement
+413;Data Analyst;Un homme;spark;Jamais
+413;Data Analyst;Un homme;spss;Jamais
+413;Data Analyst;Un homme;c_java;Jamais
+413;Data Analyst;Un homme;datastudio;Jamais
+413;Data Analyst;Un homme;matlab;Jamais
+419;Data Analyst;Un homme;python;Régulièrement
+419;Data Analyst;Un homme;r;Occasionnellement
+419;Data Analyst;Un homme;sas;Jamais
+419;Data Analyst;Un homme;powerBI;Régulièrement
+419;Data Analyst;Un homme;tableau;Jamais
+419;Data Analyst;Un homme;qlik;Jamais
+419;Data Analyst;Un homme;excel;Régulièrement
+419;Data Analyst;Un homme;sql;Occasionnellement
+419;Data Analyst;Un homme;spark;Jamais
+419;Data Analyst;Un homme;spss;Jamais
+419;Data Analyst;Un homme;c_java;Jamais
+419;Data Analyst;Un homme;datastudio;Jamais
+419;Data Analyst;Un homme;matlab;Jamais
+422;Data Scientist;NA;python;Occasionnellement
+422;Data Scientist;NA;r;Occasionnellement
+422;Data Scientist;NA;sas;Jamais
+422;Data Scientist;NA;powerBI;Occasionnellement
+422;Data Scientist;NA;tableau;Jamais
+422;Data Scientist;NA;qlik;Jamais
+422;Data Scientist;NA;excel;Régulièrement
+422;Data Scientist;NA;sql;Jamais
+422;Data Scientist;NA;spark;Jamais
+422;Data Scientist;NA;spss;Jamais
+422;Data Scientist;NA;c_java;Jamais
+422;Data Scientist;NA;datastudio;Jamais
+422;Data Scientist;NA;matlab;Jamais
+424;Data Analyst;Un homme;python;Régulièrement
+424;Data Analyst;Un homme;r;Jamais
+424;Data Analyst;Un homme;sas;Jamais
+424;Data Analyst;Un homme;powerBI;Occasionnellement
+424;Data Analyst;Un homme;tableau;Jamais
+424;Data Analyst;Un homme;qlik;Jamais
+424;Data Analyst;Un homme;excel;Jamais
+424;Data Analyst;Un homme;sql;Régulièrement
+424;Data Analyst;Un homme;spark;Jamais
+424;Data Analyst;Un homme;spss;Jamais
+424;Data Analyst;Un homme;c_java;Jamais
+424;Data Analyst;Un homme;datastudio;Jamais
+424;Data Analyst;Un homme;matlab;Jamais
+425;Data Analyst;Un homme;python;Régulièrement
+425;Data Analyst;Un homme;r;Jamais
+425;Data Analyst;Un homme;sas;Jamais
+425;Data Analyst;Un homme;powerBI;Régulièrement
+425;Data Analyst;Un homme;tableau;Régulièrement
+425;Data Analyst;Un homme;qlik;Jamais
+425;Data Analyst;Un homme;excel;Régulièrement
+425;Data Analyst;Un homme;sql;Occasionnellement
+425;Data Analyst;Un homme;spark;Jamais
+425;Data Analyst;Un homme;spss;Jamais
+425;Data Analyst;Un homme;c_java;Jamais
+425;Data Analyst;Un homme;datastudio;Jamais
+425;Data Analyst;Un homme;matlab;Jamais
+427;Data Scientist;Une femme;python;Régulièrement
+427;Data Scientist;Une femme;r;Jamais
+427;Data Scientist;Une femme;sas;Jamais
+427;Data Scientist;Une femme;powerBI;Jamais
+427;Data Scientist;Une femme;tableau;Jamais
+427;Data Scientist;Une femme;qlik;Jamais
+427;Data Scientist;Une femme;excel;Occasionnellement
+427;Data Scientist;Une femme;sql;Occasionnellement
+427;Data Scientist;Une femme;spark;Jamais
+427;Data Scientist;Une femme;spss;Jamais
+427;Data Scientist;Une femme;c_java;Jamais
+427;Data Scientist;Une femme;datastudio;Occasionnellement
+427;Data Scientist;Une femme;matlab;Régulièrement
+429;Data Analyst;Un homme;python;Régulièrement
+429;Data Analyst;Un homme;r;Jamais
+429;Data Analyst;Un homme;sas;Jamais
+429;Data Analyst;Un homme;powerBI;Régulièrement
+429;Data Analyst;Un homme;tableau;Jamais
+429;Data Analyst;Un homme;qlik;Jamais
+429;Data Analyst;Un homme;excel;Occasionnellement
+429;Data Analyst;Un homme;sql;Régulièrement
+429;Data Analyst;Un homme;spark;Jamais
+429;Data Analyst;Un homme;spss;Jamais
+429;Data Analyst;Un homme;c_java;Jamais
+429;Data Analyst;Un homme;datastudio;Occasionnellement
+429;Data Analyst;Un homme;matlab;Jamais
+432;Data Scientist;Une femme;python;Régulièrement
+432;Data Scientist;Une femme;r;Jamais
+432;Data Scientist;Une femme;sas;Jamais
+432;Data Scientist;Une femme;powerBI;Jamais
+432;Data Scientist;Une femme;tableau;Jamais
+432;Data Scientist;Une femme;qlik;Occasionnellement
+432;Data Scientist;Une femme;excel;Jamais
+432;Data Scientist;Une femme;sql;Occasionnellement
+432;Data Scientist;Une femme;spark;Jamais
+432;Data Scientist;Une femme;spss;Jamais
+432;Data Scientist;Une femme;c_java;Jamais
+432;Data Scientist;Une femme;datastudio;Jamais
+432;Data Scientist;Une femme;matlab;Jamais
+433;Data Engineer;NA;python;Régulièrement
+433;Data Engineer;NA;r;Jamais
+433;Data Engineer;NA;sas;Jamais
+433;Data Engineer;NA;powerBI;Occasionnellement
+433;Data Engineer;NA;tableau;Occasionnellement
+433;Data Engineer;NA;qlik;Jamais
+433;Data Engineer;NA;excel;Jamais
+433;Data Engineer;NA;sql;Régulièrement
+433;Data Engineer;NA;spark;Occasionnellement
+433;Data Engineer;NA;spss;Jamais
+433;Data Engineer;NA;c_java;Jamais
+433;Data Engineer;NA;datastudio;Jamais
+433;Data Engineer;NA;matlab;Jamais
+434;Data Analyst;Un homme;python;Régulièrement
+434;Data Analyst;Un homme;r;Jamais
+434;Data Analyst;Un homme;sas;Occasionnellement
+434;Data Analyst;Un homme;powerBI;Régulièrement
+434;Data Analyst;Un homme;tableau;Régulièrement
+434;Data Analyst;Un homme;qlik;Jamais
+434;Data Analyst;Un homme;excel;Régulièrement
+434;Data Analyst;Un homme;sql;Régulièrement
+434;Data Analyst;Un homme;spark;Jamais
+434;Data Analyst;Un homme;spss;Jamais
+434;Data Analyst;Un homme;c_java;Jamais
+434;Data Analyst;Un homme;datastudio;Jamais
+434;Data Analyst;Un homme;matlab;Jamais
+435;Data Scientist;Un homme;python;Régulièrement
+435;Data Scientist;Un homme;r;Jamais
+435;Data Scientist;Un homme;sas;Jamais
+435;Data Scientist;Un homme;powerBI;Jamais
+435;Data Scientist;Un homme;tableau;Jamais
+435;Data Scientist;Un homme;qlik;Jamais
+435;Data Scientist;Un homme;excel;Occasionnellement
+435;Data Scientist;Un homme;sql;Jamais
+435;Data Scientist;Un homme;spark;Jamais
+435;Data Scientist;Un homme;spss;Jamais
+435;Data Scientist;Un homme;c_java;Jamais
+435;Data Scientist;Un homme;datastudio;Jamais
+435;Data Scientist;Un homme;matlab;Jamais
+438;Data Scientist;Un homme;python;Régulièrement
+438;Data Scientist;Un homme;r;Occasionnellement
+438;Data Scientist;Un homme;sas;Jamais
+438;Data Scientist;Un homme;powerBI;Jamais
+438;Data Scientist;Un homme;tableau;Régulièrement
+438;Data Scientist;Un homme;qlik;Jamais
+438;Data Scientist;Un homme;excel;Régulièrement
+438;Data Scientist;Un homme;sql;Régulièrement
+438;Data Scientist;Un homme;spark;Jamais
+438;Data Scientist;Un homme;spss;Jamais
+438;Data Scientist;Un homme;c_java;Jamais
+438;Data Scientist;Un homme;datastudio;Jamais
+438;Data Scientist;Un homme;matlab;Jamais
+440;Data Engineer;NA;python;Régulièrement
+440;Data Engineer;NA;r;Jamais
+440;Data Engineer;NA;sas;Jamais
+440;Data Engineer;NA;powerBI;Occasionnellement
+440;Data Engineer;NA;tableau;Jamais
+440;Data Engineer;NA;qlik;Jamais
+440;Data Engineer;NA;excel;Occasionnellement
+440;Data Engineer;NA;sql;Régulièrement
+440;Data Engineer;NA;spark;Régulièrement
+440;Data Engineer;NA;spss;Jamais
+440;Data Engineer;NA;c_java;Jamais
+440;Data Engineer;NA;datastudio;Jamais
+440;Data Engineer;NA;matlab;Jamais
+441;Data Scientist;Un homme;python;Jamais
+441;Data Scientist;Un homme;r;Régulièrement
+441;Data Scientist;Un homme;sas;Jamais
+441;Data Scientist;Un homme;powerBI;Jamais
+441;Data Scientist;Un homme;tableau;Jamais
+441;Data Scientist;Un homme;qlik;Jamais
+441;Data Scientist;Un homme;excel;Occasionnellement
+441;Data Scientist;Un homme;sql;Régulièrement
+441;Data Scientist;Un homme;spark;Jamais
+441;Data Scientist;Un homme;spss;Jamais
+441;Data Scientist;Un homme;c_java;Jamais
+441;Data Scientist;Un homme;datastudio;Jamais
+441;Data Scientist;Un homme;matlab;Jamais
+444;Data Scientist;NA;python;Régulièrement
+444;Data Scientist;NA;r;Jamais
+444;Data Scientist;NA;sas;Jamais
+444;Data Scientist;NA;powerBI;Jamais
+444;Data Scientist;NA;tableau;Jamais
+444;Data Scientist;NA;qlik;Jamais
+444;Data Scientist;NA;excel;Régulièrement
+444;Data Scientist;NA;sql;Occasionnellement
+444;Data Scientist;NA;spark;Jamais
+444;Data Scientist;NA;spss;Jamais
+444;Data Scientist;NA;c_java;Jamais
+444;Data Scientist;NA;datastudio;Jamais
+444;Data Scientist;NA;matlab;Jamais
+445;Data Scientist;Un homme;python;Régulièrement
+445;Data Scientist;Un homme;r;Jamais
+445;Data Scientist;Un homme;sas;Jamais
+445;Data Scientist;Un homme;powerBI;Jamais
+445;Data Scientist;Un homme;tableau;Occasionnellement
+445;Data Scientist;Un homme;qlik;Jamais
+445;Data Scientist;Un homme;excel;Jamais
+445;Data Scientist;Un homme;sql;Occasionnellement
+445;Data Scientist;Un homme;spark;Occasionnellement
+445;Data Scientist;Un homme;spss;Jamais
+445;Data Scientist;Un homme;c_java;Jamais
+445;Data Scientist;Un homme;datastudio;Jamais
+445;Data Scientist;Un homme;matlab;Jamais
+446;Data Analyst;Un homme;python;Jamais
+446;Data Analyst;Un homme;r;Jamais
+446;Data Analyst;Un homme;sas;Régulièrement
+446;Data Analyst;Un homme;powerBI;Jamais
+446;Data Analyst;Un homme;tableau;Régulièrement
+446;Data Analyst;Un homme;qlik;Jamais
+446;Data Analyst;Un homme;excel;Régulièrement
+446;Data Analyst;Un homme;sql;Régulièrement
+446;Data Analyst;Un homme;spark;Jamais
+446;Data Analyst;Un homme;spss;Jamais
+446;Data Analyst;Un homme;c_java;Jamais
+446;Data Analyst;Un homme;datastudio;Jamais
+446;Data Analyst;Un homme;matlab;Jamais
+449;Data Analyst;Une femme;python;Régulièrement
+449;Data Analyst;Une femme;r;Jamais
+449;Data Analyst;Une femme;sas;Jamais
+449;Data Analyst;Une femme;powerBI;Jamais
+449;Data Analyst;Une femme;tableau;Régulièrement
+449;Data Analyst;Une femme;qlik;Jamais
+449;Data Analyst;Une femme;excel;Occasionnellement
+449;Data Analyst;Une femme;sql;Régulièrement
+449;Data Analyst;Une femme;spark;Occasionnellement
+449;Data Analyst;Une femme;spss;Jamais
+449;Data Analyst;Une femme;c_java;Jamais
+449;Data Analyst;Une femme;datastudio;Jamais
+449;Data Analyst;Une femme;matlab;Jamais
+450;Data Analyst;Une femme;python;Occasionnellement
+450;Data Analyst;Une femme;r;Régulièrement
+450;Data Analyst;Une femme;sas;Jamais
+450;Data Analyst;Une femme;powerBI;Occasionnellement
+450;Data Analyst;Une femme;tableau;Jamais
+450;Data Analyst;Une femme;qlik;Jamais
+450;Data Analyst;Une femme;excel;Occasionnellement
+450;Data Analyst;Une femme;sql;Régulièrement
+450;Data Analyst;Une femme;spark;Jamais
+450;Data Analyst;Une femme;spss;Jamais
+450;Data Analyst;Une femme;c_java;Jamais
+450;Data Analyst;Une femme;datastudio;Jamais
+450;Data Analyst;Une femme;matlab;Jamais
+451;Data Analyst;NA;python;Régulièrement
+451;Data Analyst;NA;r;Jamais
+451;Data Analyst;NA;sas;Jamais
+451;Data Analyst;NA;powerBI;Occasionnellement
+451;Data Analyst;NA;tableau;Régulièrement
+451;Data Analyst;NA;qlik;Jamais
+451;Data Analyst;NA;excel;Régulièrement
+451;Data Analyst;NA;sql;Régulièrement
+451;Data Analyst;NA;spark;Occasionnellement
+451;Data Analyst;NA;spss;Jamais
+451;Data Analyst;NA;c_java;Jamais
+451;Data Analyst;NA;datastudio;Jamais
+451;Data Analyst;NA;matlab;Jamais
+458;Data Scientist;Un homme;python;Régulièrement
+458;Data Scientist;Un homme;r;Occasionnellement
+458;Data Scientist;Un homme;sas;Jamais
+458;Data Scientist;Un homme;powerBI;Jamais
+458;Data Scientist;Un homme;tableau;Jamais
+458;Data Scientist;Un homme;qlik;Jamais
+458;Data Scientist;Un homme;excel;Occasionnellement
+458;Data Scientist;Un homme;sql;Occasionnellement
+458;Data Scientist;Un homme;spark;Jamais
+458;Data Scientist;Un homme;spss;Jamais
+458;Data Scientist;Un homme;c_java;Jamais
+458;Data Scientist;Un homme;datastudio;Jamais
+458;Data Scientist;Un homme;matlab;Jamais
+459;Data Scientist;NA;python;Régulièrement
+459;Data Scientist;NA;r;Jamais
+459;Data Scientist;NA;sas;Régulièrement
+459;Data Scientist;NA;powerBI;Jamais
+459;Data Scientist;NA;tableau;Jamais
+459;Data Scientist;NA;qlik;Jamais
+459;Data Scientist;NA;excel;Régulièrement
+459;Data Scientist;NA;sql;Occasionnellement
+459;Data Scientist;NA;spark;Jamais
+459;Data Scientist;NA;spss;Jamais
+459;Data Scientist;NA;c_java;Jamais
+459;Data Scientist;NA;datastudio;Jamais
+459;Data Scientist;NA;matlab;Jamais
+460;Data Scientist;Une femme;python;Régulièrement
+460;Data Scientist;Une femme;r;Jamais
+460;Data Scientist;Une femme;sas;Régulièrement
+460;Data Scientist;Une femme;powerBI;Jamais
+460;Data Scientist;Une femme;tableau;Jamais
+460;Data Scientist;Une femme;qlik;Jamais
+460;Data Scientist;Une femme;excel;Régulièrement
+460;Data Scientist;Une femme;sql;Occasionnellement
+460;Data Scientist;Une femme;spark;Jamais
+460;Data Scientist;Une femme;spss;Jamais
+460;Data Scientist;Une femme;c_java;Jamais
+460;Data Scientist;Une femme;datastudio;Jamais
+460;Data Scientist;Une femme;matlab;Jamais
+461;Data Scientist;Un homme;python;Régulièrement
+461;Data Scientist;Un homme;r;Occasionnellement
+461;Data Scientist;Un homme;sas;Jamais
+461;Data Scientist;Un homme;powerBI;Jamais
+461;Data Scientist;Un homme;tableau;Jamais
+461;Data Scientist;Un homme;qlik;Jamais
+461;Data Scientist;Un homme;excel;Régulièrement
+461;Data Scientist;Un homme;sql;Jamais
+461;Data Scientist;Un homme;spark;Jamais
+461;Data Scientist;Un homme;spss;Jamais
+461;Data Scientist;Un homme;c_java;Jamais
+461;Data Scientist;Un homme;datastudio;Jamais
+461;Data Scientist;Un homme;matlab;Jamais
+463;Data Analyst;NA;python;Occasionnellement
+463;Data Analyst;NA;r;Jamais
+463;Data Analyst;NA;sas;Jamais
+463;Data Analyst;NA;powerBI;Régulièrement
+463;Data Analyst;NA;tableau;Jamais
+463;Data Analyst;NA;qlik;Jamais
+463;Data Analyst;NA;excel;Régulièrement
+463;Data Analyst;NA;sql;Régulièrement
+463;Data Analyst;NA;spark;Jamais
+463;Data Analyst;NA;spss;Jamais
+463;Data Analyst;NA;c_java;Jamais
+463;Data Analyst;NA;datastudio;Occasionnellement
+463;Data Analyst;NA;matlab;Jamais
+464;Data Analyst;Un homme;python;Occasionnellement
+464;Data Analyst;Un homme;r;Jamais
+464;Data Analyst;Un homme;sas;Jamais
+464;Data Analyst;Un homme;powerBI;Régulièrement
+464;Data Analyst;Un homme;tableau;Jamais
+464;Data Analyst;Un homme;qlik;Jamais
+464;Data Analyst;Un homme;excel;Régulièrement
+464;Data Analyst;Un homme;sql;Régulièrement
+464;Data Analyst;Un homme;spark;Jamais
+464;Data Analyst;Un homme;spss;Jamais
+464;Data Analyst;Un homme;c_java;Jamais
+464;Data Analyst;Un homme;datastudio;Occasionnellement
+464;Data Analyst;Un homme;matlab;Jamais
+465;Data Scientist;Un homme;python;Régulièrement
+465;Data Scientist;Un homme;r;Jamais
+465;Data Scientist;Un homme;sas;Jamais
+465;Data Scientist;Un homme;powerBI;Jamais
+465;Data Scientist;Un homme;tableau;Jamais
+465;Data Scientist;Un homme;qlik;Jamais
+465;Data Scientist;Un homme;excel;Jamais
+465;Data Scientist;Un homme;sql;Occasionnellement
+465;Data Scientist;Un homme;spark;Jamais
+465;Data Scientist;Un homme;spss;Jamais
+465;Data Scientist;Un homme;c_java;Jamais
+465;Data Scientist;Un homme;datastudio;Jamais
+465;Data Scientist;Un homme;matlab;Jamais
+467;Data Analyst;Une femme;python;Jamais
+467;Data Analyst;Une femme;r;Jamais
+467;Data Analyst;Une femme;sas;Jamais
+467;Data Analyst;Une femme;powerBI;Occasionnellement
+467;Data Analyst;Une femme;tableau;Jamais
+467;Data Analyst;Une femme;qlik;Jamais
+467;Data Analyst;Une femme;excel;Régulièrement
+467;Data Analyst;Une femme;sql;Jamais
+467;Data Analyst;Une femme;spark;Jamais
+467;Data Analyst;Une femme;spss;Jamais
+467;Data Analyst;Une femme;c_java;Jamais
+467;Data Analyst;Une femme;datastudio;Jamais
+467;Data Analyst;Une femme;matlab;Jamais
+469;Data Engineer;Un homme;python;Régulièrement
+469;Data Engineer;Un homme;r;Jamais
+469;Data Engineer;Un homme;sas;Jamais
+469;Data Engineer;Un homme;powerBI;Jamais
+469;Data Engineer;Un homme;tableau;Occasionnellement
+469;Data Engineer;Un homme;qlik;Jamais
+469;Data Engineer;Un homme;excel;Occasionnellement
+469;Data Engineer;Un homme;sql;Occasionnellement
+469;Data Engineer;Un homme;spark;Jamais
+469;Data Engineer;Un homme;spss;Jamais
+469;Data Engineer;Un homme;c_java;Jamais
+469;Data Engineer;Un homme;datastudio;Jamais
+469;Data Engineer;Un homme;matlab;Jamais
+470;Data Scientist;Un homme;python;Régulièrement
+470;Data Scientist;Un homme;r;Jamais
+470;Data Scientist;Un homme;sas;Jamais
+470;Data Scientist;Un homme;powerBI;Jamais
+470;Data Scientist;Un homme;tableau;Jamais
+470;Data Scientist;Un homme;qlik;Jamais
+470;Data Scientist;Un homme;excel;Jamais
+470;Data Scientist;Un homme;sql;Occasionnellement
+470;Data Scientist;Un homme;spark;Occasionnellement
+470;Data Scientist;Un homme;spss;Jamais
+470;Data Scientist;Un homme;c_java;Jamais
+470;Data Scientist;Un homme;datastudio;Jamais
+470;Data Scientist;Un homme;matlab;Jamais
+472;Data Analyst;Un homme;python;Jamais
+472;Data Analyst;Un homme;r;Régulièrement
+472;Data Analyst;Un homme;sas;Jamais
+472;Data Analyst;Un homme;powerBI;Jamais
+472;Data Analyst;Un homme;tableau;Jamais
+472;Data Analyst;Un homme;qlik;Jamais
+472;Data Analyst;Un homme;excel;Régulièrement
+472;Data Analyst;Un homme;sql;Jamais
+472;Data Analyst;Un homme;spark;Jamais
+472;Data Analyst;Un homme;spss;Jamais
+472;Data Analyst;Un homme;c_java;Jamais
+472;Data Analyst;Un homme;datastudio;Jamais
+472;Data Analyst;Un homme;matlab;Jamais
+473;Data Engineer;Un homme;python;Régulièrement
+473;Data Engineer;Un homme;r;Jamais
+473;Data Engineer;Un homme;sas;Jamais
+473;Data Engineer;Un homme;powerBI;Jamais
+473;Data Engineer;Un homme;tableau;Jamais
+473;Data Engineer;Un homme;qlik;Jamais
+473;Data Engineer;Un homme;excel;Jamais
+473;Data Engineer;Un homme;sql;Régulièrement
+473;Data Engineer;Un homme;spark;Occasionnellement
+473;Data Engineer;Un homme;spss;Jamais
+473;Data Engineer;Un homme;c_java;Jamais
+473;Data Engineer;Un homme;datastudio;Jamais
+473;Data Engineer;Un homme;matlab;Jamais
+474;Data Analyst;Un homme;python;Jamais
+474;Data Analyst;Un homme;r;Régulièrement
+474;Data Analyst;Un homme;sas;Jamais
+474;Data Analyst;Un homme;powerBI;Jamais
+474;Data Analyst;Un homme;tableau;Jamais
+474;Data Analyst;Un homme;qlik;Jamais
+474;Data Analyst;Un homme;excel;Occasionnellement
+474;Data Analyst;Un homme;sql;Régulièrement
+474;Data Analyst;Un homme;spark;Jamais
+474;Data Analyst;Un homme;spss;Jamais
+474;Data Analyst;Un homme;c_java;Jamais
+474;Data Analyst;Un homme;datastudio;Jamais
+474;Data Analyst;Un homme;matlab;Jamais
+476;Data Engineer;NA;python;Régulièrement
+476;Data Engineer;NA;r;Jamais
+476;Data Engineer;NA;sas;Jamais
+476;Data Engineer;NA;powerBI;Jamais
+476;Data Engineer;NA;tableau;Occasionnellement
+476;Data Engineer;NA;qlik;Jamais
+476;Data Engineer;NA;excel;Jamais
+476;Data Engineer;NA;sql;Régulièrement
+476;Data Engineer;NA;spark;Régulièrement
+476;Data Engineer;NA;spss;Jamais
+476;Data Engineer;NA;c_java;Jamais
+476;Data Engineer;NA;datastudio;Jamais
+476;Data Engineer;NA;matlab;Jamais
+477;Data Scientist;Une femme;python;Jamais
+477;Data Scientist;Une femme;r;Occasionnellement
+477;Data Scientist;Une femme;sas;Régulièrement
+477;Data Scientist;Une femme;powerBI;Jamais
+477;Data Scientist;Une femme;tableau;Jamais
+477;Data Scientist;Une femme;qlik;Jamais
+477;Data Scientist;Une femme;excel;Jamais
+477;Data Scientist;Une femme;sql;Jamais
+477;Data Scientist;Une femme;spark;Jamais
+477;Data Scientist;Une femme;spss;Jamais
+477;Data Scientist;Une femme;c_java;Jamais
+477;Data Scientist;Une femme;datastudio;Jamais
+477;Data Scientist;Une femme;matlab;Jamais
+480;Data Analyst;NA;python;Jamais
+480;Data Analyst;NA;r;Jamais
+480;Data Analyst;NA;sas;Jamais
+480;Data Analyst;NA;powerBI;Jamais
+480;Data Analyst;NA;tableau;Jamais
+480;Data Analyst;NA;qlik;Jamais
+480;Data Analyst;NA;excel;Jamais
+480;Data Analyst;NA;sql;Jamais
+480;Data Analyst;NA;spark;Jamais
+480;Data Analyst;NA;spss;Jamais
+480;Data Analyst;NA;c_java;Jamais
+480;Data Analyst;NA;datastudio;Jamais
+480;Data Analyst;NA;matlab;Jamais
+482;Data Analyst;Un homme;python;Régulièrement
+482;Data Analyst;Un homme;r;Jamais
+482;Data Analyst;Un homme;sas;Jamais
+482;Data Analyst;Un homme;powerBI;Régulièrement
+482;Data Analyst;Un homme;tableau;Jamais
+482;Data Analyst;Un homme;qlik;Jamais
+482;Data Analyst;Un homme;excel;Régulièrement
+482;Data Analyst;Un homme;sql;Jamais
+482;Data Analyst;Un homme;spark;Jamais
+482;Data Analyst;Un homme;spss;Jamais
+482;Data Analyst;Un homme;c_java;Jamais
+482;Data Analyst;Un homme;datastudio;Jamais
+482;Data Analyst;Un homme;matlab;Jamais
+483;Data Scientist;NA;python;Jamais
+483;Data Scientist;NA;r;Jamais
+483;Data Scientist;NA;sas;Jamais
+483;Data Scientist;NA;powerBI;Jamais
+483;Data Scientist;NA;tableau;Jamais
+483;Data Scientist;NA;qlik;Jamais
+483;Data Scientist;NA;excel;Jamais
+483;Data Scientist;NA;sql;Jamais
+483;Data Scientist;NA;spark;Jamais
+483;Data Scientist;NA;spss;Jamais
+483;Data Scientist;NA;c_java;Jamais
+483;Data Scientist;NA;datastudio;Jamais
+483;Data Scientist;NA;matlab;Jamais
+485;Data Scientist;Une femme;python;Occasionnellement
+485;Data Scientist;Une femme;r;Occasionnellement
+485;Data Scientist;Une femme;sas;Jamais
+485;Data Scientist;Une femme;powerBI;Occasionnellement
+485;Data Scientist;Une femme;tableau;Jamais
+485;Data Scientist;Une femme;qlik;Jamais
+485;Data Scientist;Une femme;excel;Régulièrement
+485;Data Scientist;Une femme;sql;Jamais
+485;Data Scientist;Une femme;spark;Jamais
+485;Data Scientist;Une femme;spss;Jamais
+485;Data Scientist;Une femme;c_java;Jamais
+485;Data Scientist;Une femme;datastudio;Jamais
+485;Data Scientist;Une femme;matlab;Jamais
+486;Data Analyst;Une femme;python;Régulièrement
+486;Data Analyst;Une femme;r;Jamais
+486;Data Analyst;Une femme;sas;Jamais
+486;Data Analyst;Une femme;powerBI;Régulièrement
+486;Data Analyst;Une femme;tableau;Jamais
+486;Data Analyst;Une femme;qlik;Jamais
+486;Data Analyst;Une femme;excel;Régulièrement
+486;Data Analyst;Une femme;sql;Jamais
+486;Data Analyst;Une femme;spark;Jamais
+486;Data Analyst;Une femme;spss;Jamais
+486;Data Analyst;Une femme;c_java;Jamais
+486;Data Analyst;Une femme;datastudio;Jamais
+486;Data Analyst;Une femme;matlab;Jamais
+487;Data Analyst;Une femme;python;Régulièrement
+487;Data Analyst;Une femme;r;Occasionnellement
+487;Data Analyst;Une femme;sas;Occasionnellement
+487;Data Analyst;Une femme;powerBI;Occasionnellement
+487;Data Analyst;Une femme;tableau;Jamais
+487;Data Analyst;Une femme;qlik;Jamais
+487;Data Analyst;Une femme;excel;Régulièrement
+487;Data Analyst;Une femme;sql;Occasionnellement
+487;Data Analyst;Une femme;spark;Jamais
+487;Data Analyst;Une femme;spss;Jamais
+487;Data Analyst;Une femme;c_java;Jamais
+487;Data Analyst;Une femme;datastudio;Jamais
+487;Data Analyst;Une femme;matlab;Jamais
+492;Data Analyst;Une femme;python;Régulièrement
+492;Data Analyst;Une femme;r;Occasionnellement
+492;Data Analyst;Une femme;sas;Régulièrement
+492;Data Analyst;Une femme;powerBI;Régulièrement
+492;Data Analyst;Une femme;tableau;Occasionnellement
+492;Data Analyst;Une femme;qlik;Occasionnellement
+492;Data Analyst;Une femme;excel;Régulièrement
+492;Data Analyst;Une femme;sql;Régulièrement
+492;Data Analyst;Une femme;spark;Occasionnellement
+492;Data Analyst;Une femme;spss;Régulièrement
+492;Data Analyst;Une femme;c_java;Jamais
+492;Data Analyst;Une femme;datastudio;Occasionnellement
+492;Data Analyst;Une femme;matlab;Jamais
+493;Data Analyst;Un homme;python;Occasionnellement
+493;Data Analyst;Un homme;r;Occasionnellement
+493;Data Analyst;Un homme;sas;Jamais
+493;Data Analyst;Un homme;powerBI;Régulièrement
+493;Data Analyst;Un homme;tableau;Jamais
+493;Data Analyst;Un homme;qlik;Jamais
+493;Data Analyst;Un homme;excel;Régulièrement
+493;Data Analyst;Un homme;sql;Régulièrement
+493;Data Analyst;Un homme;spark;Jamais
+493;Data Analyst;Un homme;spss;Jamais
+493;Data Analyst;Un homme;c_java;Jamais
+493;Data Analyst;Un homme;datastudio;Jamais
+493;Data Analyst;Un homme;matlab;Jamais
+494;Data Scientist;Un homme;python;Jamais
+494;Data Scientist;Un homme;r;Régulièrement
+494;Data Scientist;Un homme;sas;Jamais
+494;Data Scientist;Un homme;powerBI;Jamais
+494;Data Scientist;Un homme;tableau;Jamais
+494;Data Scientist;Un homme;qlik;Jamais
+494;Data Scientist;Un homme;excel;Occasionnellement
+494;Data Scientist;Un homme;sql;Occasionnellement
+494;Data Scientist;Un homme;spark;Jamais
+494;Data Scientist;Un homme;spss;Jamais
+494;Data Scientist;Un homme;c_java;Jamais
+494;Data Scientist;Un homme;datastudio;Jamais
+494;Data Scientist;Un homme;matlab;Jamais
+495;Data Scientist;NA;python;Régulièrement
+495;Data Scientist;NA;r;Jamais
+495;Data Scientist;NA;sas;Jamais
+495;Data Scientist;NA;powerBI;Jamais
+495;Data Scientist;NA;tableau;Jamais
+495;Data Scientist;NA;qlik;Jamais
+495;Data Scientist;NA;excel;Jamais
+495;Data Scientist;NA;sql;Jamais
+495;Data Scientist;NA;spark;Jamais
+495;Data Scientist;NA;spss;Jamais
+495;Data Scientist;NA;c_java;Jamais
+495;Data Scientist;NA;datastudio;Jamais
+495;Data Scientist;NA;matlab;Jamais
